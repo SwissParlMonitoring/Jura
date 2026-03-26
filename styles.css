@@ -2675,15 +2675,12 @@ a.author-row {
     background: #B00000;
 }
 
-/* Débats sur page élus - grille comme objets */
-.elus-section .results-list {
+/* Grille objets et débats sur page élus */
+.elus-section .results-list,
+.elus-section .results-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 1.25rem;
-}
-
-.elus-section .debate-card {
-    margin-bottom: 0;
 }
 
 .elus-section .card-meta {
@@ -2692,6 +2689,98 @@ a.author-row {
     align-items: center;
     gap: 0.5rem;
     margin-top: 0.5rem;
+}
+
+/* Badge parti inline */
+.card-party-badge {
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+/* Barre de filtres par élu */
+.elus-filter-bar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-bottom: 2rem;
+    padding: 1rem 1.25rem;
+    background: var(--card-bg);
+    border-radius: 10px;
+    border: 1px solid var(--border);
+}
+
+.filter-label {
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    white-space: nowrap;
+}
+
+.filter-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.filter-btn-elu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.1rem;
+    padding: 0.4rem 0.8rem;
+    border: 2px solid var(--elu-color, #999);
+    border-radius: 8px;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+    font-family: inherit;
+}
+
+.filter-btn-elu .filter-btn-name {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.filter-btn-elu .filter-btn-counts {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+}
+
+.filter-btn-elu:hover {
+    background: color-mix(in srgb, var(--elu-color, #999) 15%, transparent);
+}
+
+.filter-btn-elu.active {
+    background: var(--elu-color, #999);
+}
+
+.filter-btn-elu.active .filter-btn-name,
+.filter-btn-elu.active .filter-btn-counts {
+    color: white;
+}
+
+.filter-btn-reset {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.4rem 0.8rem;
+    border: 1.5px solid var(--text-secondary);
+    border-radius: 8px;
+    background: transparent;
+    color: var(--text-secondary);
+    cursor: pointer;
+    font-size: 0.82rem;
+    font-family: inherit;
+    transition: background 0.15s;
+}
+
+.filter-btn-reset:hover {
+    background: var(--border);
 }
 
 @media (max-width: 600px) {

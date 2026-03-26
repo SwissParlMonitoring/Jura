@@ -75,11 +75,14 @@
         </section>
 
         <section class="elus-section">
-            <h2>📜 Objets parlementaires déposés</h2>
-            <p class="section-subtitle">Motions, postulats, interpellations et questions déposés par nos élus</p>
-            <div class="elus-stats" id="objetsStats">
-                <span class="stat-loading">Chargement...</span>
+            <div class="elus-filter-bar" id="elusFilterBar">
+                <span class="filter-label">Filtrer par élu :</span>
+                <div id="elusFilterBtns" class="filter-btns"></div>
+                <button id="filterReset" class="filter-btn-reset" style="display:none;">✕ Tous</button>
             </div>
+
+            <h2>📜 Objets parlementaires déposés</h2>
+            <p class="section-subtitle" id="objetsCount"></p>
             <div class="results-grid" id="objetsResults">
                 <div class="loading">Chargement des objets...</div>
             </div>
@@ -88,10 +91,7 @@
 
         <section class="elus-section">
             <h2>💬 Interventions dans les débats</h2>
-            <p class="section-subtitle">Prises de parole de nos élus lors des sessions parlementaires</p>
-            <div class="elus-stats" id="debatsStats">
-                <span class="stat-loading">Chargement...</span>
-            </div>
+            <p class="section-subtitle" id="debatsCount"></p>
             <div class="results-list" id="debatsResults">
                 <div class="loading">Chargement des débats...</div>
             </div>

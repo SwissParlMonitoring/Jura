@@ -34,20 +34,26 @@ function translateParty(party) {
     return translations[party] || party;
 }
 
-// Traduction des auteurs (groupes parlementaires)
+// Traduction des auteurs (groupes parlementaires → parti)
 function translateAuthor(author) {
     if (!author || author === 'null' || author === 'None') return '';
     const translations = {
-        'Grüne Fraktion': 'Groupe des VERT-E-S',
-        'Fraktion der Schweizerischen Volkspartei': 'Groupe de l\'Union démocratique du centre',
-        'SVP-Fraktion': 'Groupe de l\'Union démocratique du centre',
-        'FDP-Liberale Fraktion': 'Groupe libéral-radical',
-        'Sozialdemokratische Fraktion': 'Groupe socialiste',
-        'Fraktion der Mitte': 'Groupe du Centre',
-        'Die Mitte-Fraktion. Die Mitte. EVP.': 'Groupe du Centre',
-        'Grünliberale Fraktion': 'Groupe vert\'libéral',
-        'Sicherheitspolitische Kommission Nationalrat': 'Commission de la politique de sécurité CN',
-        'Sicherheitspolitische Kommission Ständerat': 'Commission de la politique de sécurité CE'
+        'Grüne Fraktion': 'VERT-E-S',
+        'Fraktion der Schweizerischen Volkspartei': 'UDC',
+        'SVP-Fraktion': 'UDC',
+        'FDP-Liberale Fraktion': 'PLR',
+        'Sozialdemokratische Fraktion': 'PS',
+        'Fraktion der Mitte': 'Le Centre',
+        'Die Mitte-Fraktion. Die Mitte. EVP.': 'Le Centre',
+        'Grünliberale Fraktion': 'Vert\'libéraux',
+        'Groupe des VERT-E-S': 'VERT-E-S',
+        'Groupe de l\'Union démocratique du centre': 'UDC',
+        'Groupe libéral-radical': 'PLR',
+        'Groupe socialiste': 'PS',
+        'Groupe du Centre': 'Le Centre',
+        'Groupe vert\'libéral': 'Vert\'libéraux',
+        'Sicherheitspolitische Kommission Nationalrat': 'Commission sécurité CN',
+        'Sicherheitspolitische Kommission Ständerat': 'Commission sécurité CE'
     };
     return translations[author] || author;
 }

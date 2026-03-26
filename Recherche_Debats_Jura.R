@@ -236,6 +236,24 @@ if (!is.null(Debats_Tous) && nrow(Debats_Tous) > 0) {
     distinct(ID, .keep_all = TRUE)
 }
 
+# Exclure Baume-Schneider quand elle est conseillère fédérale, SAUF si elle mentionne le Jura
+# Elle est devenue CF le 1er janvier 2023
+cat("Filtrage des interventions de Baume-Schneider (CF)...\n")
+if (!is.null(Debats_Tous) && nrow(Debats_Tous) > 0) {
+  n_avant <- nrow(Debats_Tous)
+  Debats_Tous <- Debats_Tous |>
+    filter(
+      # Garder si ce n'est pas Baume-Schneider
+      !str_detect(SpeakerFullName, regex("Baume-Schneider|Baume Schneider", ignore_case = TRUE)) |
+      # OU si elle est parlementaire (pas CF) - avant 2023
+      MeetingDate < as.Date("2023-01-01") |
+      # OU si elle mentionne le Jura dans son intervention
+      str_detect(Text, regex("\\bjura\\b|jurassien|jurassienne", ignore_case = TRUE))
+    )
+  n_apres <- nrow(Debats_Tous)
+  cat("  -> Exclu:", n_avant - n_apres, "interventions de Baume-Schneider (CF) sans mention Jura\n")
+}
+
 cat("\nTotal débats scannés:", nrow(Debats_Tous), "\n")
 
 # En mode CI: fusionner avec les données existantes (autres sessions non scannées)

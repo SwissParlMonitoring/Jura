@@ -2783,6 +2783,20 @@ a.author-row {
     background: var(--border);
 }
 
+/* Carte élu active (filtre appliqué) */
+.elu-card-filter {
+    transition: box-shadow 0.15s, opacity 0.15s;
+}
+
+.elu-card-filter:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.elu-card-active {
+    box-shadow: 0 0 0 3px currentColor;
+    outline: 3px solid var(--primary);
+}
+
 @media (max-width: 600px) {
     .elus-grid {
         grid-template-columns: 1fr;

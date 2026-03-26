@@ -99,6 +99,7 @@ async function init() {
             .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
         buildFilterButtons();
+        setupEluCardClicks();
         applyFilter(null);
         setupLoadMore();
 
@@ -131,12 +132,31 @@ function buildFilterButtons() {
     document.getElementById('filterReset').addEventListener('click', () => applyFilter(null));
 }
 
+function setupEluCardClicks() {
+    document.querySelectorAll('.elu-card-filter').forEach(card => {
+        card.style.cursor = 'pointer';
+        card.addEventListener('click', () => {
+            const nom = card.dataset.nom;
+            if (activeElu === nom) {
+                applyFilter(null);
+            } else {
+                applyFilter(nom);
+                document.getElementById('elusFilterBar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    });
+}
+
 function applyFilter(eluNom) {
     activeElu = eluNom;
 
-    // Mettre à jour les boutons
+    // Mettre à jour les boutons de la barre
     document.querySelectorAll('.filter-btn-elu').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.nom === eluNom);
+    });
+    // Mettre à jour les cartes élus
+    document.querySelectorAll('.elu-card-filter').forEach(card => {
+        card.classList.toggle('elu-card-active', card.dataset.nom === eluNom);
     });
     document.getElementById('filterReset').style.display = eluNom ? 'inline-flex' : 'none';
 

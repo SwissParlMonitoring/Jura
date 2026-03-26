@@ -783,7 +783,7 @@ function displayDebatesSummary(debatesData, currentSession) {
         for (const debate of latestDebates) {
             const council = debate.council === 'N' ? 'CN' : 'CE';
             const councilLabel = debate.council === 'N' ? 'Conseil national' : 'Conseil des États';
-            const party = translateParty(debate.party);
+            const party = translateParty(debate.party) || 'Conseil fédéral';
             const partyColor = partyColors[party] || partyColors[debate.party] || '#6B7280';
             const title = debate.business_title_fr || 'Débat parlementaire';
             const businessNumber = debate.business_number || '';

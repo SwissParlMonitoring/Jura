@@ -4,6 +4,41 @@ const EXCEL_URL = 'Objets_parlementaires_Jura.xlsx';
 const INITIAL_ITEMS = 10;
 const ITEMS_PER_LOAD = 10;
 
+// Fonction pour détecter les thèmes mentionnés dans un objet
+function detectThemes(item) {
+    const themes = [];
+    const textToSearch = [
+        item.title || '',
+        item.title_de || '',
+        item.text || '',
+        item.text_de || ''
+    ].join(' ').toLowerCase();
+    
+    // Patterns de recherche
+    if (/\bjura\b/i.test(textToSearch)) {
+        themes.push('Jura');
+    }
+    if (/\bmoutier\b/i.test(textToSearch)) {
+        themes.push('Moutier');
+    }
+    if (/\b(rpt|nfa|finanzausgleich|péréquation\s*financière)\b/i.test(textToSearch)) {
+        themes.push('RPT');
+    }
+    
+    return themes;
+}
+
+// Générer les badges thématiques HTML
+function getThemeBadges(item) {
+    const themes = detectThemes(item);
+    if (themes.length === 0) return '';
+    
+    return themes.map(theme => {
+        const label = theme === 'RPT' ? 'RPT/NFA' : theme;
+        return `<span class="badge badge-theme badge-theme-${theme.toLowerCase()}">${label}</span>`;
+    }).join('');
+}
+
 // State
 let allData = [];
 let filteredData = [];
@@ -875,6 +910,7 @@ function createCard(item, searchTerm) {
                 <div class="card-badges">
                     <span class="badge badge-type">${translateType(item.type)}</span>
                     <span class="badge badge-council">${item.council === 'NR' ? 'CN' : 'CE'}</span>
+                    ${getThemeBadges(item)}
                     <span class="badge badge-mention" title="${mentionData.tooltip}">${mentionData.emojis}</span>
                 </div>
             </div>

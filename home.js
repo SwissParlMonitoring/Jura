@@ -59,6 +59,40 @@ function isTitleMissing(title) {
     return missing.includes(title.toLowerCase().trim());
 }
 
+// Fonction pour détecter les thèmes mentionnés dans un objet
+function detectThemes(item) {
+    const themes = [];
+    const textToSearch = [
+        item.title || '',
+        item.title_de || '',
+        item.text || '',
+        item.text_de || ''
+    ].join(' ').toLowerCase();
+    
+    if (/\bjura\b/i.test(textToSearch)) {
+        themes.push('Jura');
+    }
+    if (/\bmoutier\b/i.test(textToSearch)) {
+        themes.push('Moutier');
+    }
+    if (/\b(rpt|nfa|finanzausgleich|péréquation\s*financière)\b/i.test(textToSearch)) {
+        themes.push('RPT');
+    }
+    
+    return themes;
+}
+
+// Générer les badges thématiques HTML
+function getThemeBadges(item) {
+    const themes = detectThemes(item);
+    if (themes.length === 0) return '';
+    
+    return themes.map(theme => {
+        const label = theme === 'RPT' ? 'RPT/NFA' : theme;
+        return `<span class="badge badge-theme badge-theme-${theme.toLowerCase()}">${label}</span>`;
+    }).join('');
+}
+
 // Couleurs par type d'objet
 const typeColors = {
     'Mo.': '#3B82F6',      // Bleu
@@ -592,6 +626,7 @@ function displayNewObjectsDuringSession(allItems, newIds, activeSession) {
             <a href="${item.url_fr}" target="_blank" class="intervention-card${isNew ? ' card-new' : ''}">
                 <div class="card-header">
                     <span class="card-type">${typeLabels[type] || type}</span>
+                    ${getThemeBadges(item)}
                     <span class="card-id">${item.shortId}</span>
                 </div>
                 <div class="card-title">${displayTitle}</div>
@@ -659,6 +694,7 @@ function displayObjectsList(summary, newIds = [], allItems = []) {
             <a href="${interventions.url_fr[i]}" target="_blank" class="intervention-card${isNew ? ' card-new' : ''}">
                 <div class="card-header">
                     <span class="card-type">${typeLabels[type] || type}</span>
+                    ${itemData ? getThemeBadges(itemData) : ''}
                     <span class="card-id">${shortId}</span>
                 </div>
                 <div class="card-title">${displayTitle}</div>

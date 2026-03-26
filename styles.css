@@ -537,6 +537,24 @@ main {
     color: #c2185b;
 }
 
+.badge-theme {
+    background: #D00000;
+    color: white;
+    font-weight: 600;
+}
+
+.badge-theme-jura {
+    background: #D00000;
+}
+
+.badge-theme-moutier {
+    background: #1D5C9E;
+}
+
+.badge-theme-rpt {
+    background: #6B4C9A;
+}
+
 .badge-mention {
     background: #9e9e9e;
     color: white;

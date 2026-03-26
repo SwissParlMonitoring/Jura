@@ -1,6 +1,39 @@
 const INITIAL_ITEMS = 5;
 const ITEMS_PER_LOAD = 5;
 
+// Fonction pour détecter les thèmes mentionnés dans un débat
+function detectThemesDebate(item) {
+    const themes = [];
+    const textToSearch = [
+        item.text || '',
+        item.business_title_fr || '',
+        item.business_title_de || ''
+    ].join(' ').toLowerCase();
+    
+    if (/\bjura\b/i.test(textToSearch)) {
+        themes.push('Jura');
+    }
+    if (/\bmoutier\b/i.test(textToSearch)) {
+        themes.push('Moutier');
+    }
+    if (/\b(rpt|nfa|finanzausgleich|péréquation\s*financière)\b/i.test(textToSearch)) {
+        themes.push('RPT');
+    }
+    
+    return themes;
+}
+
+// Générer les badges thématiques HTML pour les débats
+function getThemeBadgesDebate(item) {
+    const themes = detectThemesDebate(item);
+    if (themes.length === 0) return '';
+    
+    return themes.map(theme => {
+        const label = theme === 'RPT' ? 'RPT/NFA' : theme;
+        return `<span class="badge badge-theme badge-theme-${theme.toLowerCase()}">${label}</span>`;
+    }).join('');
+}
+
 let allData = [];
 let filteredData = [];
 let displayedCount = 0;
@@ -821,6 +854,7 @@ function createCard(item, searchTerm = '') {
             ${businessNumberLink}
             <div class="card-badges">
                 <span class="badge badge-council">${councilDisplay}</span>
+                ${getThemeBadgesDebate(item)}
             </div>
         </div>
         <h3 class="card-title">${businessTitleLink}</h3>

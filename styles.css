@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
     --primary: #1D5C9E;
     --primary-dark: #D14A40;
@@ -18,7 +20,7 @@
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'PT Sans', sans-serif;
     background: var(--background);
     color: var(--text);
     line-height: 1.6;

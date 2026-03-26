@@ -38,12 +38,23 @@ body {
 
 /* Header */
 header {
-    background: #ffffff;
-    color: #1D5C9E;
+    background: linear-gradient(to right, #D00000 0%, #D00000 75%, #ffffff 100%);
+    color: white;
     padding: 1.5rem 0;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
     position: relative;
-    border-top: 4px solid #D00000;
+}
+
+header a {
+    color: white;
+}
+
+header nav a {
+    color: white;
+}
+
+header nav a:hover {
+    opacity: 0.8;
 }
 
 header h1 {

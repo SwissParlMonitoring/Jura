@@ -649,8 +649,10 @@ function displayNewObjectsDuringSession(allItems, newIds, activeSession) {
         html += `
             <a href="${item.url_fr}" target="_blank" class="intervention-card${isNew ? ' card-new' : ''}">
                 <div class="card-header">
-                    <span class="card-type">${typeLabels[type] || type}</span>
-                    ${getThemeBadges(item)}
+                    <div class="card-header-left">
+                        <span class="card-type">${typeLabels[type] || type}</span>
+                        ${getThemeBadges(item)}
+                    </div>
                     <span class="card-id">${item.shortId}</span>
                 </div>
                 <div class="card-title">${displayTitle}</div>
@@ -717,8 +719,10 @@ function displayObjectsList(summary, newIds = [], allItems = []) {
         html += `
             <a href="${interventions.url_fr[i]}" target="_blank" class="intervention-card${isNew ? ' card-new' : ''}">
                 <div class="card-header">
-                    <span class="card-type">${typeLabels[type] || type}</span>
-                    ${itemData ? getThemeBadges(itemData) : ''}
+                    <div class="card-header-left">
+                        <span class="card-type">${typeLabels[type] || type}</span>
+                        ${itemData ? getThemeBadges(itemData) : ''}
+                    </div>
                     <span class="card-id">${shortId}</span>
                 </div>
                 <div class="card-title">${displayTitle}</div>

@@ -548,22 +548,31 @@ main {
     color: #c2185b;
 }
 
+.card-header-left {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
 .badge-theme {
-    background: #D00000;
-    color: white;
+    background: transparent;
     font-weight: 600;
 }
 
 .badge-theme-jura {
-    background: #D00000;
+    color: #D00000;
+    border: 1.5px solid #D00000;
 }
 
 .badge-theme-moutier {
-    background: #1D5C9E;
+    color: #1D5C9E;
+    border: 1.5px solid #1D5C9E;
 }
 
 .badge-theme-rpt {
-    background: #6B4C9A;
+    color: #6B4C9A;
+    border: 1.5px solid #6B4C9A;
 }
 
 .badge-mention {

@@ -2683,12 +2683,23 @@ a.author-row {
     gap: 1.25rem;
 }
 
+/* Cartes en flex colonne pour aligner le footer en bas */
+.elus-section .card {
+    display: flex;
+    flex-direction: column;
+}
+
+.elus-section .card-title {
+    flex: 1;
+}
+
 .elus-section .card-meta {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     gap: 0.5rem;
-    margin-top: 0.5rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
 }
 
 /* Badge parti inline */

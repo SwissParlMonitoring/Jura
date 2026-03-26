@@ -3,8 +3,13 @@ const DATA_URL = 'jura_data.json';
 const DEBATES_URL = 'debates_data.json';
 const ITEMS_PER_PAGE = 6;
 
-// Élus jurassiens
-const ELUS_JURASSIENS = ['Juillard', 'Crevoisier', 'Stettler', 'Dobler'];
+// Élus jurassiens (noms complets pour éviter confusion, ex: Marcel Dobler ≠ Loïc Dobler)
+const ELUS_JURASSIENS = [
+    { nom: 'Juillard', prenom: 'Charles', pattern: /Charles\s+Juillard|Juillard\s+Charles/i },
+    { nom: 'Crevoisier', prenom: 'Mathilde', pattern: /Mathilde\s+Crevoisier|Crevoisier\s+(Crelier\s+)?Mathilde/i },
+    { nom: 'Stettler', prenom: 'Thomas', pattern: /Thomas\s+Stettler|Stettler\s+Thomas/i },
+    { nom: 'Dobler', prenom: 'Loïc', pattern: /Lo[iï]c\s+Dobler|Dobler\s+Lo[iï]c/i }
+];
 
 // State
 let allObjets = [];
@@ -52,17 +57,28 @@ function translateParty(party) {
     return translations[party] || party;
 }
 
-// Vérifier si c'est un élu jurassien
+// Vérifier si c'est un élu jurassien (par nom complet)
 function isEluJurassien(author) {
     if (!author) return false;
-    return ELUS_JURASSIENS.some(elu => author.includes(elu));
+    return ELUS_JURASSIENS.some(elu => elu.pattern.test(author));
 }
 
-// Vérifier si le speaker est jurassien
+// Vérifier si le speaker est jurassien (par canton JU uniquement pour les débats)
 function isSpeakerJurassien(speaker, canton) {
+    // Pour les débats, on utilise le canton JU comme critère principal
     if (canton === 'JU') return true;
+    // Fallback sur le nom si pas de canton
     if (!speaker) return false;
-    return ELUS_JURASSIENS.some(elu => speaker.includes(elu));
+    return ELUS_JURASSIENS.some(elu => elu.pattern.test(speaker));
+}
+
+// Trouver quel élu correspond
+function findElu(text) {
+    if (!text) return null;
+    for (const elu of ELUS_JURASSIENS) {
+        if (elu.pattern.test(text)) return elu;
+    }
+    return null;
 }
 
 // Initialisation
@@ -111,40 +127,37 @@ function updateStats() {
     
     // Stats objets par élu
     const objetsParElu = {};
-    ELUS_JURASSIENS.forEach(elu => objetsParElu[elu] = 0);
+    ELUS_JURASSIENS.forEach(elu => objetsParElu[elu.nom] = 0);
     filteredObjets.forEach(obj => {
-        ELUS_JURASSIENS.forEach(elu => {
-            if (obj.author && obj.author.includes(elu)) {
-                objetsParElu[elu]++;
-            }
-        });
+        const elu = findElu(obj.author);
+        if (elu) objetsParElu[elu.nom]++;
     });
     
     objetsStats.innerHTML = `
         <span class="stat-total">${filteredObjets.length} objets</span>
         <div class="stat-detail">
-            ${Object.entries(objetsParElu).map(([elu, count]) => 
-                `<span class="stat-elu">${elu}: ${count}</span>`
+            ${ELUS_JURASSIENS.map(elu => 
+                `<span class="stat-elu">${elu.prenom} ${elu.nom}: ${objetsParElu[elu.nom]}</span>`
             ).join('')}
         </div>
     `;
     
-    // Stats débats par élu
+    // Stats débats par élu (basé sur canton JU)
     const debatsParElu = {};
-    ELUS_JURASSIENS.forEach(elu => debatsParElu[elu] = 0);
+    ELUS_JURASSIENS.forEach(elu => debatsParElu[elu.nom] = 0);
     filteredDebats.forEach(debat => {
-        ELUS_JURASSIENS.forEach(elu => {
-            if (debat.speaker && debat.speaker.includes(elu)) {
-                debatsParElu[elu]++;
-            }
-        });
+        // Compter par speaker si on peut identifier l'élu
+        const elu = findElu(debat.speaker);
+        if (elu) {
+            debatsParElu[elu.nom]++;
+        }
     });
     
     debatsStats.innerHTML = `
         <span class="stat-total">${filteredDebats.length} interventions</span>
         <div class="stat-detail">
-            ${Object.entries(debatsParElu).map(([elu, count]) => 
-                `<span class="stat-elu">${elu}: ${count}</span>`
+            ${ELUS_JURASSIENS.map(elu => 
+                `<span class="stat-elu">${elu.prenom} ${elu.nom}: ${debatsParElu[elu.nom]}</span>`
             ).join('')}
         </div>
     `;

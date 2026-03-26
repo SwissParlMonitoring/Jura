@@ -342,9 +342,18 @@ cat("Total objets trouvés en français:", nrow(Geschaefte_FR), "\n\n")
 
 cat("Recherche des objets déposés par les élus jurassiens...\n")
 
-# IDs des élus jurassiens (MemberCouncil IDs)
+# Patterns des élus jurassiens (noms complets pour éviter confusion)
 # Charles Juillard (CE), Mathilde Crevoisier Crelier (CE), Thomas Stettler (CN), Loïc Dobler (CN)
-ELUS_JURASSIENS <- c("Juillard", "Crevoisier", "Stettler", "Dobler")
+# IMPORTANT: Loïc Dobler ≠ Marcel Dobler (ce dernier est de St-Gall)
+PATTERN_ELUS_JU <- regex(
+  paste0(
+    "Charles\\s+Juillard|Juillard\\s+Charles|",
+    "Mathilde\\s+Crevoisier|Crevoisier\\s+(Crelier\\s+)?Mathilde|",
+    "Thomas\\s+Stettler|Stettler\\s+Thomas|",
+    "Lo[iï]c\\s+Dobler|Dobler\\s+Lo[iï]c"
+  ),
+  ignore_case = TRUE
+)
 
 Geschaefte_Elus <- list()
 
@@ -359,12 +368,10 @@ for (sid in SessionID) {
     ) |>
       filter(BusinessType %in% Geschaeftstyp)
     
-    # Filtrer par auteur (nom contient un des élus)
+    # Filtrer par auteur (nom complet des élus jurassiens)
     if (nrow(objets) > 0 && "SubmittedBy" %in% names(objets)) {
       objets_elus <- objets |>
-        filter(
-          str_detect(SubmittedBy, regex(paste(ELUS_JURASSIENS, collapse = "|"), ignore_case = TRUE))
-        ) |>
+        filter(str_detect(SubmittedBy, PATTERN_ELUS_JU)) |>
         mutate(
           SessionID = sid,
           Langue_Detection = "Élu JU"

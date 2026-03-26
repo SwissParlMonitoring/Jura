@@ -13,7 +13,7 @@ const ELUS_ACTUELS = [
 
 // Anciens élus jurassiens
 const ANCIENS_ELUS = [
-    { nom: 'Fridez', prenom: 'Pierre-Alain', pattern: /Pierre[- ]?Alain\s+Fridez|Fridez\s+Pierre[- ]?Alain/i, conseil: 'CN', parti: 'PS', fin: '2023' }
+    { nom: 'Fridez', prenom: 'Pierre-Alain', pattern: /Pierre[- ]?Alain\s+Fridez|Fridez\s+Pierre[- ]?Alain/i, conseil: 'CN', parti: 'PS', fin: '2026' }
 ];
 
 // Tous les élus (actuels + anciens)
@@ -277,9 +277,6 @@ function createDebatCard(item) {
     const day = dateStr.substring(6, 8);
     const formattedDate = `${day}.${month}.${year}`;
     
-    // Texte tronqué
-    const textPreview = item.text ? (item.text.length > 300 ? item.text.substring(0, 300) + '...' : item.text) : '';
-    
     // Lien bulletin
     const bulletinUrl = item.id ? `https://www.parlament.ch/fr/ratsbetrieb/amtliches-bulletin/amtliches-bulletin-die-verhandlungen?SubjectId=${item.id_subject}#votum${item.id}` : null;
     
@@ -294,10 +291,10 @@ function createDebatCard(item) {
             ${bulletinUrl ? `<a href="${bulletinUrl}" target="_blank">${item.business_title_fr || item.business_title || 'Débat'}</a>` : (item.business_title_fr || item.business_title || 'Débat')}
         </h3>
         <div class="card-meta">
-            <span>💬 ${item.speaker} (${party}, ${item.canton || 'JU'})</span>
+            <span>� ${item.speaker}</span>
+            <span style="background: ${partyColor}; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;">${party}</span>
             <span>📅 ${formattedDate}</span>
         </div>
-        <div class="card-text">${textPreview}</div>
     `;
     
     return card;

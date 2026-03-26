@@ -2666,11 +2666,23 @@ a.author-row {
     background: #B00000;
 }
 
-.debate-card .card-text {
-    margin-top: 0.75rem;
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    line-height: 1.5;
+/* Débats sur page élus - grille comme objets */
+.elus-section .results-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.25rem;
+}
+
+.elus-section .debate-card {
+    margin-bottom: 0;
+}
+
+.elus-section .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 @media (max-width: 600px) {

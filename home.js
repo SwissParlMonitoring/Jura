@@ -90,7 +90,10 @@ function detectThemes(item) {
         item.text_de || ''
     ].join(' ').toLowerCase();
     
-    if (/\bjura\b/i.test(textToSearch)) {
+    // Si le champ mention est défini, le R script a détecté Jura → badge Jura toujours présent
+    if (item.mention) {
+        themes.push('Jura');
+    } else if (/\bjura\b/i.test(textToSearch)) {
         themes.push('Jura');
     }
     if (/\bmoutier\b/i.test(textToSearch)) {

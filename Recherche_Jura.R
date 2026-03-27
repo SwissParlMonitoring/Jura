@@ -64,6 +64,10 @@ GITHUB_RAW_URL <- "https://raw.githubusercontent.com/SwissParlMonitoring/Jura/ma
 # Ajouter ici les numéros d'objets à exclure si nécessaire
 faux_positifs <- c()
 
+# Auteurs à exclure (faux positifs auteur)
+# Marcel Dobler (St-Gall) ≠ Loïc Dobler (Jura)
+AUTEURS_EXCLUS <- regex("Marcel\\s+Dobler|Dobler\\s+Marcel", ignore_case = TRUE)
+
 # ============================================================================
 # PATTERNS DE RECHERCHE
 # ============================================================================
@@ -412,10 +416,6 @@ cat("Total objets des élus jurassiens:", nrow(Geschaefte_Elus), "\n\n")
 cat("Fusion et dédoublonnage des interventions...\n")
 
 Tous_Geschaefte <- bind_rows(Geschaefte_DE, Geschaefte_FR, Geschaefte_Elus)
-
-# Exclure les auteurs non-jurassiens connus (faux positifs auteur)
-# Marcel Dobler (St-Gall) ≠ Loïc Dobler (Jura)
-AUTEURS_EXCLUS <- regex("Marcel\\s+Dobler|Dobler\\s+Marcel", ignore_case = TRUE)
 
 # Vérifier si des nouveaux objets ont été trouvés
 if (nrow(Tous_Geschaefte) == 0 || !"BusinessShortNumber" %in% names(Tous_Geschaefte)) {

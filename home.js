@@ -81,6 +81,7 @@ function isTitleMissing(title) {
 }
 
 // Fonction pour détecter les thèmes mentionnés dans un objet
+// Badges basés UNIQUEMENT sur les mots-clés présents dans le texte
 function detectThemes(item) {
     const themes = [];
     const textToSearch = [
@@ -88,17 +89,17 @@ function detectThemes(item) {
         item.title_de || '',
         item.text || '',
         item.text_de || ''
-    ].join(' ').toLowerCase();
+    ].join(' ');
     
-    // Si le champ mention est défini, le R script a détecté Jura → badge Jura toujours présent
-    if (item.mention) {
-        themes.push('Jura');
-    } else if (/\bjura\b/i.test(textToSearch)) {
+    // Badge Jura: uniquement si le mot "jura" est dans le texte
+    if (/\bjura\b/i.test(textToSearch)) {
         themes.push('Jura');
     }
+    // Badge Moutier
     if (/\bmoutier\b/i.test(textToSearch)) {
         themes.push('Moutier');
     }
+    // Badge RPT (péréquation financière)
     if (/\b(rpt|nfa|finanzausgleich|péréquation\s*financière)\b/i.test(textToSearch)) {
         themes.push('RPT');
     }

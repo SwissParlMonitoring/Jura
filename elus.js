@@ -70,12 +70,13 @@ function findElu(text) {
     return null;
 }
 
+// Badges basés UNIQUEMENT sur les mots-clés présents dans le texte
 function getThemeBadges(item) {
     const themes = [];
-    const text = [item.title || '', item.title_de || '', item.text || ''].join(' ').toLowerCase();
-    if (item.mention || /\bjura\b/i.test(text)) themes.push('Jura');
+    const text = [item.title || '', item.title_de || '', item.text || ''].join(' ');
+    if (/\bjura\b/i.test(text)) themes.push('Jura');
     if (/\bmoutier\b/i.test(text)) themes.push('Moutier');
-    if (/\b(rpt|nfa|finanzausgleich|péréquation)/i.test(text)) themes.push('RPT');
+    if (/\b(rpt|nfa|finanzausgleich|péréquation\s*financière)\b/i.test(text)) themes.push('RPT');
     return themes.map(t => `<span class="badge badge-theme badge-theme-${t.toLowerCase()}">${t}</span>`).join('');
 }
 

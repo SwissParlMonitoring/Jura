@@ -112,7 +112,7 @@ function getThemeBadges(item) {
     if (themes.length === 0) return '';
     
     return themes.map(theme => {
-        const label = theme === 'RPT' ? 'RPT/NFA' : theme;
+        const label = theme;
         return `<span class="badge badge-theme badge-theme-${theme.toLowerCase()}">${label}</span>`;
     }).join('');
 }

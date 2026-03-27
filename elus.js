@@ -76,7 +76,7 @@ function getThemeBadges(item) {
     if (item.mention || /\bjura\b/i.test(text)) themes.push('Jura');
     if (/\bmoutier\b/i.test(text)) themes.push('Moutier');
     if (/\b(rpt|nfa|finanzausgleich|péréquation)/i.test(text)) themes.push('RPT');
-    return themes.map(t => `<span class="badge badge-theme badge-theme-${t.toLowerCase()}">${t === 'RPT' ? 'RPT/NFA' : t}</span>`).join('');
+    return themes.map(t => `<span class="badge badge-theme badge-theme-${t.toLowerCase()}">${t}</span>`).join('');
 }
 
 // Initialisation

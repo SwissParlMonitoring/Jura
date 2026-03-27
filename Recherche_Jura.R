@@ -969,7 +969,7 @@ if (!is.null(Resultats) && nrow(Resultats) > 0) {
         "Durant la ", derniere_session$name_fr, " (",
         format(derniere_session$start, "%d.%m"), " - ",
         format(derniere_session$end, "%d.%m.%Y"), "), ",
-        nrow(interventions_session), " interventions mentionnant le Jura ou la péréquation financière (RPT/NFA) ont été déposées ou ont fait l'objet d'une réponse du Conseil fédéral : ",
+        nrow(interventions_session), " interventions mentionnant le Jura ou la péréquation financière (RPT) ont été déposées ou ont fait l'objet d'une réponse du Conseil fédéral : ",
         types_text_fr, ". ",
         if (cn_count > 0 && ce_count > 0) {
           paste0(cn_count, " au Conseil national et ", ce_count, " au Conseil des États. ")

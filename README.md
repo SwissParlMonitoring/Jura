@@ -8,7 +8,7 @@ A monitoring tool tracking mentions of the canton of Jura and related topics in 
 
 ## What it tracks
 
-**Keywords:** Jura, Moutier, RPT/NFA (fiscal equalisation / Finanzausgleich)
+**Keywords:** Jura, Moutier, RPT (fiscal equalisation / Finanzausgleich)
 
 **Elected representatives monitored:**
 | Name | Chamber | Party |
@@ -33,7 +33,7 @@ A monitoring tool tracking mentions of the canton of Jura and related topics in 
 
 ## Features
 
-- **Thematic badges** — Colored outline badges (Jura, Moutier, RPT/NFA) displayed next to the object type on every page
+- **Thematic badges** — Colored outline badges (Jura, Moutier, RPT) displayed next to the object type on every page
 - **Party badges** — Color-coded party labels on all card footers
 - **"New" indicator** — Green left border on cards updated within the last 4 days
 - **Filter by elected member** — On the *Nos élus* page, clicking an elected official's card filters both objects and debates simultaneously

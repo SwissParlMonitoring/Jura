@@ -2,10 +2,26 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=home.html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirection...</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-    <p>Redirection vers <a href="home.html">la page d'accueil</a>...</p>
+    <p>Redirection en cours...</p>
+    <script>
+        const authHash = window.location.hash || '';
+        const hasIdentityToken = /invite_token|confirmation_token|recovery_token/.test(authHash);
+
+        if (hasIdentityToken) {
+            window.location.replace(`/login.html${authHash}`);
+        } else if (window.netlifyIdentity) {
+            window.netlifyIdentity.on('init', user => {
+                window.location.replace(user ? '/home.html' : '/login.html');
+            });
+            window.netlifyIdentity.init();
+        } else {
+            window.location.replace('/login.html');
+        }
+    </script>
 </body>
 </html>

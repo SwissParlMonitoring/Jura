@@ -14,20 +14,6 @@
   status = 200
 
 [[redirects]]
-  from = "/"
-  to = "/login.html"
-  status = 302
-  force = true
-  conditions = {Role = ["visitor"]}
-
-[[redirects]]
-  from = "/index.html"
-  to = "/login.html"
-  status = 302
-  force = true
-  conditions = {Role = ["visitor"]}
-
-[[redirects]]
   from = "/home.html"
   to = "/login.html"
   status = 302

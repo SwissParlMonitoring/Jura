@@ -72,6 +72,16 @@ header h1 {
     font-size: 1.75rem;
     font-weight: 600;
     margin-bottom: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+header h1 .header-logo {
+    width: 26px;
+    height: 26px;
+    opacity: 0.85;
+    flex-shrink: 0;
 }
 
 header .subtitle {
@@ -908,6 +918,11 @@ mark.highlight-search {
     header h1 {
         font-size: 0.95rem;
         padding-right: 3rem;
+    }
+
+    header h1 .header-logo {
+        width: 18px;
+        height: 18px;
     }
     
     header .subtitle {

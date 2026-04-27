@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-04-27T13:25:07",
+    "updated": "2026-04-27T22:00:32",
     "total_count": 137,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -330,7 +330,7 @@
       "title_de": "Geänderte Verfassungen der Kantone Bern, Glarus, Neuenburg, Genf und Jura. Gewährleistung",
       "title_it": "Costituzioni rivedute dei Cantoni di Berna, Glarona, Neuchâtel, Ginevra e Giura. Conferimento",
       "type": "BRG",
-      "status": "In Kommission des Ständerats / En commission du Conseil des Etats",
+      "status": "Beratung in Kommission des Ständerates abgeschlossen / Fin des discussions en commission du Conseil des Etats",
       "department": "EJPD",
       "date": "2026-03-06",
       "date_maj": "2026-03-26",

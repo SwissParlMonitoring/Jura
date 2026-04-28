@@ -399,7 +399,7 @@ if (!is.null(Debats_Tous) && nrow(Debats_Tous) > 0) {
       id_subject = IdSubject,
       id_session = IdSession,
       sort_order = SortOrder,
-      date = as.character(MeetingDate),
+      date = format(MeetingDate, "%Y%m%d"),
       council = MeetingCouncilAbbreviation,
       speaker = SpeakerFullName,
       function_speaker = SpeakerFunction,

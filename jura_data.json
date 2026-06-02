@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-01T23:05:02",
+    "updated": "2026-06-02T16:02:00",
     "total_count": 140,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -97,9 +97,9 @@
     },
     {
       "shortId": "26.3099",
-      "title": "Clarifications juridiques et potentiel de l'utilisation de l'intelligence artificielle (IA) dans les domaines de la police et de la sécurité intérieure",
+      "title": "Clarifications juridiques et potentiel de l'utilisation de l'intelligence artificielle dans les domaines de la police et de la sécurité intérieure",
       "title_de": "Rechtliche Abklärungen und Potenzial von künstlicher Intelligenz in den Bereichen Polizei und innere Sicherheit",
-      "title_it": "Chiarimenti giuridici e potenzialità dell'impiego dell'intelligenza artificiale (IA) nei settori della polizia e della sicurezza interna",
+      "title_it": "Chiarimenti giuridici e potenzialità dell'impiego dell'intelligenza artificiale nei settori della polizia e della sicurezza interna",
       "author": "Juillard Charles",
       "party": "Le Centre",
       "type": "Po.",

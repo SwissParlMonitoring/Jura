@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-06-03T16:20:42",
+    "updated": "2026-06-03T23:06:29",
     "total_count": 142,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": ["26.7426", "26.7446"]
+    "new_ids": []
   },
   "session_summary": {},
   "items": [
@@ -45,6 +45,28 @@
       "tags": "Politique d'Etat|Médias et communication|Protection sociale",
       "tags_de": "Staatspolitik|Medien und Kommunikation|Sozialer Schutz",
       "tags_it": "Politica nazionale|Media e comunicazione|Protezione sociale"
+    },
+    {
+      "shortId": "26.3121",
+      "title": "Relier efficacement des espaces culturels et économiques grâce à une route nationale N18 performante",
+      "title_de": "Dank einer leistungsfähigen Nationalstrasse N18 Kultur- und Wirtschaftsräume effektiv miteinander verbinden",
+      "title_it": "Collegare efficacemente spazi culturali ed economici attraverso una strada nazionale N18 efficiente",
+      "author": "Juillard Charles",
+      "party": "Le Centre",
+      "type": "Ip.",
+      "status": "Erledigt / Liquidé",
+      "council": "SR",
+      "department": "UVEK",
+      "date": "2026-03-16",
+      "date_maj": "2026-06-03",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263121",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263121",
+      "mention": "Titre uniquement",
+      "text": "<p>Fin janvier 2026, le Conseil fédéral a publié les paramètres du programme « Transports ’45 »dans lequel le projet d’amélioration structurelle de la liaison routière Delémont- Bâle a été retenu. Mais, le report au-delà de 2055 des projets routiers le long de la N18 entre Bâle et Delémont – à l’exception de la décharge du centre de Laufen (horizon 2055) – suscite une forte incompréhension de la part des élus, des populations et des milieux économiques en particulier. Ce renoncement de fait à une meilleure accessibilité et à de réelles perspectives de développement économique contredit directement les résultats de l’étude de corridor N18 menée sous la direction de l’OFROU selon les méthodes les plus récentes. C’est aussi une question de crédibilité des institutions par un respect de la cohérence des politiques publiques.<\/p><p>La N18 est un élément essentiel du réseau routier national : elle relie l’agglomération bâloise à l’Arc lémanique et unit deux espaces culturels et&nbsp;économiques majeurs. Elle connecte&nbsp;également le Laufonnais, région dynamique, ainsi que la capitale cantonale Delémont au réseau à haute performance. Elle contribue ainsi&nbsp;à la cohésion nationale et au rapprochement des communautés linguistiques.<\/p><p>Sous l’effet de la croissance démographique, ce tronçon devient toutefois un goulet d’étranglement, avec l’une des plus fortes densités de bouchons du pays. De plus, le trafic actuel porte atteinte à la qualité de vie dans les centres et compromet la sécurité du trafic motorisé et cycliste. Une modernisation rapide du corridor est donc prioritaire.<\/p><p>Dans ce contexte, je prie le Conseil fédéral de répondre aux questions suivantes :<\/p><ol style=\"list-style-type:decimal;\"><li>Comment évalue-t-il la nécessité d’éliminer les goulets d’étranglement sur la N18 entre Angenstein et Delémont ?<\/li><li>Considère-t-il le tunnel du Muggenberg comme une mesure durable pour améliorer la sécurité au point noir d’Angenstein ?<\/li><li>Comment apprécie-t-il l’utilité des projets recommandés dans l’étude de corridor N18 (tunnel du Muggenberg, contournements Laufen–Zwingen et Delémont, décharge de Laufen) pour renforcer la connexion des entreprises de la région Laufonnais–Thierstein–Delémont ?<\/li><li>Estime-t-il que les contournements Laufen–Zwingen et Delémont constituent des mesures appropriées pour soulager les zones habitées concernées ?<\/li><\/ol>",
+      "text_de": "<p>Ende Januar&nbsp;2026 hat der Bundesrat die Eckwerte des Programms «Verkehr&nbsp;’45» veröffentlicht. Das Vorhaben einer strukturellen Verbesserung der Strassenverbindung Delémont–Basel wurde darin berücksichtigt. Dass die Strassenbauprojekte entlang der Nationalstrasse&nbsp;18 (N18) zwischen Basel und Delémont – mit Ausnahme der Zentrumsentlastung Laufen (Realisierungshorizont&nbsp;2055) – aber bis nach 2055 aufgeschoben werden sollen, stösst bei Politik, Bevölkerung und insbesondere in Wirtschaftskreisen auf grosses Unverständnis. Diese Entscheidung gegen bessere Erreichbarkeit und wirtschaftliche Entwicklung widerspricht den Ergebnissen der Korridorstudie&nbsp;N18, die unter der Federführung des Bundesamts für Strassen (ASTRA) nach neuesten Methoden durchgeführt wurde. Es geht dabei auch um die Glaubwürdigkeit der Institutionen, von denen eine kohärente öffentliche Politik erwartet wird.<\/p><p>Die N18 ist ein wesentlicher Bestandteil des nationalen Strassennetzes: Sie verbindet den Grossraum Basel mit der Genferseeregion und damit zwei wichtige Kultur- und Wirtschaftsräume. Sie schliesst zudem das dynamische Laufental und den Kantonshauptort Delémont an das Hochleistungsstrassennetz an. Damit trägt sie zum nationalen Zusammenhalt und zur Annäherung der Sprachgemeinschaften bei.<\/p><p>Aufgrund des Bevölkerungswachstums entwickelt sich dieser Strassenabschnitt jedoch zunehmend zu einem Engpass – mit einer der schweizweit höchsten Staudichten. Gleichzeitig leidet die Lebensqualität in den Ortszentren, und die Sicherheit des Auto- und Veloverkehrs wird gefährdet. Eine rasche Modernisierung des Korridors hat daher Priorität.<\/p><p>Daher bitte ich den Bundesrat um Beantwortung folgender Fragen:<\/p><ol style=\"list-style-type:decimal;\"><li>Wie beurteilt er die Notwendigkeit, die Engpässe auf der N18 zwischen Angenstein und Delémont zu beseitigen?<\/li><li>Ist der Muggenbergtunnel seines Erachtens eine nachhaltige Massnahme zur Verbesserung der Sicherheit am Unfallhotspot Angenstein?<\/li><li>Wie bewertet er den Nutzen der in der Korridorstudie&nbsp;N18 empfohlenen Projekte (Muggenbergtunnel, Umfahrungen Laufen–Zwingen und Delémont, Zentrumsentlastung Laufen) für eine verbesserte Anbindung der Unternehmen in der Region Laufen–Thierstein–Delémont?<\/li><li>Sind die Umfahrungen Laufen–Zwingen und Delémont seines Erachtens geeignete Massnahmen zur Entlastung der betroffenen Wohngebiete?<\/li><\/ol>",
+      "tags": "Transports|Aménagement du territoire et logement",
+      "tags_de": "Verkehr|Raumplanung und Wohnungswesen",
+      "tags_it": "Trasporti|Pianificazione territoriale e alloggi"
     },
     {
       "shortId": "26.3518",
@@ -110,29 +132,6 @@
       "tags": "Économie|Questions sociales|Médias et communication|Santé",
       "tags_de": "Wirtschaft|Soziale Fragen|Medien und Kommunikation|Gesundheit",
       "tags_it": "Economia|Questioni sociali|Media e comunicazione|Salute"
-    },
-    {
-      "shortId": "26.3121",
-      "title": "Relier efficacement des espaces culturels et économiques grâce à une route nationale N18 performante",
-      "title_de": "Dank einer leistungsfähigen Nationalstrasse N18 Kultur- und Wirtschaftsräume effektiv miteinander verbinden",
-      "title_it": "Collegare efficacemente spazi culturali ed economici attraverso una strada nazionale N18 efficiente",
-      "author": "Juillard Charles",
-      "party": "Le Centre",
-      "type": "Ip.",
-      "status": "Erledigt / Liquidé",
-      "council": "SR",
-      "department": "UVEK",
-      "date": "2026-03-16",
-      "date_maj": "2026-06-03",
-      "statut_change_date": "2026-06-03",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263121",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263121",
-      "mention": "Titre uniquement",
-      "text": "<p>Fin janvier 2026, le Conseil fédéral a publié les paramètres du programme « Transports ’45 »dans lequel le projet d’amélioration structurelle de la liaison routière Delémont- Bâle a été retenu. Mais, le report au-delà de 2055 des projets routiers le long de la N18 entre Bâle et Delémont – à l’exception de la décharge du centre de Laufen (horizon 2055) – suscite une forte incompréhension de la part des élus, des populations et des milieux économiques en particulier. Ce renoncement de fait à une meilleure accessibilité et à de réelles perspectives de développement économique contredit directement les résultats de l’étude de corridor N18 menée sous la direction de l’OFROU selon les méthodes les plus récentes. C’est aussi une question de crédibilité des institutions par un respect de la cohérence des politiques publiques.<\/p><p>La N18 est un élément essentiel du réseau routier national : elle relie l’agglomération bâloise à l’Arc lémanique et unit deux espaces culturels et&nbsp;économiques majeurs. Elle connecte&nbsp;également le Laufonnais, région dynamique, ainsi que la capitale cantonale Delémont au réseau à haute performance. Elle contribue ainsi&nbsp;à la cohésion nationale et au rapprochement des communautés linguistiques.<\/p><p>Sous l’effet de la croissance démographique, ce tronçon devient toutefois un goulet d’étranglement, avec l’une des plus fortes densités de bouchons du pays. De plus, le trafic actuel porte atteinte à la qualité de vie dans les centres et compromet la sécurité du trafic motorisé et cycliste. Une modernisation rapide du corridor est donc prioritaire.<\/p><p>Dans ce contexte, je prie le Conseil fédéral de répondre aux questions suivantes :<\/p><ol style=\"list-style-type:decimal;\"><li>Comment évalue-t-il la nécessité d’éliminer les goulets d’étranglement sur la N18 entre Angenstein et Delémont ?<\/li><li>Considère-t-il le tunnel du Muggenberg comme une mesure durable pour améliorer la sécurité au point noir d’Angenstein ?<\/li><li>Comment apprécie-t-il l’utilité des projets recommandés dans l’étude de corridor N18 (tunnel du Muggenberg, contournements Laufen–Zwingen et Delémont, décharge de Laufen) pour renforcer la connexion des entreprises de la région Laufonnais–Thierstein–Delémont ?<\/li><li>Estime-t-il que les contournements Laufen–Zwingen et Delémont constituent des mesures appropriées pour soulager les zones habitées concernées ?<\/li><\/ol>",
-      "text_de": "<p>Ende Januar&nbsp;2026 hat der Bundesrat die Eckwerte des Programms «Verkehr&nbsp;’45» veröffentlicht. Das Vorhaben einer strukturellen Verbesserung der Strassenverbindung Delémont–Basel wurde darin berücksichtigt. Dass die Strassenbauprojekte entlang der Nationalstrasse&nbsp;18 (N18) zwischen Basel und Delémont – mit Ausnahme der Zentrumsentlastung Laufen (Realisierungshorizont&nbsp;2055) – aber bis nach 2055 aufgeschoben werden sollen, stösst bei Politik, Bevölkerung und insbesondere in Wirtschaftskreisen auf grosses Unverständnis. Diese Entscheidung gegen bessere Erreichbarkeit und wirtschaftliche Entwicklung widerspricht den Ergebnissen der Korridorstudie&nbsp;N18, die unter der Federführung des Bundesamts für Strassen (ASTRA) nach neuesten Methoden durchgeführt wurde. Es geht dabei auch um die Glaubwürdigkeit der Institutionen, von denen eine kohärente öffentliche Politik erwartet wird.<\/p><p>Die N18 ist ein wesentlicher Bestandteil des nationalen Strassennetzes: Sie verbindet den Grossraum Basel mit der Genferseeregion und damit zwei wichtige Kultur- und Wirtschaftsräume. Sie schliesst zudem das dynamische Laufental und den Kantonshauptort Delémont an das Hochleistungsstrassennetz an. Damit trägt sie zum nationalen Zusammenhalt und zur Annäherung der Sprachgemeinschaften bei.<\/p><p>Aufgrund des Bevölkerungswachstums entwickelt sich dieser Strassenabschnitt jedoch zunehmend zu einem Engpass – mit einer der schweizweit höchsten Staudichten. Gleichzeitig leidet die Lebensqualität in den Ortszentren, und die Sicherheit des Auto- und Veloverkehrs wird gefährdet. Eine rasche Modernisierung des Korridors hat daher Priorität.<\/p><p>Daher bitte ich den Bundesrat um Beantwortung folgender Fragen:<\/p><ol style=\"list-style-type:decimal;\"><li>Wie beurteilt er die Notwendigkeit, die Engpässe auf der N18 zwischen Angenstein und Delémont zu beseitigen?<\/li><li>Ist der Muggenbergtunnel seines Erachtens eine nachhaltige Massnahme zur Verbesserung der Sicherheit am Unfallhotspot Angenstein?<\/li><li>Wie bewertet er den Nutzen der in der Korridorstudie&nbsp;N18 empfohlenen Projekte (Muggenbergtunnel, Umfahrungen Laufen–Zwingen und Delémont, Zentrumsentlastung Laufen) für eine verbesserte Anbindung der Unternehmen in der Region Laufen–Thierstein–Delémont?<\/li><li>Sind die Umfahrungen Laufen–Zwingen und Delémont seines Erachtens geeignete Massnahmen zur Entlastung der betroffenen Wohngebiete?<\/li><\/ol>",
-      "tags": "Transports|Aménagement du territoire et logement",
-      "tags_de": "Verkehr|Raumplanung und Wohnungswesen",
-      "tags_it": "Trasporti|Pianificazione territoriale e alloggi"
     },
     {
       "shortId": "26.3099",

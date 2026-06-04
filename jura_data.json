@@ -1,17 +1,34 @@
 {
   "meta": {
-    "updated": "2026-06-03T23:06:29",
-    "total_count": 142,
+    "updated": "2026-06-04T14:41:16",
+    "total_count": 143,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": "26.3571"
   },
   "session_summary": {},
   "items": [
     {
+      "shortId": "26.3571",
+      "title": "Titre suit",
+      "title_de": "Von Dänemark lernen. Bei längerfristigen Freiheitsstrafen muss die obligatorische Landesverweisung obligatorisch sein",
+      "title_it": "Titolo segue",
+      "author": "Friedli Esther",
+      "party": "UDC",
+      "type": "Mo.",
+      "status": "Eingereicht / Déposé",
+      "council": "SR",
+      "date": "2026-06-04",
+      "date_maj": "2026-06-04",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263571",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263571",
+      "mention": "Élu",
+      "text_de": "<p>Der Bundesrat wird beauftragt, die erforderlichen Gesetzesanpassungen vorzulegen, so dass für kriminelle Ausländer bei einer längerfristigen Freiheitsstrafe ab einem Jahr – unabhängig davon, ob diese unbedingt, teilbedingt oder bedingt ausfällt – in jedem Fall zwingend eine Landesverweisung angeordnet und vollzogen werden muss.&nbsp;<\/p>"
+    },
+    {
       "shortId": "26.7426",
       "title": "Cheval des Franches-Montagnes : la Confédération tourne-t-elle le dos à son patrimoine vivant ?",
-      "title_de": "Titel folgt",
+      "title_de": "Freiberger Pferde: Kehrt der Bund seinem lebendigen Kulturerbe den Rücken zu?",
       "author": "Dobler Loïc",
       "party": "PS",
       "type": "Fra.",
@@ -23,6 +40,7 @@
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267426",
       "mention": "Titre uniquement",
       "text": "<p>Lors de l'assemblée de la Fédération suisse du Franches-Montagnes (FSFM) à Saignelégier, il a été annoncé que la subvention fédérale au fonctionnement de la fédération serait amputée de 300'000 francs dès 2027 - soit près de 30% du soutien actuel -alors que les naissances de poulains sont en recul critique depuis 2018.&nbsp;<br>Quelle est la stratégie du Conseil fédéral pour assurer la pérennité de la seule race équine indigène de Suisse et des institutions qui la promeuvent ?<\/p>",
+      "text_de": "<p>An der Versammlung des Schweizerischen Freibergerverbands (SFV) in Saignelégier wurde bekanntgegeben, dass die Bundesbeiträge zugunsten des Verbands ab 2027 um 300&nbsp;000 Franken gekürzt werden, was fast 30 Prozent der aktuellen Unterstützung entspricht. Diese Kürzung erfolgt, obwohl die Anzahl an Geburten von Freiberger Fohlen seit 2018 entscheidend zurückgegangen ist.&nbsp;<br>Wie sieht die Strategie des Bundesrates aus, um den Fortbestand der einzigen einheimischen Schweizer Pferderasse und der Institutionen, die sich für sie einsetzen, zu sichern?<\/p>",
       "tags": "Environnement|Culture",
       "tags_de": "Umwelt|Kultur",
       "tags_it": "Ambiente|Cultura"
@@ -30,7 +48,7 @@
     {
       "shortId": "26.7446",
       "title": "Nouveau système pour les indemnités chômage, toujours pas satisfaisant.",
-      "title_de": "Titel folgt",
+      "title_de": "Das neue Auszahlungssystem für die Arbeitslosenentschädigung funktioniert noch immer nicht zufriedenstellend",
       "author": "Stettler Thomas",
       "party": "UDC",
       "type": "Fra.",
@@ -42,6 +60,7 @@
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267446",
       "mention": "Titre uniquement",
       "text": "<p>Malgré les promesses et le positivisme du SECO, les dysfonctionnements persistent toujours. Encore ces dernières semaines le système est resté inaccessible pendant des jours entiers pour les ORP mais aussi pour les services devant rendre des décisions. Entre des dizaines (!) de mise à jour et l'impossibilité de se loguer, les services cantonaux sont bloqués et ne peuvent plus travailler.<br>Dès lors, je demande au Conseil fédéral si cette gabegie informatique va cesser rapidement ?<\/p>",
+      "text_de": "<p>Trotz der Versprechen und der positiven Meldungen des SECO bestehen die Probleme weiterhin. Auch in den letzten Tagen konnten sowohl die regionalen Arbeitsvermittlungszentren als auch die Stellen, die die Verfügungen erlassen müssen, tagelang nicht auf das System zugreifen. Weil Dutzende (!) von Updates gemacht werden müssen und es nicht möglich ist sich einzuloggen, sind die kantonalen Stellen blockiert und können nicht mehr arbeiten.<br>Ich frage den Bundesrat daher: Wird diese IT-Fiasko bald ein Ende haben?<\/p>",
       "tags": "Politique d'Etat|Médias et communication|Protection sociale",
       "tags_de": "Staatspolitik|Medien und Kommunikation|Sozialer Schutz",
       "tags_it": "Politica nazionale|Media e comunicazione|Protezione sociale"

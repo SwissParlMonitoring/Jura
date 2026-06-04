@@ -1,13 +1,47 @@
 {
   "meta": {
-    "updated": "2026-06-04T14:41:16",
-    "total_count": 143,
+    "updated": "2026-06-04T22:24:07",
+    "total_count": 145,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": "26.3571"
+    "new_ids": ["26.3563", "26.3564"]
   },
   "session_summary": {},
   "items": [
+    {
+      "shortId": "26.3563",
+      "title": "Quelle répartition géographique des emplois postaux ?",
+      "title_de": "Titel folgt",
+      "title_it": "Titolo segue",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Ip.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-06-04",
+      "date_maj": "2026-06-04",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263563",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263563",
+      "mention": "Titre uniquement",
+      "text": "<p>La Confédération est l'actionnaire unique de La Poste Suisse SA et lui assigne tous les quatre ans des objectifs stratégiques (art. 7 LOP). Les objectifs 2025-2028, adoptés le 29 janvier 2025, ne contiennent aucune exigence de répartition géographique des emplois entre les cantons. L'objectif 3.1 en matière de personnel demande une politique progressiste en matière de personnel et une augmentation de la proportion de femmes aux postes de cadres. Les rapports annuels de réalisation ne comportent aucun indicateur territorial relatif à l'emploi.<\/p><p>&nbsp;<\/p><p>Cette lacune est préoccupante. La Poste restructure en effet profondément son réseau depuis plusieurs années : fermetures d'offices et transformation en agences dans des commerces privés. Les cantons périphériques sont les plus touchés. Paradoxalement, les objectifs stratégiques prévoient déjà une logique territoriale pour les prestations, l'accessibilité au service universel étant mesurée au niveau cantonal. Il n'y a aucune raison que cette logique ne s'applique pas aussi aux emplois.<\/p><p>&nbsp;<\/p><p>Les emplois des entreprises dont la Confédération est propriétaire sont généralement stables et soumis à des conditions conventionnelles attractives. Ils devraient se développer sur l'ensemble du territoire, et a fortiori dans les régions où ces mêmes entreprises suppriment des postes par ailleurs.<\/p><p>&nbsp;<\/p><p>Le DETEC doit par ailleurs soumettre un projet de révision de la législation postale d'ici fin juin 2026, ce qui rend la présente interpellation particulièrement actuelle.<\/p><p>&nbsp;<\/p><p>Je pose dès lors les questions suivantes au Conseil fédéral :<\/p><ol><li>Quelle est l'évolution des emplois à La Poste (en EPT) par canton sur les dix dernières années ?<\/li><li>Quelle est l'évolution du nombre d'offices par canton depuis 2010 ?<\/li><li>Pour quelle raison les objectifs stratégiques ne comportent-ils aucun indicateur de répartition géographique des emplois ?<\/li><li>Le Conseil fédéral considère-t-il la répartition territoriale des emplois des entités paraétatiques comme relevant de sa responsabilité ?<\/li><li>Dans le cadre de la révision législative en cours ou à venir, est-il prêt à introduire un tel indicateur pour La Poste, les CFF et Swisscom ?<\/li><\/ol>"
+    },
+    {
+      "shortId": "26.3564",
+      "title": "Certificats médicaux pour courtes absences : un coût inutile pour la LAMal ?",
+      "title_de": "Titre suit",
+      "title_it": "Titolo segue",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Ip.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-06-04",
+      "date_maj": "2026-06-04",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263564",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263564",
+      "mention": "Titre uniquement",
+      "text": "<p>De nombreux employeurs exigent un certificat médical dès le premier ou le deuxième jour d'absence de leurs employées et employés, y compris pour des maladies bénignes de courte durée. Cette pratique contraint les salarié·e·s à consulter un médecin ou une médecin non pas pour des raisons thérapeutiques, mais pour satisfaire une exigence administrative. Ces consultations sont remboursées par la LAMal, après déduction de la franchise et de la quote-part. Elles génèrent donc des coûts réels pour les salarié·e·s et pour le système de santé, sans aucune valeur médicale ajoutée.<\/p><p>&nbsp;<\/p><p>Le Code des obligations ne fixe aucun délai minimal avant qu'un employeur puisse exiger un tel certificat, laissant une liberté totale sur ce point. Certaines conventions collectives de travail prévoient des règles plus protectrices, mais elles ne couvrent pas l'ensemble des travailleuses et travailleurs.<\/p><p>&nbsp;<\/p><p>Si un employeur juge nécessaire d'exiger une attestation médicale avant tout délai raisonnable, il est logique que les frais qui en découlent lui incombent. Il n'appartient pas à l'assurance obligatoire des soins, financée par l'ensemble des assuré·e·s, de couvrir des dépenses qui résultent d'une exigence administrative privée. De leur côté, les salarié·e·s concerné·e·s contribuent financièrement au travers de leur franchise et quote-part. À l'heure où la maîtrise des coûts de la santé est une priorité politique affichée, cette source de dépenses évitable mérite d'être examinée.<\/p><p>&nbsp;<\/p><p>Je pose les questions suivantes au Conseil fédéral :<\/p><p>&nbsp;<\/p><ol><li>Dispose-t-il de données sur le nombre de consultations médicales annuelles dont le seul motif est la délivrance d'un certificat exigé par un employeur ou une employeuse pour une courte absence ?<\/li><li>Quel est le coût estimé de ces consultations pour la LAMal ?<\/li><li>Est-il prêt à examiner une réglementation fixant un délai minimal avant qu'un employeur puisse exiger un certificat médical ?<\/li><li>Est-il prêt à examiner une modification légale permettant de mettre les frais de ces consultations à la charge de l'employeur ou de l'employeuse qui les exige, plutôt qu'à celle de l'assurance obligatoire des soins ?<\/li><\/ol>"
+    },
     {
       "shortId": "26.3571",
       "title": "Titre suit",

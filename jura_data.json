@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-06-04T22:24:07",
+    "updated": "2026-06-05T14:28:14",
     "total_count": 145,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": ["26.3563", "26.3564"]
+    "new_ids": []
   },
   "session_summary": {},
   "items": [
@@ -68,6 +68,7 @@
       "type": "Fra.",
       "status": "Eingereicht / Déposé",
       "council": "NR",
+      "department": "WBF",
       "date": "2026-06-03",
       "date_maj": "2026-06-03",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267426",
@@ -88,6 +89,7 @@
       "type": "Fra.",
       "status": "Eingereicht / Déposé",
       "council": "NR",
+      "department": "WBF",
       "date": "2026-06-03",
       "date_maj": "2026-06-03",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267446",
@@ -645,11 +647,12 @@
       "author": "Fridez Pierre-Alain",
       "party": "PS",
       "type": "Ip.",
-      "status": "Stellungnahme zum Vorstoss liegt vor / L’avis relatif à l’intervention est disponible",
+      "status": "Erledigt / Liquidé",
       "council": "NR",
       "department": "EDI",
       "date": "2025-12-15",
-      "date_maj": "2026-03-26",
+      "date_maj": "2026-06-05",
+      "statut_change_date": "2026-06-05",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20254531",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20254531",
       "mention": "Titre uniquement",

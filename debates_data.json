@@ -1,10 +1,10 @@
 {
   "meta": {
     "sessions": "5214",
-    "count": 673,
-    "updated": "2026-06-07 22:10:09.422135"
+    "count": 675,
+    "updated": "2026-06-08 16:04:17.471529"
   },
-  "new_ids": ["374937", "374945", "374985", "375342"],
+  "new_ids": ["375342", "375762", "375759"],
   "items": [
     {
       "id": "329458",
@@ -13128,7 +13128,7 @@
       "business_title_de": "Bundesgesetz über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen. Änderung (Allgemeinverbindlicherklärung von Mindestlöhnen, die unter kantonalen Mindestlöhnen liegen)",
       "business_title_it": "Legge federale concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro. Modifica (Conferimento del carattere obbligatorio generale ai salari minimi inferiori ai salari minimi cantonali)",
       "department": "WBF",
-      "text": "Mindestlöhne wurden nicht aus einer Laune heraus eingeführt, sie sind eine Antwort auf reale Probleme im Arbeitsmarkt, auf die Tatsache, dass Menschen Vollzeit arbeiten und trotzdem zu wenig Geld zum Leben verdienen. Mit dieser Vorlage wollen Sie dieses Instrument unterlaufen. Zumindest der Ständerat hat eingesehen, dass die Übersteuerung demokratisch legitimierter Entscheidungen höchst kritisch ist. Die Ausnahme für Mindestlöhne, die bereits vor dieser Gesetzesvorlage beschlossen wurden, wie etwa in den Kantonen Genf, Neuenburg, Basel-Stadt oder Jura, ist ein Kompromiss für die Vergangenheit und ein kleiner Schritt in Richtung einer demokratisch verträglichen Vorlage. Dieser Schritt muss nun aber konsequent weitergedacht werden. \nMit der Minderheit Amoos wird auch für die Zukunft ein solcher Kompromiss gefunden. Wird ein Mindestlohn beschlossen, so erhalten die Sozialpartner Zeit, um zu reagieren. Sie können bei der nächsten Verhandlung der GAV die Löhne anpassen. Spätestens aber nach zwei Jahren müssen die Löhne auf das Niveau der geltenden Mindestlöhne angehoben werden. Das schafft Verbindlichkeit, und es schafft Fairness. Denn ohne klare Fristen besteht die Gefahr, dass über Jahre hinweg zu tiefe Löhne bestehen bleiben. Und genau das ist aus unserer Sicht nicht akzeptabel. Mindestlöhne sind keine symbolischen Grössen, sie sind eine verbindliche Untergrenze. Sie sollen sicherstellen, dass Arbeit vor Armut schützt. Und so kommen wir auch wieder näher zurück an die Verfassung. Denn die Kantone haben gemäss Bundesverfassung das Recht, Mindestlöhne einzuführen. Eine Übersteuerung durch privatrechtliche Verträge - ein allgemeinverbindlich erklärter GAV ist nichts anderes - ist schlicht nicht verfassungskonform. Mit der Minderheit Amoos könnte man die Vorlage schon beinahe als demokratisch verträglich bezeichnen. Deshalb unterstützen wir den Antrag der Minderheit bei Artikel 1 Absatz 4 für einen Lohnschutz, der seinen Namen auch verdient.\n",
+      "text": "Mindestlöhne wurden nicht aus einer Laune heraus eingeführt, sie sind eine Antwort auf reale Probleme im Arbeitsmarkt, auf die Tatsache, dass Menschen Vollzeit arbeiten und trotzdem zu wenig Geld zum Leben verdienen. Mit dieser Vorlage wollen Sie dieses Instrument unterlaufen. Zumindest der Ständerat hat eingesehen, dass die Übersteuerung demokratisch legitimierter Entscheidungen höchst kritisch ist. Die Ausnahme für Mindestlöhne, die bereits vor dieser Gesetzesvorlage beschlossen wurden, wie etwa in den Kantonen Genf, Neuenburg, Basel-Stadt oder Jura, ist ein Kompromiss für die Vergangenheit und ein kleiner Schritt in Richtung einer demokratisch verträglichen Vorlage. Dieser Schritt muss nun aber konsequent weitergedacht werden. \nMit der Minderheit Amoos wird auch für die Zukunft ein solcher Kompromiss gefunden. Wird ein Mindestlohn beschlossen, so erhalten die Sozialpartner Zeit, um zu reagieren. Sie können bei der nächsten Verhandlung der GAV die Löhne anpassen. Spätestens aber nach zwei Jahren müssen die Löhne auf das Niveau der geltenden Mindestlöhne angehoben werden. Das schafft Verbindlichkeit, und es schafft Fairness. Denn ohne klare Fristen besteht die Gefahr, dass über Jahre hinweg zu tiefe Löhne bestehen bleiben. Und genau das ist aus unserer Sicht nicht akzeptabel. Mindestlöhne sind keine symbolischen Grössen, sie sind eine verbindliche Untergrenze. Sie sollen sicherstellen, dass Arbeit vor Armut schützt. Und so kommen wir auch wieder näher zurück an die Verfassung. Denn die Kantone haben gemäss Bundesverfassung das Recht, Mindestlöhne einzuführen. Eine Übersteuerung durch privatrechtliche Verträge - ein allgemeinverbindlich erklärter GAV ist nichts anderes - ist schlicht nicht verfassungskonform. Mit der Minderheit Amoos könnte man die Vorlage schon beinahe als demokratisch verträglich bezeichnen.\nDeshalb unterstützen wir den Antrag der Minderheit bei Artikel 1 Absatz 4 für einen Lohnschutz, der seinen Namen auch verdient.\n",
       "language": "DE"
     },
     {
@@ -13270,6 +13270,26 @@
       "language": "DE"
     },
     {
+      "id": "375762",
+      "id_subject": "71700",
+      "id_session": "5214",
+      "sort_order": 3,
+      "date": "20260608",
+      "council": "S",
+      "speaker": "Crevoisier Crelier Mathilde",
+      "function_speaker": "2VP-F",
+      "party": "S",
+      "canton": "JU",
+      "affair_id": "20240090",
+      "business_number": "24.090",
+      "business_title_fr": "Loi sur la radioprotection (LRaP). Modification",
+      "business_title_de": "Strahlenschutzgesetz (StSG). Änderung",
+      "business_title_it": "Legge sulla radioprotezione (LRaP). Modifica",
+      "department": "EDI",
+      "text": "Comme l'a exposé de manière très exhaustive le rapporteur de la commission, il s'agit ici des mesures et des assainissements qui sont liés à la radioactivité d'origine naturelle. Le projet du Conseil fédéral prévoyait, par analogie aux mesures liées à la radioactivité d'origine anthropique, une base légale permettant de fixer des limites d'exposition à partir desquelles l'assainissement d'un site ou d'un bien-fonds serait obligatoire et de régler la prise en charge des coûts. Ici, on parle principalement de la pollution au radon. Vous savez qu'il est présent en Suisse de manière inégale, mais assez largement dans certaines régions, notamment dans l'Arc jurassien et l'Arc alpin. Concrètement - le rapporteur a également cité plusieurs chiffres -, 10 pour cent des bâtiments en Suisse dépassent le plafond d'exposition de 300 becquerels par mètre cube.\nQuels sont les risques de ces valeurs supérieures aux limites d'exposition ? Une étude a permis d'estimer que le radon est responsable d'environ 200 à 300 décès par an imputables au cancer du poumon, soit 8,3 pour cent du total des décès liés à ce cancer ; un chiffre qui n'est qu'une moyenne, puisqu'il peut aller jusqu'à 15 pour cent dans les cantons particulièrement exposés, comme mon canton, le canton du Jura, mais également le Tessin, par exemple. Ainsi, le radon représente la deuxième cause de cancer du poumon après la consommation de tabac. L'exposition au radon constitue donc un véritable enjeu de santé publique. Dès lors, si l'on renonce à une base légale pour la radioactivité d'origine naturelle, les cantons seraient considérablement freinés dans leur possibilité d'action dans ce domaine. Je rappelle qu'on parle notamment d'assainissements dans les écoles ou dans les jardins d'enfants, à savoir pour un groupe de population qui est particulièrement vulnérable.\nLe Conseil national a estimé que l'absence de dispositions légales suffisamment précises pour assurer l'assainissement des biens-fonds pollués risque d'affaiblir la pratique actuelle en matière de radioactivité naturelle et, en particulier, de protection de la population, et constitue à cet égard un signal négatif. Il a donc adopté une solution de compromis, avec ce nouvel article 24b, qui permet au Conseil fédéral de fixer le plafond d'exposition à partir duquel des mesures sont nécessaires. Par ailleurs, cet article règle la prise en charge des frais liés aux examens et aux assainissements, ce qui correspond aussi à la volonté des cantons. Ainsi, la version adoptée par le Conseil national est plus ciblée que le projet initial, mais elle permet à la fois au Conseil fédéral de fixer des valeurs de référence et ménage la possibilité d'agir des cantons.\nIl a été fait allusion au fait que, lors du premier examen de ce projet de loi par notre conseil, il n'y avait pas eu de proposition de minorité à ce sujet. Toutefois, le Conseil national a fait preuve de la sagesse qui, il nous semble, a fait défaut à notre conseil en refusant de garantir le bon déroulement des assainissements de bien-fonds, et il a donc adopté à l'unanimité ce nouvel article 24b. Dès lors, il nous a semblé pertinent de mener cette discussion également dans notre chambre. C'est pourquoi je vous invite à suivre le Conseil national et à clore ainsi cette divergence.\n",
+      "language": "DE"
+    },
+    {
       "id": "374592",
       "id_subject": "71409",
       "id_session": "5214",
@@ -13407,6 +13427,26 @@
       "business_title_it": "«Sì a imposte federali eque anche per i coniugi – Basta con la discriminazione del matrimonio!». Iniziativa popolare ",
       "department": "EFD",
       "text": "Permettez-moi d'apporter quelques mots en français dans ce débat qui semble surtout concerné les Suisses alémaniques, alors qu'il concerne toute la Suisse, tous les cantons suisses et tous les citoyens de ce pays. Oui, personne ne conteste que le 8 mars dernier, une majorité du peuple a accepté la réforme qui lui était proposée au travers de l'imposition individuelle. Oui, le peuple a voulu mettre un terme à cette inégalité qui durait depuis bien trop longtemps. Cependant, le peuple était mis devant un choix cornélien ; vraiment cornélien. Beaucoup de gens, lors de la campagne, ont choisi cette option de peur de voir cette inégalité se poursuivre.\nCe choix cornélien, vous le connaissez : il était d'accepter de mettre un terme à cette inégalité et d'accepter un modèle compliqué qui crée d'autres inégalités et qui conduit à des divisions, souvent antisociales, ou de refuser cette réforme et voir cette inégalité encore se poursuivre. On peut d'ailleurs se poser la question : pourquoi le texte de l'initiative dont on parle aujourd'hui n'a-t-il pas été traité simultanément à l'initiative sur l'imposition individuelle ? En effet, dans ce cas, le peuple aurait eu un vrai choix sur le modèle qu'il entend. Se contentait-il de régler une inégalité sur le plan fédéral qui dure depuis trop longtemps, ou bien voulait-il révolutionner le système fiscal, ce dont je ne suis absolument pas certain pour avoir discuté avec les gens ?\nLe peuple a tranché pour cette solution. Toutefois, aujourd'hui, soutenir l'initiative qui vous est proposée ne remet pas en cause la fin de cette inégalité entre les couples mariés et les autres, au contraire, et n'a pas d'incidence sur l'organisation familiale, contrairement à ce qu'on a pu entendre. Elle offre au peuple un véritable choix sur le modèle : régler un problème fédéral sans créer de nouvelles inégalités ou mettre en place un système bureaucratique sans amélioration claire pour une grande majorité des contribuables. Si l'initiative de rang constitutionnel est acceptée, elle rendra caduque la révision législative acceptée par le peuple. C'est assez clair pour ceux qui en douteraient ou qui auraient émis des avis contraires aujourd'hui.\nIl nous appartiendra à nous, parlementaires, de trouver une solution plus simple, plus égalitaire, comme les cantons l'ont fait, sans leur imposer, au passage, une révolution dont une majorité d'entre eux n'a pas voulu. Accepter l'initiative, ce n'est pas trahir la volonté du peuple, mais, au contraire, c'est lui donner l'occasion de choisir la méthode.\nQuant aux coûts, pour essayer de répondre à Madame Herzog, vous savez très bien que cela dépendra du modèle qui sera retenu par le Parlement. Ce coût, dans le débat sur l'imposition individuelle, a aussi évolué. Il pourra aussi évoluer dans les débats que nous aurons. Pour l'instant, la question se pose sur la méthode : comment régler cette inégalité qui dure depuis aussi longtemps ?\nDans ce cadre-là, je vous invite à soutenir la proposition de la minorité, qui offrira un vrai choix au Parlement et à la population sur la méthode et sur le coût.\n",
+      "language": "JU"
+    },
+    {
+      "id": "375759",
+      "id_subject": "71700",
+      "id_session": "5214",
+      "sort_order": 8,
+      "date": "20260608",
+      "council": "S",
+      "speaker": "Crevoisier Crelier Mathilde",
+      "function_speaker": "2VP-F",
+      "party": "S",
+      "canton": "JU",
+      "affair_id": "20240090",
+      "business_number": "24.090",
+      "business_title_fr": "Loi sur la radioprotection (LRaP). Modification",
+      "business_title_de": "Strahlenschutzgesetz (StSG). Änderung",
+      "business_title_it": "Legge sulla radioprotezione (LRaP). Modifica",
+      "department": "EDI",
+      "text": "Ici aussi, il s'agit de la poursuite de la croisade contre l'infraction pour négligence que mène notre conseil. On sait pourtant que si elles sont commises par négligence, les infractions qui sont définies à l'article 44 n'en sont pas pour autant négligeables. En effet, il peut s'agir d'exercer sans autorisation des activités qui, justement, sont soumises au régime de l'autorisation, ou de ne pas prendre les mesures nécessaires pour respecter les limites de dose. Il peut s'agir également de se soustraire à la dosimétrie qui est prescrite. On parle donc de pratiques - qu'elles soient intentionnelles ou commises par négligence - qui mettent en danger la population en raison du domaine que l'on traite, qui est, je le rappelle quand même, les doses de radioactivité qui sont admises. \nAinsi, la proposition du Conseil national ne vise pas seulement à biffer purement et simplement l'infraction par négligence du projet de loi. Elle vise aussi à biffer le montant de l'amende qui était prévu jusqu'à présent, à savoir 20 000 francs. Pour qu'un délit ou un crime, selon la gravité de l'infraction poursuivie, soit pénalisé d'une amende de 20 000 francs, on ne parle pas d'un cas de bagatelle. Par ailleurs, la clause de minimis qui a été prévue à l'article 44 alinéa 4 permet de donner la marge de manoeuvre nécessaire pour éviter de poursuivre et de chicaner les personnes ou les entreprises qui se seraient réellement livrées à une infraction de peu de gravité par rapport à cette négligence. Cela crée également une forte asymétrie dans le texte de loi, puisque seule l'intention serait mentionnée à l'article 44. Dès lors, le risque serait évident que l'on plaide la négligence pour se soustraire à toute poursuite en cas d'infraction commise. La proposition qui vous est faite par le Conseil des États constitue un recul par rapport au droit en vigueur et en regard des enjeux en matière de santé publique et de protection de la population. Il est primordial de ne pas donner lieu à ce recul. \nC'est pourquoi je vous invite, comme l'a fait le Conseil national, à maintenir la version du Conseil fédéral et à éliminer ainsi cette dernière divergence.\n",
       "language": "JU"
     }
   ]

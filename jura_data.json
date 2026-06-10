@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-09T22:25:24",
+    "updated": "2026-06-10T14:57:08",
     "total_count": 147,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -23,7 +23,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263597",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263597",
       "mention": "Titre uniquement",
-      "text": "<p>Le Conseil fédéral est chargé:<\/p><ul><li>Procéder à un examen de la législation pour recenser les textes qui font référence directement ou indirectement à la notion de concubinage et de ses effets concrets pour les citoyens (fiscalité, assurances sociales, droits réels, droit de la famille, etc.),<\/li><li>Établir une comparaison de ces notions différentes et de leurs effets,<\/li><li>Dresser un rapport à l’attention du Parlement,<\/li><li>Proposer l’uniformisation ou l’harmonisation des dispositions légales concernées,<\/li><li>Si de tels projets sont déjà menés, en indiquer l'état de situation et le calendrier de mise en œuvre.<\/li><\/ul>"
+      "text": "<p>Le Conseil fédéral est chargé:<\/p><ul><li>Procéder à un examen de la législation pour recenser les textes qui font référence directement ou indirectement à la notion de concubinage et de ses effets concrets pour les citoyens (fiscalité, assurances sociales, droits réels, droit de la famille, etc.),<\/li><li>Établir une comparaison de ces notions différentes et de leurs effets,<\/li><li>Dresser un rapport à l’attention du Parlement,<\/li><li>Proposer l’uniformisation ou l’harmonisation des dispositions légales concernées,<\/li><li>Si de tels projets sont déjà menés, en indiquer l'état de situation et le calendrier de mise en œuvre.<\/li><\/ul>",
+      "tags": "Questions sociales|Droit civil|Protection sociale",
+      "tags_de": "Soziale Fragen|Zivilrecht|Sozialer Schutz",
+      "tags_it": "Questioni sociali|Diritto civile|Protezione sociale"
     },
     {
       "shortId": "26.7473",
@@ -152,7 +155,7 @@
       "shortId": "26.3571",
       "title": "Titre suit",
       "title_de": "Von Dänemark lernen. Bei längerfristigen Freiheitsstrafen muss die obligatorische Landesverweisung obligatorisch sein",
-      "title_it": "Titolo segue",
+      "title_it": "Imparare dalla Danimarca: espulsione obbligatoria in caso di pene detentive di lunga durata",
       "author": "Friedli Esther",
       "party": "UDC",
       "type": "Mo.",

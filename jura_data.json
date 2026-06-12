@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-12T14:37:31",
+    "updated": "2026-06-12T22:25:07",
     "total_count": 148,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -8,6 +8,28 @@
   },
   "session_summary": {},
   "items": [
+    {
+      "shortId": "26.3411",
+      "title": "Pour des laits et aliments infantiles sûrs en tout temps, garantir la prévention et l'information en cas de contamination",
+      "title_de": "Jederzeit sichere Säuglingsnahrung. Prävention und Aufklärung im Fall einer Kontamination gewährleisten",
+      "title_it": "Garantire la prevenzione e l'informazione in caso di contaminazione per far sì che il latte e gli alimenti per la prima infanzia siano sempre sicuri",
+      "author": "Crevoisier Crelier Mathilde",
+      "party": "PS",
+      "type": "Mo.",
+      "status": "In Kommission des Nationalrats / En commission du Conseil national",
+      "council": "SR",
+      "department": "EDI",
+      "date": "2026-03-20",
+      "date_maj": "2026-06-12",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263411",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263411",
+      "mention": "Titre uniquement",
+      "text": "<p>Le Conseil fédéral est chargé de prendre les mesures nécessaires pour assurer la sécurité de la population lors de cas de contaminations alimentaires, en particulier des laits et aliments infantiles. Il s’agit de garantir l’application des articles 26 à 29 de la loi sur les denrées alimentaires (LDAI), qui règlent les obligations des entreprises (autocontrôle, garantie de la protection de la santé, traçabilité, devoir d’assistance et obligation de renseigner). Les mesures prises visent à garantir que les cas de contamination soient communiqués rapidement aux autorités alimentaires et sanitaires ainsi qu'au public, que les rappels soient effectués dans les meilleurs délais et que les produits rappelés le soient effectivement.<\/p>",
+      "text_de": "<p>Der Bundesrat wird beauftragt, die erforderlichen Massnahmen zu ergreifen, um die Sicherheit der Bevölkerung bei Lebensmittelkontaminationen zu gewährleisten, insbesondere wenn Säuglingsnahrung von der Kontamination betroffen ist. Damit soll die Umsetzung der Artikel 26 bis 29 des Lebensmittelgesetzes (LMG) sichergestellt werden, welche die Pflichten der Unternehmen regeln (Selbstkontrolle, Sicherstellung des Gesundheitsschutzes, Rückverfolgbarkeit, Unterstützungs- und Auskunftspflicht). Die Massnahmen sollen sicherstellen, dass Lebensmittel- und Gesundheitsbehörden sowie die Öffentlichkeit umgehend über festgestellte Kontaminationen informiert werden, betroffene Produkte so schnell wie möglich zurückgerufen werden und zurückgerufene Produkte tatsächlich vom Markt entfernt werden.<\/p>",
+      "tags": "Économie|Questions sociales|Médias et communication|Santé",
+      "tags_de": "Wirtschaft|Soziale Fragen|Medien und Kommunikation|Gesundheit",
+      "tags_it": "Economia|Questioni sociali|Media e comunicazione|Salute"
+    },
     {
       "shortId": "26.3628",
       "title": "Cybersécurité et souveraineté numérique. Doter la Suisse d’une feuille de route nationale de transition vers la cryptographie post-quantique",
@@ -254,29 +276,6 @@
       "tags": "Finances|Éducation",
       "tags_de": "Finanzwesen|Bildung",
       "tags_it": "Finanze|Formazione"
-    },
-    {
-      "shortId": "26.3411",
-      "title": "Pour des laits et aliments infantiles sûrs en tout temps, garantir la prévention et l'information en cas de contamination",
-      "title_de": "Jederzeit sichere Säuglingsnahrung. Prävention und Aufklärung im Fall einer Kontamination gewährleisten",
-      "title_it": "Garantire la prevenzione e l'informazione in caso di contaminazione per far sì che il latte e gli alimenti per la prima infanzia siano sempre sicuri",
-      "author": "Crevoisier Crelier Mathilde",
-      "party": "PS",
-      "type": "Mo.",
-      "status": "In Kommission des Nationalrats / En commission du Conseil national",
-      "council": "SR",
-      "department": "EDI",
-      "date": "2026-03-20",
-      "date_maj": "2026-06-12",
-      "statut_change_date": "2026-06-12",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263411",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263411",
-      "mention": "Titre uniquement",
-      "text": "<p>Le Conseil fédéral est chargé de prendre les mesures nécessaires pour assurer la sécurité de la population lors de cas de contaminations alimentaires, en particulier des laits et aliments infantiles. Il s’agit de garantir l’application des articles 26 à 29 de la loi sur les denrées alimentaires (LDAI), qui règlent les obligations des entreprises (autocontrôle, garantie de la protection de la santé, traçabilité, devoir d’assistance et obligation de renseigner). Les mesures prises visent à garantir que les cas de contamination soient communiqués rapidement aux autorités alimentaires et sanitaires ainsi qu'au public, que les rappels soient effectués dans les meilleurs délais et que les produits rappelés le soient effectivement.<\/p>",
-      "text_de": "<p>Der Bundesrat wird beauftragt, die erforderlichen Massnahmen zu ergreifen, um die Sicherheit der Bevölkerung bei Lebensmittelkontaminationen zu gewährleisten, insbesondere wenn Säuglingsnahrung von der Kontamination betroffen ist. Damit soll die Umsetzung der Artikel 26 bis 29 des Lebensmittelgesetzes (LMG) sichergestellt werden, welche die Pflichten der Unternehmen regeln (Selbstkontrolle, Sicherstellung des Gesundheitsschutzes, Rückverfolgbarkeit, Unterstützungs- und Auskunftspflicht). Die Massnahmen sollen sicherstellen, dass Lebensmittel- und Gesundheitsbehörden sowie die Öffentlichkeit umgehend über festgestellte Kontaminationen informiert werden, betroffene Produkte so schnell wie möglich zurückgerufen werden und zurückgerufene Produkte tatsächlich vom Markt entfernt werden.<\/p>",
-      "tags": "Économie|Questions sociales|Médias et communication|Santé",
-      "tags_de": "Wirtschaft|Soziale Fragen|Medien und Kommunikation|Gesundheit",
-      "tags_it": "Economia|Questioni sociali|Media e comunicazione|Salute"
     },
     {
       "shortId": "26.3099",

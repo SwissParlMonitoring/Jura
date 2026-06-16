@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-16T16:27:45",
+    "updated": "2026-06-16T22:53:05",
     "total_count": 148,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -8,6 +8,28 @@
   },
   "session_summary": {},
   "items": [
+    {
+      "shortId": "26.3099",
+      "title": "Clarifications juridiques et potentiel de l'utilisation de l'intelligence artificielle dans les domaines de la police et de la sécurité intérieure",
+      "title_de": "Rechtliche Abklärungen und Potenzial von künstlicher Intelligenz in den Bereichen Polizei und innere Sicherheit",
+      "title_it": "Chiarimenti giuridici e potenzialità dell'impiego dell'intelligenza artificiale nei settori della polizia e della sicurezza interna",
+      "author": "Juillard Charles",
+      "party": "Le Centre",
+      "type": "Po.",
+      "status": "Überwiesen an den Bundesrat / Transmis au Conseil fédéral",
+      "council": "SR",
+      "department": "EJPD",
+      "date": "2026-03-12",
+      "date_maj": "2026-06-16",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263099",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263099",
+      "mention": "Titre uniquement",
+      "text": "<p>Le Conseil fédéral est chargé de présenter un rapport concernant l’utilisation de l’intelligence artificielle (IA) dans les domaines de la police, de la sécurité intérieure et de la poursuite pénale exposant le potentiel, les bases légales et les limites constitutionnelles, notamment pour la protection de la vie privée. Sur la base de ces conclusions, il devra soumettre au Parlement des lignes directrices pour une utilisation cohérente et conforme aux droits fondamentaux de l’IA dans les domaines de la police, de la sécurité intérieure et de la poursuite pénale, tout en respectant la souveraineté numérique de la Suisse. Le rapport devra notamment :<\/p><p>&nbsp;<\/p><p>1. Démontrer le potentiel et les domaines d’application des technologies d’IA pour rendre la lutte contre la criminalité plus efficace et contribuer à la sauvegarde de la sécurité intérieure.<\/p><p>&nbsp;<\/p><p>2. Analyser le cadre juridique existant pour l’utilisation des technologies d’IA dans le domaine de la sécurité et identifier les éventuelles lacunes du cadre juridique.<\/p><p>&nbsp;<\/p><p>3. Expliquer les limites constitutionnelles à l’utilisation des technologies d’IA dans les domaines de la police et de la sécurité et définir des conditions cadre et les lignes directrices pour l’utilisation de ces technologies.<\/p><p>&nbsp;<\/p><p>4. Démontrer comment les exigences en matière de protection de la vie privée peuvent être satisfaites lors de l'utilisation des technologies d'IA dans les domaines de la police et de la sécurité.&nbsp;<\/p><p>&nbsp;<\/p><p>5. Expliquer comment la souveraineté numérique de la Suisse peut être préservée et la dépendance vis-à-vis des prestataires externes évitée lors de l'acquisition et de l'exploitation des technologies d'IA dans le secteur de la sécurité.<\/p><p>&nbsp;<\/p>",
+      "text_de": "<p>Der Bundesrat wird beauftragt, einen Bericht über den Einsatz künstlicher Intelligenz (KI) in den Bereichen Polizei, innere Sicherheit und Strafverfolgung vorzulegen. Der Bericht soll insbesondere das Potenzial, die rechtlichen Grundlagen sowie die verfassungsrechtlichen Grenzen von KI – namentlich in Bezug auf den Schutz der Privatsphäre – darlegen. Auf der Grundlage des Berichts soll der Bundesrat dem Parlament Leitlinien für einen kohärenten und grundrechtskonformen Einsatz von KI in den Bereichen Polizei, innere Sicherheit und Strafverfolgung vorlegen, wobei die digitale Souveränität der Schweiz gewahrt werden soll. Der Bericht soll insbesondere:<\/p><p>&nbsp;<\/p><p>1. das Potenzial und die Anwendungsbereiche von KI-Technologien aufzeigen, um die Bekämpfung der Kriminalität effizienter zu gestalten und die innere Sicherheit zu stärken;<\/p><p>&nbsp;<\/p><p>2. den bestehenden Rechtsrahmen für den Einsatz von KI-Technologien im Sicherheitsbereich analysieren und allfällige Lücken identifizieren;<\/p><p>&nbsp;<\/p><p>3. die verfassungsrechtlichen Grenzen für den Einsatz von KI-Technologien in den Bereichen Polizei und Sicherheit erläutern sowie Rahmenbedingungen und Leitlinien für den Einsatz von KI definieren;<\/p><p>&nbsp;<\/p><p>4. aufzeigen, wie die Anforderungen an den Schutz der Privatsphäre beim Einsatz von KI-Technologien im Polizei- und Sicherheitsbereich erfüllt werden können;&nbsp;<\/p><p>&nbsp;<\/p><p>5. erläutern, wie die digitale Souveränität der Schweiz gewahrt und Abhängigkeiten von externen Anbietern bei der Beschaffung und beim Betrieb von KI-Technologien im Sicherheitsbereich vermieden werden können.<\/p>",
+      "tags": "Politique de sécurité|Droit|Médias et communication",
+      "tags_de": "Sicherheitspolitik|Recht Allgemein|Medien und Kommunikation",
+      "tags_it": "Politica di sicurezza|Diritto generale|Media e comunicazione"
+    },
     {
       "shortId": "26.7473",
       "title": "Conditions d'emploi au SEM : un tournant pour le personnel fédéral ?",
@@ -279,29 +301,6 @@
       "tags": "Finances|Éducation",
       "tags_de": "Finanzwesen|Bildung",
       "tags_it": "Finanze|Formazione"
-    },
-    {
-      "shortId": "26.3099",
-      "title": "Clarifications juridiques et potentiel de l'utilisation de l'intelligence artificielle dans les domaines de la police et de la sécurité intérieure",
-      "title_de": "Rechtliche Abklärungen und Potenzial von künstlicher Intelligenz in den Bereichen Polizei und innere Sicherheit",
-      "title_it": "Chiarimenti giuridici e potenzialità dell'impiego dell'intelligenza artificiale nei settori della polizia e della sicurezza interna",
-      "author": "Juillard Charles",
-      "party": "Le Centre",
-      "type": "Po.",
-      "status": "Überwiesen an den Bundesrat / Transmis au Conseil fédéral",
-      "council": "SR",
-      "department": "EJPD",
-      "date": "2026-03-12",
-      "date_maj": "2026-06-16",
-      "statut_change_date": "2026-06-16",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263099",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263099",
-      "mention": "Titre uniquement",
-      "text": "<p>Le Conseil fédéral est chargé de présenter un rapport concernant l’utilisation de l’intelligence artificielle (IA) dans les domaines de la police, de la sécurité intérieure et de la poursuite pénale exposant le potentiel, les bases légales et les limites constitutionnelles, notamment pour la protection de la vie privée. Sur la base de ces conclusions, il devra soumettre au Parlement des lignes directrices pour une utilisation cohérente et conforme aux droits fondamentaux de l’IA dans les domaines de la police, de la sécurité intérieure et de la poursuite pénale, tout en respectant la souveraineté numérique de la Suisse. Le rapport devra notamment :<\/p><p>&nbsp;<\/p><p>1. Démontrer le potentiel et les domaines d’application des technologies d’IA pour rendre la lutte contre la criminalité plus efficace et contribuer à la sauvegarde de la sécurité intérieure.<\/p><p>&nbsp;<\/p><p>2. Analyser le cadre juridique existant pour l’utilisation des technologies d’IA dans le domaine de la sécurité et identifier les éventuelles lacunes du cadre juridique.<\/p><p>&nbsp;<\/p><p>3. Expliquer les limites constitutionnelles à l’utilisation des technologies d’IA dans les domaines de la police et de la sécurité et définir des conditions cadre et les lignes directrices pour l’utilisation de ces technologies.<\/p><p>&nbsp;<\/p><p>4. Démontrer comment les exigences en matière de protection de la vie privée peuvent être satisfaites lors de l'utilisation des technologies d'IA dans les domaines de la police et de la sécurité.&nbsp;<\/p><p>&nbsp;<\/p><p>5. Expliquer comment la souveraineté numérique de la Suisse peut être préservée et la dépendance vis-à-vis des prestataires externes évitée lors de l'acquisition et de l'exploitation des technologies d'IA dans le secteur de la sécurité.<\/p><p>&nbsp;<\/p>",
-      "text_de": "<p>Der Bundesrat wird beauftragt, einen Bericht über den Einsatz künstlicher Intelligenz (KI) in den Bereichen Polizei, innere Sicherheit und Strafverfolgung vorzulegen. Der Bericht soll insbesondere das Potenzial, die rechtlichen Grundlagen sowie die verfassungsrechtlichen Grenzen von KI – namentlich in Bezug auf den Schutz der Privatsphäre – darlegen. Auf der Grundlage des Berichts soll der Bundesrat dem Parlament Leitlinien für einen kohärenten und grundrechtskonformen Einsatz von KI in den Bereichen Polizei, innere Sicherheit und Strafverfolgung vorlegen, wobei die digitale Souveränität der Schweiz gewahrt werden soll. Der Bericht soll insbesondere:<\/p><p>&nbsp;<\/p><p>1. das Potenzial und die Anwendungsbereiche von KI-Technologien aufzeigen, um die Bekämpfung der Kriminalität effizienter zu gestalten und die innere Sicherheit zu stärken;<\/p><p>&nbsp;<\/p><p>2. den bestehenden Rechtsrahmen für den Einsatz von KI-Technologien im Sicherheitsbereich analysieren und allfällige Lücken identifizieren;<\/p><p>&nbsp;<\/p><p>3. die verfassungsrechtlichen Grenzen für den Einsatz von KI-Technologien in den Bereichen Polizei und Sicherheit erläutern sowie Rahmenbedingungen und Leitlinien für den Einsatz von KI definieren;<\/p><p>&nbsp;<\/p><p>4. aufzeigen, wie die Anforderungen an den Schutz der Privatsphäre beim Einsatz von KI-Technologien im Polizei- und Sicherheitsbereich erfüllt werden können;&nbsp;<\/p><p>&nbsp;<\/p><p>5. erläutern, wie die digitale Souveränität der Schweiz gewahrt und Abhängigkeiten von externen Anbietern bei der Beschaffung und beim Betrieb von KI-Technologien im Sicherheitsbereich vermieden werden können.<\/p>",
-      "tags": "Politique de sécurité|Droit|Médias et communication",
-      "tags_de": "Sicherheitspolitik|Recht Allgemein|Medien und Kommunikation",
-      "tags_it": "Politica di sicurezza|Diritto generale|Media e comunicazione"
     },
     {
       "shortId": "26.3497",

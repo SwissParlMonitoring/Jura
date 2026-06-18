@@ -1,10 +1,10 @@
 {
   "meta": {
     "sessions": "5214",
-    "count": 705,
-    "updated": "2026-06-17 22:51:50.23458"
+    "count": 709,
+    "updated": "2026-06-18 15:44:34.414197"
   },
-  "new_ids": ["376778", "376969", "376993", "376994", "377009", "376999", "377168", "377145", "377162", "377715", "377727", "377412", "377502", "377541", "377731", "377733"],
+  "new_ids": ["376778", "376969", "376993", "376994", "377009", "376999", "377168", "377145", "377162", "377715", "377727", "377412", "377502", "377541", "377731", "377733", "378164", "378198", "377956", "377993"],
   "items": [
     {
       "id": "329458",
@@ -13565,7 +13565,47 @@
       "business_title_de": " Freihandelsabkommen zwischen den EFTA-Staaten und Mercosur. Genehmigung",
       "business_title_it": "Accordo di libero scambio tra gli Stati dell’AELS e il Mercosur. Approvazione",
       "department": "WBF",
-      "text": "La forêt amazonienne est un écosystème indispensable pour notre planète. Aujourd'hui, elle est gravement menacée. L'évaluation d'impact environnemental du Secrétariat d'État à l'économie (SECO) nous apprend que le risque de défrichement est de 900 km2. C'est plus que la superficie du canton du Jura. Comment évaluez-vous ce risque considérable, sans garantie dans l'accord du Mercosur ?\n",
+      "text": "Monsieur le président, la forêt amazonienne est un écosystème indispensable pour notre planète. Aujourd'hui, elle est gravement menacée. L'évaluation d'impact environnemental du Secrétariat d'État à l'économie (SECO) nous apprend que le risque de défrichement est de 900 km2. C'est plus que la superficie du canton du Jura. Comment évaluez-vous ce risque considérable, sans garantie dans l'accord du Mercosur ?\n",
+      "language": "DE"
+    },
+    {
+      "id": "378164",
+      "id_subject": "72057",
+      "id_session": "5214",
+      "sort_order": 2,
+      "date": "20260618",
+      "council": "N",
+      "speaker": "Docourt Martine",
+      "function_speaker": "Mit-F",
+      "party": "S",
+      "canton": "NE",
+      "affair_id": "20263011",
+      "business_number": "26.3011",
+      "business_title_fr": "Projets géothermiques. Encouragement axé sur la pratique et sécurité du droit",
+      "business_title_de": "Geothermieprojekte praxisnah fördern und Rechtssicherheit schaffen",
+      "business_title_it": "Progetti di geotermia. Promozione incentrata sulla prassi e certezza del diritto",
+      "department": "UVEK",
+      "text": "Cette motion de la Commission de l'environnement, de l'aménagement du territoire et de l'énergie vise à clarifier les conditions d'encouragement de la géothermie dans le cadre de la loi sur le CO2 et à garantir que les moyens financiers décidés par le Parlement puissent effectivement être utilisés pour les projets que nous souhaitons voir se réaliser.\nUne interprétation restrictive de la notion d'utilisation directe de la géothermie menace aujourd'hui la réalisation d'une grande partie des projets actuellement en préparation. Plus d'une vingtaine de projets géothermiques sont en cours de développement en Suisse. Nombre d'entre eux ont déjà franchi avec succès la phase d'exploration soutenue par la Confédération et s'apprêtent à entrer dans la phase de mise en oeuvre. La majorité de ces projets sont destinés à alimenter des réseaux thermiques urbains et représentent des investissements considérables de la part des collectivités publiques et des entreprises énergétiques. Or, selon l'interprétation actuellement retenue par l'Office fédéral de l'énergie et récemment confirmée par le Tribunal administratif fédéral, seule une définition très étroite de l'utilisation directe serait admissible. En pratique, la température de la ressource géothermique devrait être suffisamment élevée pour atteindre directement la température de départ du réseau de chaleur.\nCette lecture ne correspond ni à la réalité technique des réseaux thermiques modernes ni aux pratiques courantes observées dans les pays voisins. Dans de nombreux projets, la chaleur géothermique est utilisée directement pour préchauffer le retour du réseau. Une pompe à chaleur peut ensuite compléter le système lorsque cela est nécessaire. Cette configuration permet déjà une valorisation directe de la ressource géothermique tout en limitant le recours à l'électricité. Elle est reconnue comme une solution efficace, économique, pertinente et largement répandue en Europe. Si l'interprétation actuelle devait prévaloir, une grande partie des projets situés notamment dans la région du pied du Jura, entre Genève et Bâle, deviendraient inéligibles au soutien prévu par la loi sur le CO2. Plus de la moitié des projets en développement pourraient ainsi être remis en question. Nous risquons alors de perdre des investissements déjà consentis, mais aussi de compromettre les objectifs qui ont été fixés dans la loi sur l'énergie et dans la loi sur le CO2.\nLa conséquence serait également un report vers des solutions davantage dépendantes de l'électricité, alors même que nous cherchons à maîtriser la demande hivernale et à renforcer notre sécurité d'approvisionnement.\nLa motion de commission ne crée pas de nouvelles subventions et ne modifie pas les montants octroyés par le Parlement. Elle vise simplement à garantir que l'intention du législateur soit respectée et que les projets géothermiques puissent bénéficier du soutien prévu lorsqu'ils contribuent effectivement à la production de chaleur renouvelable pour les réseaux thermiques.\nDe plus, il est important de rappeler que le Parlement a confirmé, dans le cadre du programme d'allègement budgétaire 2027, le maintien d'un soutien annuel de 30 millions de francs à la géothermie. Nous avons ainsi affirmé notre volonté de développer cette ressource indigène, renouvelable et disponible toute l'année, afin de contribuer à la décarbonation du chauffage et au développement des réseaux thermiques.\nLa commission estime qu'il appartient désormais au législateur de lever cette insécurité juridique et de corriger une interprétation qui menace le développement d'une filière importante pour la transition énergétique en Suisse.\nPour toutes ces raisons, la CEATE du Conseil national vous invite donc à adopter la motion 26.3011. Au sein de la commission, la proposition de motion a été acceptée, par 14 voix contre 9 et 1 abstention.\n",
+      "language": "DE"
+    },
+    {
+      "id": "378198",
+      "id_subject": "72063",
+      "id_session": "5214",
+      "sort_order": 1,
+      "date": "20260618",
+      "council": "N",
+      "speaker": "Klopfenstein Broggini Delphine",
+      "function_speaker": "Mit-F",
+      "party": "G",
+      "canton": "GE",
+      "affair_id": "20243597",
+      "business_number": "24.3597",
+      "business_title_fr": "Les agglomérations transfrontalières, enjeux nationaux en matière de mobilité",
+      "business_title_de": "Grenzüberschreitende Agglomerationen. Nationale Herausforderungen im Bereich der Mobilität",
+      "business_title_it": "Agglomerati transfrontalieri. Sfide nazionali per la mobilità",
+      "department": "UVEK",
+      "text": "Les agglomérations transfrontalières sont malheureusement un angle mort de notre politique des transports. Ce ne sont pas des cas particuliers, ce sont plutôt des moteurs économiques du pays, où se concentrent emplois, croissance et mobilité internationale. À Bâle, les flux quotidiens entre la Suisse, la France et l'Allemagne exercent une pression constante sur les infrastructures. Au Tessin, les axes avec l'Italie sont saturés aux heures de pointe. Dans l'arc jurassien, de Neuchâtel au canton du Jura, les alternatives ferroviaires restent insuffisantes face à une forte dépendance à la route. Dans la vallée du Rhin saint-galloise, les déplacements transfrontaliers avec l'Autriche suivent la même dynamique. Près de 400 000 frontaliers travaillent aujourd'hui en Suisse. Ce chiffre a plus que doublé en 20 ans. Ces déplacements existent, la question maintenant est de savoir comment les organiser. Est-ce qu'on veut les organiser de manière efficace ou est-ce qu'on veut le faire à coup d'embouteillages et de pollution ?\nPrenons un exemple concret : le Grand Genève. Chaque jour, près de 300 000 véhicules franchissent la frontière. Dans le même temps, le Léman Express qui relie Genève à la Haute-Savoie montre qu'une alternative fonctionne quand l'offre est là. Là où le rail est développé, la demande suit. Là où elle ne l'est pas, la voiture et les nuisances, malheureusement, restent dominantes et, avec elles, les embouteillages. Le Conseil fédéral nous répond que les instruments existent déjà : la loi sur les chemins de fer, les programmes d'agglomération, la planification cantonale. C'est vrai sur le papier, mais, dans la réalité, cela ne suffit malheureusement pas. Pourquoi cela ne suffit-il pas ? Parce que ces instruments ont été pensés dans un cadre essentiellement national, à l'intérieur même des frontières, alors que les flux, eux, sont transfrontaliers. Le résultat est des projets qui avancent lentement, une coordination qui est complexe et surtout une absence de vision d'ensemble à l'échelle des bassins de vie.\n",
       "language": "DE"
     },
     {
@@ -14046,6 +14086,46 @@
       "business_title_it": "Accordo di libero scambio tra gli Stati dell’AELS e il Mercosur. Approvazione",
       "department": "WBF",
       "text": "Herr Kollege Portmann, Sie haben jetzt vor den Bauern etwas Süssholz geraspelt. Vorhin, in der Eintretensdebatte, haben Sie als Sprecher der FDP-Fraktion alle Bauern der Schweiz als ewige Jammerer, die seit 15 Jahren den Schweizer Staat melken, verunglimpft, nein, regelrecht durch den Dreck gezogen. Was für eine Ohrfeige für die Menschen, die für einen Stundenlohn, für den Sie, Herr Kollege Portmann, heute Morgen nicht einmal aufgestanden wären, jeden Tag kämpfen und nicht jammern, unsere schöne Landschaft pflegen und die Schweiz mit hochwertigen Produkten versorgen! Deshalb meine Frage an Sie: Werden Sie sich, auch im Namen Ihrer Partei, dafür entschuldigen?\n",
+      "language": "JU"
+    },
+    {
+      "id": "377956",
+      "id_subject": "72039",
+      "id_session": "5214",
+      "sort_order": 5,
+      "date": "20260618",
+      "council": "S",
+      "speaker": "Crevoisier Crelier Mathilde",
+      "function_speaker": "2VP-F",
+      "party": "S",
+      "canton": "JU",
+      "affair_id": "20263164",
+      "business_number": "26.3164",
+      "business_title_fr": "Situation des employés âgés de l'administration fédérale et des entreprises liées à la Confédération",
+      "business_title_de": "Situation älterer Mitarbeitender in der Bundesverwaltung und bundesnahen Betrieben",
+      "business_title_it": "Situazione dei collaboratori più anziani nell'Amministrazione federale e nelle aziende parastatali",
+      "department": "EFD",
+      "text": "Je soutiens également le postulat Z'graggen dans le sens où les compétences et l'expérience des personnes plus âgées sont évidemment précieuses. Elles seules sont à même d'assurer le transfert d'expérience vers les plus jeunes générations ; elles représentent, à ce titre, une ressource précieuse. Je rejoins également les considérations évoquées selon lesquelles l'engagement à partir de la quarantaine - je n'avais pas conscience que c'était dès la quarantaine - devient plus compliqué pour les personnes impliquées. J'aimerais toutefois formuler deux remarques.\nPremièrement, je salue le fait que dans son postulat, l'auteure admette qu'il y a des mécanismes de discrimination, y compris cachés, dans les conditions de travail. J'aurais souhaité que, par cohérence, elle ne s'attaque pas à la protection contre les discriminations à l'égard des femmes, qui est garantie par la loi sur l'égalité (LEg) et que nous avons, à plusieurs égards, durant cette session et durant cette semaine de session, affaiblie en matière de discriminations cachées, notamment en adoptant la motion Schilliger 23.4139 hier. Autant je suis prête à soutenir la lutte contre les discriminations des travailleurs et des travailleuses âgés, autant je souhaiterais que la même chose soit faite pour les discriminations à l'égard des femmes en général. \nDeuxièmement, les travailleurs et travailleuses âgés représentent effectivement, pour les budgets des unités administratives, un coût plus élevé - heureusement, d'ailleurs, en raison de l'évolution salariale et de la rémunération de l'expérience. Ces mêmes unités administratives sont soumises, année après année, à des coupes budgétaires qui restreignent leur budget. Dès lors, si nous souhaitons qu'une politique soit menée en faveur d'un personnel le plus adéquat et le plus expérimenté possible dans l'administration, il faut aussi lui en donner les moyens. Ainsi, ce Parlement devrait garder cette réflexion en tête lorsqu'il adopte des coupes à la hache dans tous les budgets de l'administration, qui sont généralement, vous le savez, répercutés sur le personnel, car c'est là un des leviers les plus flexibles.\n",
+      "language": "JU"
+    },
+    {
+      "id": "377993",
+      "id_subject": "72042",
+      "id_session": "5214",
+      "sort_order": 3,
+      "date": "20260618",
+      "council": "S",
+      "speaker": "Juillard Charles",
+      "function_speaker": "Mit-M",
+      "party": "M-E",
+      "canton": "JU",
+      "affair_id": "20263257",
+      "business_number": "26.3257",
+      "business_title_fr": "Évaluation de l'efficacité des subventions fédérales",
+      "business_title_de": "Evaluation der Wirksamkeit der Bundessubventionen",
+      "business_title_it": "Valutazione dell'efficacia dei sussidi federali",
+      "department": "EFD",
+      "text": "J'ai cosigné ce postulat et je vous invite aussi à le soutenir, parce qu'il part d'un principe qui me paraît assez fondamental et qui consiste finalement à se poser des questions à intervalles réguliers pour voir si les décisions que nous avons prises à un moment donné sont toujours valables, sont toujours d'actualité ou permettent toujours d'atteindre les objectifs que nous nous sommes fixés. Cela implique un gros travail, c'est sûr. Cela implique peut-être aussi de remettre en cause certaines décisions que nous avons prises antérieurement, mais je crois qu'il faut être conscient que les choses évoluent, que le monde change et que ce qui était peut-être nécessaire à un moment donné devient moins nécessaire à un autre moment, que des priorités doivent être changées. C'est pour cela que je vous invite à soutenir ce postulat.\nJe vais même plus loin. La question qu'on devrait se poser, je l'ai déjà exprimé à quelques reprises, c'est la remise en cause des lois, des lois mêmes que nous faisons. Parce qu'on n'arrête pas de parler d'inflation législative, avec toujours plus de lois, toujours plus de réglementations qui arrivent, mais jamais d'abrogation de textes de loi qui sont en vigueur. On ne repose jamais ces questions.\nAlors, je sais que pour les docteurs en droit, ce que je vais dire est une hérésie, mais on devrait frapper chaque loi d'une date limite de réexamen pour pouvoir se poser la question de savoir si ce qu'elle contient, si les objectifs qui sont visés au travers de ces politiques publiques, sont encore d'actualité et ne mériteraient pas, peut-être, une remise en question, au même titre que celle qui nous est proposée ici par le postulat Regazzi que je vous invite vraiment à soutenir.\n",
       "language": "JU"
     }
   ]

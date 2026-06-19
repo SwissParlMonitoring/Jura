@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-06-19T14:46:10",
+    "updated": "2026-06-19T22:04:07",
     "total_count": 152,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": ["26.3891", "26.3916", "26.3936", "26.3949"]
+    "new_ids": []
   },
   "session_summary": {},
   "items": [
@@ -75,6 +75,28 @@
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263949",
       "mention": "Élu",
       "text_de": "<p>Vor diesem Hintergrund wird der Bundesrat gebeten, folgende Fragen zu beantworten:<\/p><ol style=\"list-style-type:decimal;\"><li>Erachtet der Bundesrat die heutigen Instrumente – insbesondere die Interkantonale Universitätsvereinbarung sowie die Bundesbeiträge nach Hochschulförderungs- und -koordinationsgesetz (HFKG) – als ausreichend, um die von den Trägerkantonen zu tragenden Kosten angemessen zu begrenzen?<\/li><li>Welche Möglichkeiten sieht der Bundesrat gestützt auf Art. 48 Abs. 2 der Bundesverfassung, sich an interkantonalen Vereinbarungen im Hochschulbereich zu beteiligen oder deren Wirkung zu verstärken?<\/li><li>Wie schätzt der Bundesrat die Möglichkeiten ein, Nicht-Trägerkantone über Art. 48a Abs. 1 lit. c bzw. den entsprechenden Bestimmungen im FiLaG finanziell an kantonalen Universitäten zu beteiligen?<\/li><\/ol>"
+    },
+    {
+      "shortId": "26.3323",
+      "title": "Quels modèles de financement pour les hautes écoles ?",
+      "title_de": "Hochschulfinanzierung mit alternativen Finanzierungsmodellen sichern",
+      "title_it": "Garantire il finanziamento delle scuole universitarie attraverso modelli alternativi",
+      "author": "Brenzikofer Florence",
+      "party": "VERT-E-S",
+      "type": "Ip.",
+      "status": "Erledigt / Liquidé",
+      "council": "NR",
+      "department": "WBF",
+      "date": "2026-03-19",
+      "date_maj": "2026-06-19",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263323",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263323",
+      "mention": "Élu & Conseil fédéral",
+      "text": "<p>Je prie le Conseil fédéral de répondre aux questions suivantes&nbsp;:<\/p><ol><li>Parmi les propositions formulées ci-dessous, lesquelles considère-t-il comme réalisables du point de vue juridique, durables du point de vue de la politique financière et équilibrées du point de vue fédéral, et sur quels éléments fonde-t-il cette appréciation&nbsp;?<\/li><li>Quelle combinaison d’instruments lui paraît appropriée pour garantir la stabilité à long terme du financement des hautes écoles&nbsp;?<\/li><li>Voit-il un moyen de facturer, dans le cadre de la péréquation financière nationale, une proportion convenue de la partie non couverte des frais liés à un étudiant issu d’un canton sans haute école&nbsp;? Si oui, quelle proportion&nbsp;?<\/li><li>La création d’un fonds alimenté par les éventuels excédents résultant de la distribution des bénéfices de la Banque nationale suisse (BNS), dans le strict respect de l’indépendance de la BNS et des mécanismes de distribution en vigueur, lui paraît-il une piste digne d’intérêt&nbsp;? Si non, pourquoi&nbsp;?<\/li><li>La création d’un fonds de compensation et de stabilité affecté afin d’atténuer les fluctuations du financement des hautes écoles dues à des facteurs structurels et à la politique financière lui paraît-elle judicieuse&nbsp;?<\/li><\/ol>",
+      "text_de": "<p>In diesem Zusammenhang stellen sich folgende Fragen:<\/p><ol><li>Welche der aufgeführten Varianten erachtet der Bundesrat als rechtlich umsetzbar, finanzpolitisch nachhaltig und föderal ausgewogen und wie begründet er seine Einschätzung?<\/li><li>Welche Kombination von Instrumenten erscheint geeignet, um die langfristige Stabilität der Hochschulfinanzierung sicherzustellen?<\/li><li>Sieht der Bundesrat im Rahmen des nationalen Finanzausgleichs (NFA) die Möglichkeit, die Unterdeckung zu den Vollkosten für einen Studierenden aus einem Nichthochschulkanton zu einem vereinbarten Teil zur Verrechnung zu bringen? Und zu welchem Teil?<\/li><li>Sieht der Bundesrat in einer Fondslösung, gespiesen aus allfälligen Ausschüttungsüberschüssen der&nbsp;Schweizerischen Nationalbank, unter Wahrung der Unabhängigkeit der Nationalbank und der geltenden Ausschüttungsmechanismen, einen möglichen Weg, den es sich zu prüfen lohnt?&nbsp;Falls nein, wieso nicht?<\/li><li>Könnte die Schaffung eines zweckgebundenen Ausgleichs- und Stabilitätsfonds zur Abfederung finanzpolitischer und struktureller Schwankungen in der Hochschulfinanzierung ausgleichend wirken?<\/li><\/ol>",
+      "tags": "Finances|Éducation",
+      "tags_de": "Finanzwesen|Bildung",
+      "tags_it": "Finanze|Formazione"
     },
     {
       "shortId": "26.3518",
@@ -347,29 +369,6 @@
       "tags": "Transports|Aménagement du territoire et logement",
       "tags_de": "Verkehr|Raumplanung und Wohnungswesen",
       "tags_it": "Trasporti|Pianificazione territoriale e alloggi"
-    },
-    {
-      "shortId": "26.3323",
-      "title": "Quels modèles de financement pour les hautes écoles ?",
-      "title_de": "Hochschulfinanzierung mit alternativen Finanzierungsmodellen sichern",
-      "title_it": "Garantire il finanziamento delle scuole universitarie attraverso modelli alternativi",
-      "author": "Brenzikofer Florence",
-      "party": "VERT-E-S",
-      "type": "Ip.",
-      "status": "Erledigt / Liquidé",
-      "council": "NR",
-      "department": "WBF",
-      "date": "2026-03-19",
-      "date_maj": "2026-06-19",
-      "statut_change_date": "2026-06-19",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263323",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263323",
-      "mention": "Élu & Conseil fédéral",
-      "text": "<p>Je prie le Conseil fédéral de répondre aux questions suivantes&nbsp;:<\/p><ol><li>Parmi les propositions formulées ci-dessous, lesquelles considère-t-il comme réalisables du point de vue juridique, durables du point de vue de la politique financière et équilibrées du point de vue fédéral, et sur quels éléments fonde-t-il cette appréciation&nbsp;?<\/li><li>Quelle combinaison d’instruments lui paraît appropriée pour garantir la stabilité à long terme du financement des hautes écoles&nbsp;?<\/li><li>Voit-il un moyen de facturer, dans le cadre de la péréquation financière nationale, une proportion convenue de la partie non couverte des frais liés à un étudiant issu d’un canton sans haute école&nbsp;? Si oui, quelle proportion&nbsp;?<\/li><li>La création d’un fonds alimenté par les éventuels excédents résultant de la distribution des bénéfices de la Banque nationale suisse (BNS), dans le strict respect de l’indépendance de la BNS et des mécanismes de distribution en vigueur, lui paraît-il une piste digne d’intérêt&nbsp;? Si non, pourquoi&nbsp;?<\/li><li>La création d’un fonds de compensation et de stabilité affecté afin d’atténuer les fluctuations du financement des hautes écoles dues à des facteurs structurels et à la politique financière lui paraît-elle judicieuse&nbsp;?<\/li><\/ol>",
-      "text_de": "<p>In diesem Zusammenhang stellen sich folgende Fragen:<\/p><ol><li>Welche der aufgeführten Varianten erachtet der Bundesrat als rechtlich umsetzbar, finanzpolitisch nachhaltig und föderal ausgewogen und wie begründet er seine Einschätzung?<\/li><li>Welche Kombination von Instrumenten erscheint geeignet, um die langfristige Stabilität der Hochschulfinanzierung sicherzustellen?<\/li><li>Sieht der Bundesrat im Rahmen des nationalen Finanzausgleichs (NFA) die Möglichkeit, die Unterdeckung zu den Vollkosten für einen Studierenden aus einem Nichthochschulkanton zu einem vereinbarten Teil zur Verrechnung zu bringen? Und zu welchem Teil?<\/li><li>Sieht der Bundesrat in einer Fondslösung, gespiesen aus allfälligen Ausschüttungsüberschüssen der&nbsp;Schweizerischen Nationalbank, unter Wahrung der Unabhängigkeit der Nationalbank und der geltenden Ausschüttungsmechanismen, einen möglichen Weg, den es sich zu prüfen lohnt?&nbsp;Falls nein, wieso nicht?<\/li><li>Könnte die Schaffung eines zweckgebundenen Ausgleichs- und Stabilitätsfonds zur Abfederung finanzpolitischer und struktureller Schwankungen in der Hochschulfinanzierung ausgleichend wirken?<\/li><\/ol>",
-      "tags": "Finances|Éducation",
-      "tags_de": "Finanzwesen|Bildung",
-      "tags_it": "Finanze|Formazione"
     },
     {
       "shortId": "26.3497",

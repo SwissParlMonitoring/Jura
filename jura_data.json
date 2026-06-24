@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-06-23T22:14:33",
+    "updated": "2026-06-24T14:09:39",
     "total_count": 152,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -56,7 +56,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263891",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263891",
       "mention": "Titre uniquement",
-      "text": "<p>La Confédération doit faire face à des défis financiers importants que les sources de financements actuelles n'arriveront sans doute pas à financer. Il y a les impôts, les taxes, la TVA notamment; mais celles-ci ne suffisent plus à financer des grands projets dont le pays a besoin. Il s'agit notamment de l'AVS, des infrastructures de transport, de la sécurité du pays (armée notamment), la prévention des dangers naturels liés au changement climatique (tâche partagée avec les cantons et les communes). Mes questions portent sur la création temporaire (10 ans) d'une forme de contribution de solidarité pour les \"grands travaux\" des 3 niveaux politiques suisses.&nbsp;<\/p><p>&nbsp;<\/p><p>Je demande au Conseil fédéral de bien vouloir répondre aux questions suivantes:<\/p><p>1. Le Conseil fédéral a-t-il déjà mené des réflexions quant à la mise en œuvre de nouvelles sources de financement, si oui lesquelles?<\/p><p>2. Sachant que le nombre annuel des mouvements financiers ( et non les transactions financières) s'élève à environ 5560 mio pour un volume financier d'environ CHF 17'530 milliards ( pour 2025), le prélèvement de 1 pour-mille sur ces transactions pourrait rapporter environ CHF 17,5 milliards/an, que ces montants pourraient être versés dans 3 fonds spécifiques (prévoyance sociale, sécurité, dangers naturels) gérés par la Confédération ou la BNS, le Conseil fédéral est-il prêt à examiner rapidement cette nouvelle source de financement et, cas échéant de proposer un projet au Parlement?<\/p>"
+      "text": "<p>La Confédération doit faire face à des défis financiers importants que les sources de financements actuelles n'arriveront sans doute pas à financer. Il y a les impôts, les taxes, la TVA notamment; mais celles-ci ne suffisent plus à financer des grands projets dont le pays a besoin. Il s'agit notamment de l'AVS, des infrastructures de transport, de la sécurité du pays (armée notamment), la prévention des dangers naturels liés au changement climatique (tâche partagée avec les cantons et les communes). Mes questions portent sur la création temporaire (10 ans) d'une forme de contribution de solidarité pour les \"grands travaux\" des 3 niveaux politiques suisses.&nbsp;<\/p><p>&nbsp;<\/p><p>Je demande au Conseil fédéral de bien vouloir répondre aux questions suivantes:<\/p><p>1. Le Conseil fédéral a-t-il déjà mené des réflexions quant à la mise en œuvre de nouvelles sources de financement, si oui lesquelles?<\/p><p>2. Sachant que le nombre annuel des mouvements financiers ( et non les transactions financières) s'élève à environ 5560 mio pour un volume financier d'environ CHF 17'530 milliards ( pour 2025), le prélèvement de 1 pour-mille sur ces transactions pourrait rapporter environ CHF 17,5 milliards/an, que ces montants pourraient être versés dans 3 fonds spécifiques (prévoyance sociale, sécurité, dangers naturels) gérés par la Confédération ou la BNS, le Conseil fédéral est-il prêt à examiner rapidement cette nouvelle source de financement et, cas échéant de proposer un projet au Parlement?<\/p>",
+      "tags": "Finances",
+      "tags_de": "Finanzwesen",
+      "tags_it": "Finanze"
     },
     {
       "shortId": "26.3916",
@@ -90,7 +93,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263936",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263936",
       "mention": "Élu",
-      "text_de": "<p>Vor diesem Hintergrund wird der Bundesrat gebeten, folgende Fragen zu beantworten:<\/p><ol style=\"list-style-type:decimal;\"><li>Wie beurteilt der Bundesrat die heutige Lastenverteilung zwischen Hochschulkantonen und Nicht-Hochschulkantonen bei der Finanzierung der kantonalen Universitäten?<\/li><li>Welchen Handlungsspielraum hat der Bund, um die von den Trägerkantonen zu tragenden Restdefizite zu reduzieren und die Finanzierung der kantonalen Universitäten stärker an deren nationaler Bedeutung auszurichten?<\/li><li>Wie hat sich der Anteil, der durch die Trägerkantone zu finanzierenden Restkosten der kantonalen Universitäten in den letzten zehn Jahren entwickelt, und wie beurteilt der Bundesrat diese Entwicklung?<\/li><li>Sieht der Bundesrat Handlungsbedarf, um die Finanzierungslasten von Hochschulkantonen mit Universitäten von nationaler Bedeutung – insbesondere in Forschungs- und Innovationszentren – künftig ausgewogener zwischen Bund, Herkunftskantonen und Trägerkantonen zu verteilen?<\/li><\/ol>"
+      "text_de": "<p>Vor diesem Hintergrund wird der Bundesrat gebeten, folgende Fragen zu beantworten:<\/p><ol style=\"list-style-type:decimal;\"><li>Wie beurteilt der Bundesrat die heutige Lastenverteilung zwischen Hochschulkantonen und Nicht-Hochschulkantonen bei der Finanzierung der kantonalen Universitäten?<\/li><li>Welchen Handlungsspielraum hat der Bund, um die von den Trägerkantonen zu tragenden Restdefizite zu reduzieren und die Finanzierung der kantonalen Universitäten stärker an deren nationaler Bedeutung auszurichten?<\/li><li>Wie hat sich der Anteil, der durch die Trägerkantone zu finanzierenden Restkosten der kantonalen Universitäten in den letzten zehn Jahren entwickelt, und wie beurteilt der Bundesrat diese Entwicklung?<\/li><li>Sieht der Bundesrat Handlungsbedarf, um die Finanzierungslasten von Hochschulkantonen mit Universitäten von nationaler Bedeutung – insbesondere in Forschungs- und Innovationszentren – künftig ausgewogener zwischen Bund, Herkunftskantonen und Trägerkantonen zu verteilen?<\/li><\/ol>",
+      "tags": "Finances|Éducation",
+      "tags_de": "Finanzwesen|Bildung",
+      "tags_it": "Finanze|Formazione"
     },
     {
       "shortId": "26.3949",
@@ -107,7 +113,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263949",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263949",
       "mention": "Élu",
-      "text_de": "<p>Vor diesem Hintergrund wird der Bundesrat gebeten, folgende Fragen zu beantworten:<\/p><ol style=\"list-style-type:decimal;\"><li>Erachtet der Bundesrat die heutigen Instrumente – insbesondere die Interkantonale Universitätsvereinbarung sowie die Bundesbeiträge nach Hochschulförderungs- und -koordinationsgesetz (HFKG) – als ausreichend, um die von den Trägerkantonen zu tragenden Kosten angemessen zu begrenzen?<\/li><li>Welche Möglichkeiten sieht der Bundesrat gestützt auf Art. 48 Abs. 2 der Bundesverfassung, sich an interkantonalen Vereinbarungen im Hochschulbereich zu beteiligen oder deren Wirkung zu verstärken?<\/li><li>Wie schätzt der Bundesrat die Möglichkeiten ein, Nicht-Trägerkantone über Art. 48a Abs. 1 lit. c bzw. den entsprechenden Bestimmungen im FiLaG finanziell an kantonalen Universitäten zu beteiligen?<\/li><\/ol>"
+      "text_de": "<p>Vor diesem Hintergrund wird der Bundesrat gebeten, folgende Fragen zu beantworten:<\/p><ol style=\"list-style-type:decimal;\"><li>Erachtet der Bundesrat die heutigen Instrumente – insbesondere die Interkantonale Universitätsvereinbarung sowie die Bundesbeiträge nach Hochschulförderungs- und -koordinationsgesetz (HFKG) – als ausreichend, um die von den Trägerkantonen zu tragenden Kosten angemessen zu begrenzen?<\/li><li>Welche Möglichkeiten sieht der Bundesrat gestützt auf Art. 48 Abs. 2 der Bundesverfassung, sich an interkantonalen Vereinbarungen im Hochschulbereich zu beteiligen oder deren Wirkung zu verstärken?<\/li><li>Wie schätzt der Bundesrat die Möglichkeiten ein, Nicht-Trägerkantone über Art. 48a Abs. 1 lit. c bzw. den entsprechenden Bestimmungen im FiLaG finanziell an kantonalen Universitäten zu beteiligen?<\/li><\/ol>",
+      "tags": "Finances|Éducation",
+      "tags_de": "Finanzwesen|Bildung",
+      "tags_it": "Finanze|Formazione"
     },
     {
       "shortId": "26.3323",

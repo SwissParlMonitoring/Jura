@@ -249,7 +249,8 @@ function translateParty(party) {
         'CSPO': 'Le Centre',
         'CVP': 'Le Centre',
         'BDP': 'Le Centre',
-        'AI': 'VERT-E-S'
+        'AI': 'VERT-E-S',
+        'Commissions': 'Commissions'
     };
     return translations[party] || party;
 }
@@ -257,9 +258,10 @@ function translateParty(party) {
 function translateAuthor(author) {
     if (!author) return '';
     const translations = {
-        'Sicherheitspolitische Kommission Nationalrat-Nationalrat': 'Commission de la politique de sécurité du Conseil national',
-        'Sicherheitspolitische Kommission Nationalrat': 'Commission de la politique de sécurité du Conseil national',
-        'Sicherheitspolitische Kommission Ständerat': 'Commission de la politique de sécurité du Conseil des États',
+        // Anciens noms complets DE → abréviations FR (rétrocompatibilité)
+        'Sicherheitspolitische Kommission Nationalrat-Nationalrat': 'CPS-N',
+        'Sicherheitspolitische Kommission Nationalrat': 'CPS-N',
+        'Sicherheitspolitische Kommission Ständerat': 'CPS-E',
         'FDP-Liberale Fraktion': 'Groupe libéral-radical',
         'Grüne Fraktion': 'Groupe des VERT-E-S',
         'Sozialdemokratische Fraktion': 'Groupe socialiste',

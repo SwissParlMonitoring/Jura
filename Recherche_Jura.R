@@ -410,12 +410,103 @@ cat("Total objets des élus jurassiens:", nrow(Geschaefte_Elus), "\n\n")
 # ============================================================================
 
 # ============================================================================
+# RECHERCHE SUPPLÉMENTAIRE: OBJETS DE COMMISSIONS (SANS SESSION)
+# Les objets déposés par des commissions ont SubmissionSession = null,
+# ils ne sont donc jamais trouvés par la recherche par session.
+# On les cherche par SubmissionLegislativePeriod.
+# ============================================================================
+
+cat("Recherche supplémentaire: objets de commissions (sans session)...\n")
+
+Geschaefte_Commission_DE <- list()
+Geschaefte_Commission_FR <- list()
+
+# En mode incrémental, ne chercher que la législature en cours
+# En mode complet, chercher toutes les législatures
+Legislaturen_Commission <- if (!is.null(Donnees_Existantes)) max(Legislaturen) else Legislaturen
+
+# IDs déjà trouvés par la recherche par session (pour éviter les doublons)
+IDs_Session_DE <- if (nrow(Geschaefte_DE) > 0) unique(Geschaefte_DE$ID) else c()
+IDs_Session_FR <- if (nrow(Geschaefte_FR) > 0) unique(Geschaefte_FR$ID) else c()
+IDs_Session_Elus <- if (nrow(Geschaefte_Elus) > 0) unique(Geschaefte_Elus$ID) else c()
+IDs_Session_All <- unique(c(IDs_Session_DE, IDs_Session_FR, IDs_Session_Elus))
+
+for (lp in Legislaturen_Commission) {
+  cat("  Législature", lp, "(DE)...")
+  
+  tmp_de <- tryCatch({
+    get_data(
+      table = "Business",
+      SubmissionLegislativePeriod = lp,
+      Language = "DE"
+    ) |>
+      filter(is.na(SubmissionSession)) |>
+      filter(BusinessType %in% Geschaeftstyp) |>
+      filter(!ID %in% IDs_Session_All) |>
+      concatener_textes() |>
+      filter(str_detect(Text, pattern_jura)) |>
+      mutate(
+        SessionID = NA_integer_,
+        Langue_Detection = "DE"
+      ) |>
+      select(SessionID, ID, BusinessShortNumber, Title, BusinessTypeAbbreviation,
+             SubmissionDate, BusinessStatusText, Langue_Detection)
+  }, error = function(e) {
+    cat(" erreur:", e$message, "\n")
+    return(NULL)
+  })
+  
+  if (!is.null(tmp_de) && nrow(tmp_de) > 0) {
+    Geschaefte_Commission_DE[[as.character(lp)]] <- tmp_de
+    cat(" ", nrow(tmp_de), "objets trouvés\n")
+  } else {
+    cat(" 0 objets\n")
+  }
+  
+  cat("  Législature", lp, "(FR)...")
+  
+  tmp_fr <- tryCatch({
+    get_data(
+      table = "Business",
+      SubmissionLegislativePeriod = lp,
+      Language = "FR"
+    ) |>
+      filter(is.na(SubmissionSession)) |>
+      filter(BusinessType %in% Geschaeftstyp) |>
+      filter(!ID %in% IDs_Session_All) |>
+      concatener_textes() |>
+      filter(str_detect(Text, pattern_jura)) |>
+      mutate(
+        SessionID = NA_integer_,
+        Langue_Detection = "FR"
+      ) |>
+      select(SessionID, ID, BusinessShortNumber, Title, BusinessTypeAbbreviation,
+             SubmissionDate, BusinessStatusText, Langue_Detection)
+  }, error = function(e) {
+    cat(" erreur:", e$message, "\n")
+    return(NULL)
+  })
+  
+  if (!is.null(tmp_fr) && nrow(tmp_fr) > 0) {
+    Geschaefte_Commission_FR[[as.character(lp)]] <- tmp_fr
+    cat(" ", nrow(tmp_fr), "objets trouvés\n")
+  } else {
+    cat(" 0 objets\n")
+  }
+}
+
+Geschaefte_Commission_DE <- bind_rows(Geschaefte_Commission_DE)
+Geschaefte_Commission_FR <- bind_rows(Geschaefte_Commission_FR)
+cat("Total objets de commissions trouvés (DE):", nrow(Geschaefte_Commission_DE), "\n")
+cat("Total objets de commissions trouvés (FR):", nrow(Geschaefte_Commission_FR), "\n\n")
+
+# ============================================================================
 # FUSION DES RÉSULTATS DE LA RECHERCHE (INTERVENTIONS)
 # ============================================================================
 
 cat("Fusion et dédoublonnage des interventions...\n")
 
-Tous_Geschaefte <- bind_rows(Geschaefte_DE, Geschaefte_FR, Geschaefte_Elus)
+Tous_Geschaefte <- bind_rows(Geschaefte_DE, Geschaefte_FR, Geschaefte_Elus, Geschaefte_Commission_DE, Geschaefte_Commission_FR)
 
 # Vérifier si des nouveaux objets ont été trouvés
 if (nrow(Tous_Geschaefte) == 0 || !"BusinessShortNumber" %in% names(Tous_Geschaefte)) {

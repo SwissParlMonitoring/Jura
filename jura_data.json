@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-07-02T13:33:27",
+    "updated": "2026-07-02T22:03:00",
     "total_count": 152,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -32,7 +32,7 @@
       "shortId": ["26.3891", "26.3916", "26.3936", "26.3949", "26.7473", "26.3628", "26.3597", "26.7426", "26.7446", "26.3563", "26.3564", "26.3571"],
       "title": ["Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques: une contribution de solidarité temporaire prélevée sur les mouvements financiers", "Garantir le fonctionnement de la ligne d'aide aux victimes 142 sur l’ensemble du territoire", "Titre suit", "Titre suit", "Conditions d'emploi au SEM : un tournant pour le personnel fédéral ?", "Cybersécurité et souveraineté numérique. Doter la Suisse d'une feuille de route nationale de transition vers la cryptographie post-quantique", "Pour une harmonisation de la définition du concubinage dans la législation fédérale", "Cheval des Franches-Montagnes : la Confédération tourne-t-elle le dos à son patrimoine vivant ?", "Nouveau système pour les indemnités chômage, toujours pas satisfaisant.", "Quelle répartition géographique des emplois postaux ?", "Certificats médicaux pour courtes absences. Un coût inutile pour la LAMal ?", "S'inspirer du Danemark. En cas de peines privatives de liberté de longue durée, l'expulsion obligatoire doit être réellement obligatoire"],
       "title_de": ["Titel folgt", "Titel folgt", "Entlastung der Trägerkantone bei der Finanzierung der Universitäten", "Faire Lastenverteilung bei der Finanzierung der Universitäten", "Arbeitsbedingungen beim Staatssekretariat für Migration: Ein Wendepunkt für das Bundespersonal?", "Titel folgt", "Für eine Harmonisierung der Definition des Konkubinats im Bundesrecht", "Freiberger Pferde: Kehrt der Bund seinem lebendigen Kulturerbe den Rücken zu?", "Das neue Auszahlungssystem für die Arbeitslosenentschädigung funktioniert noch immer nicht zufriedenstellend", "Wie sieht bei der Post die geografische Verteilung der Arbeitsplätze aus?", "Arztzeugnisse für Kurzabwesenheiten. Unnötige Kosten für die obligatorische Krankenversicherung?", "Von Dänemark lernen. Bei längerfristigen Freiheitsstrafen muss die obligatorische Landesverweisung obligatorisch sein"],
-      "title_it": ["Titolo segue", "Garantire il funzionamento della linea di assistenza alle vittime 142 su tutto il territorio", "Titolo segue", "Titolo segue", null, "Cibersicurezza e sovranità digitale. Dotare la Svizzera di una tabella di marcia nazionale per la transizione verso la crittografia post-quantistica", "Armonizzare la definizione di concubinato nella legislazione federale", null, null, "Qual è la ripartizione geografica dei posti di lavoro nel settore postale?", "Titolo segue", "Imparare dalla Danimarca: espulsione obbligatoria in caso di pene detentive di lunga durata"],
+      "title_it": ["Una nuova fonte di finanziamento per i grandi progetti a carico delle collettività pubbliche: un contributo di solidarietà temporaneo prelevato sui movimenti finanziari", "Garantire il funzionamento della linea di assistenza alle vittime 142 su tutto il territorio", "Titolo segue", "Titolo segue", null, "Cibersicurezza e sovranità digitale. Dotare la Svizzera di una tabella di marcia nazionale per la transizione verso la crittografia post-quantistica", "Armonizzare la definizione di concubinato nella legislazione federale", null, null, "Qual è la ripartizione geografica dei posti di lavoro nel settore postale?", "Titolo segue", "Imparare dalla Danimarca: espulsione obbligatoria in caso di pene detentive di lunga durata"],
       "author": ["Juillard Charles", "Crevoisier Crelier Mathilde", "Brenzikofer Florence", "Brenzikofer Florence", "Dobler Loïc", "Juillard Charles", "Juillard Charles", "Dobler Loïc", "Stettler Thomas", "Dobler Loïc", "Dobler Loïc", "Friedli Esther"],
       "party": ["Le Centre", "PS", "VERT-E-S", "VERT-E-S", "PS", "Le Centre", "Le Centre", "PS", "UDC", "PS", "PS", "UDC"],
       "type": ["Ip.", "Ip.", "Ip.", "Ip.", "Fra.", "Mo.", "Po.", "Fra.", "Fra.", "Ip.", "Ip.", "Mo."],
@@ -89,7 +89,7 @@
       "shortId": "26.3891",
       "title": "Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques: une contribution de solidarité temporaire prélevée sur les mouvements financiers",
       "title_de": "Titel folgt",
-      "title_it": "Titolo segue",
+      "title_it": "Una nuova fonte di finanziamento per i grandi progetti a carico delle collettività pubbliche: un contributo di solidarietà temporaneo prelevato sui movimenti finanziari",
       "author": "Juillard Charles",
       "party": "Le Centre",
       "type": "Ip.",

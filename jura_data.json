@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-17T21:27:41",
+    "updated": "2026-08-18T12:26:16",
     "total_count": 152,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -1261,7 +1261,7 @@
       "title_it": "Misure finalizzate a rendere i due ex Semicantoni di Basilea Città e Basilea Campagna Cantoni a pieno titolo",
       "author": "Basel-Landschaft",
       "type": "Kt. Iv.",
-      "status": "In Kommission des Ständerats / En commission du Conseil des Etats",
+      "status": "Beratung in Kommission des Ständerates abgeschlossen / Fin des discussions en commission du Conseil des Etats",
       "department": "EJPD",
       "date": "2025-09-02",
       "date_maj": "2026-03-26",

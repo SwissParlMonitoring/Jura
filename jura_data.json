@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-02T15:37:54",
+    "updated": "2026-09-02T22:58:09",
     "total_count": 153,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -41,6 +41,28 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.3518",
+      "title": "13e rente AVS. Affectation des recettes fiscales supplémentaires des cantons et des communes à l'AVS ",
+      "title_de": "13. AHV-Rente. Zuweisung der Steuermehreinnahmen der Kantone und Gemeinden an die AHV",
+      "title_it": "13esima mensilità AVS. Destinare le entrate fiscali supplementari dei Cantoni e dei Comuni all'AVS",
+      "author": "CSSS-N",
+      "party": "Commissions",
+      "type": "Mo.",
+      "status": "Beratung in Kommission des Ständerates abgeschlossen / Fin des discussions en commission du Conseil des Etats",
+      "council": "NR",
+      "department": "EFD",
+      "date": "2026-04-16",
+      "date_maj": "2026-09-02",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
+      "mention": "Conseil fédéral",
+      "text": "<p>Le Conseil fédéral est chargé de modifier les bases légales de sorte que les recettes fiscales supplémentaires générées par l’introduction de la 13<sup>e<\/sup> rente AVS, pour les cantons et les communes, soient intégralement reversées à la Confédération<u>,<\/u> qui les transfère directement à l'AVS.<\/p><p>&nbsp;<\/p><p>Une minorité de la commission (Rechsteiner Thomas, Alijaj, Blunschy, Crottaz, Gysi Barbara, Hess Lorenz, Roduit, Piller Carrad, Porchet, Weichelt, Wyss, Zybach) propose de rejeter la motion.<\/p>",
+      "text_de": "<p>Der Bundesrat wird beauftragt, die gesetzlichen Grundlagen so anzupassen, dass die durch die Einführung der 13. AHV-Rente entstehenden Steuermehreinnahmen bei Kantonen und Gemeinden vollständig dem Bund zufliessen, der diese Mittel direkt an die AHV weiterleitet.<\/p><p>&nbsp;<\/p><p>Eine Minderheit&nbsp;der Kommission&nbsp;(Rechsteiner Thomas, Alijaj, Blunschy, Crottaz, Gysi Barbara, Hess Lorenz, Roduit, Piller Carrad, Porchet, Weichelt, Wyss, Zybach) beantragt, die Motion abzulehnen.<\/p>",
+      "tags": "Finances|Fiscalité|Protection sociale",
+      "tags_de": "Finanzwesen|Steuer|Sozialer Schutz",
+      "tags_it": "Finanze|Imposte|Protezione sociale"
+    },
     {
       "shortId": "26.3891",
       "title": "Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques. Une contribution de solidarité temporaire prélevée sur les mouvements financiers",
@@ -238,29 +260,6 @@
       "tags": "Politique d'Etat|Économie|Médias et communication|Emploi et travail",
       "tags_de": "Staatspolitik|Wirtschaft|Medien und Kommunikation|Beschäftigung und Arbeit",
       "tags_it": "Politica nazionale|Economia|Media e comunicazione|Occupazione e lavoro"
-    },
-    {
-      "shortId": "26.3518",
-      "title": "13e rente AVS. Affectation des recettes fiscales supplémentaires des cantons et des communes à l'AVS ",
-      "title_de": "13. AHV-Rente. Zuweisung der Steuermehreinnahmen der Kantone und Gemeinden an die AHV",
-      "title_it": "13esima mensilità AVS. Destinare le entrate fiscali supplementari dei Cantoni e dei Comuni all'AVS",
-      "author": "CSSS-N",
-      "party": "Commissions",
-      "type": "Mo.",
-      "status": "Beratung in Kommission des Ständerates abgeschlossen / Fin des discussions en commission du Conseil des Etats",
-      "council": "NR",
-      "department": "EFD",
-      "date": "2026-04-16",
-      "date_maj": "2026-09-02",
-      "statut_change_date": "2026-09-02",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
-      "mention": "Conseil fédéral",
-      "text": "<p>Le Conseil fédéral est chargé de modifier les bases légales de sorte que les recettes fiscales supplémentaires générées par l’introduction de la 13<sup>e<\/sup> rente AVS, pour les cantons et les communes, soient intégralement reversées à la Confédération<u>,<\/u> qui les transfère directement à l'AVS.<\/p><p>&nbsp;<\/p><p>Une minorité de la commission (Rechsteiner Thomas, Alijaj, Blunschy, Crottaz, Gysi Barbara, Hess Lorenz, Roduit, Piller Carrad, Porchet, Weichelt, Wyss, Zybach) propose de rejeter la motion.<\/p>",
-      "text_de": "<p>Der Bundesrat wird beauftragt, die gesetzlichen Grundlagen so anzupassen, dass die durch die Einführung der 13. AHV-Rente entstehenden Steuermehreinnahmen bei Kantonen und Gemeinden vollständig dem Bund zufliessen, der diese Mittel direkt an die AHV weiterleitet.<\/p><p>&nbsp;<\/p><p>Eine Minderheit&nbsp;der Kommission&nbsp;(Rechsteiner Thomas, Alijaj, Blunschy, Crottaz, Gysi Barbara, Hess Lorenz, Roduit, Piller Carrad, Porchet, Weichelt, Wyss, Zybach) beantragt, die Motion abzulehnen.<\/p>",
-      "tags": "Finances|Fiscalité|Protection sociale",
-      "tags_de": "Finanzwesen|Steuer|Sozialer Schutz",
-      "tags_it": "Finanze|Imposte|Protezione sociale"
     },
     {
       "shortId": "26.3411",

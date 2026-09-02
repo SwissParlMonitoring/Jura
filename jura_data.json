@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-01T22:57:14",
+    "updated": "2026-09-02T15:37:54",
     "total_count": 153,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -247,11 +247,12 @@
       "author": "CSSS-N",
       "party": "Commissions",
       "type": "Mo.",
-      "status": "In Kommission des Ständerats / En commission du Conseil des Etats",
+      "status": "Beratung in Kommission des Ständerates abgeschlossen / Fin des discussions en commission du Conseil des Etats",
       "council": "NR",
       "department": "EFD",
       "date": "2026-04-16",
-      "date_maj": "2026-07-10",
+      "date_maj": "2026-09-02",
+      "statut_change_date": "2026-09-02",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20263518",
       "mention": "Conseil fédéral",

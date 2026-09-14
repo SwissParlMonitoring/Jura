@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-13T15:17:38",
-    "total_count": 155,
+    "updated": "2026-09-14T17:15:58",
+    "total_count": 156,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": "26.312"
   },
   "session_summary": {
     "session_id": "2026-ete",
@@ -16,7 +16,7 @@
     "themes_de": "Für eine neue Finanzierungsquelle für grosse öffentliche Ausgabenposten. Eine befristete Solidaritätsabgabe auf den Zahlungsverkehr (Juillard, Die Mitte) ; Gewährleistung des Betriebs der Opferhilfe-Nummer 142 in der ganzen Schweiz (Crevoisier, SP) ; Der \"Roi du Doubs\" muss gerettet werden, bevor es zu spät ist (Chollet, GRÜNE) ; Von Zielkonflikten zur Quadratur des Kreises. Nutzen, Kosten, Wettbewerbsfähigkeit bei Life Science (Gugger, PEV) ; Cybersicherheit und digitale Souveränität. Eine nationale Roadmap für den Übergang zur Post-Quanten-Kryptografie in der Schweiz (Juillard, Die Mitte) ; Von Dänemark lernen. Bei längerfristigen Freiheitsstrafen muss die obligatorische Landesverweisung obligatorisch sein (Friedli, SVP) ; Für eine Harmonisierung der Definition des Konkubinats im Bundesrecht (Juillard, Die Mitte) ; Arztzeugnisse für Kurzabwesenheiten. Unnötige Kosten für die obligatorische Krankenversicherung? (Dobler, SP) ; Entlastung der Trägerkantone bei der Finanzierung der Universitäten (Brenzikofer, GRÜNE) ; Faire Lastenverteilung bei der Finanzierung der Universitäten (Brenzikofer, GRÜNE) ; Öffentlicher Verkehr. Der Service public unter Druck aufgrund der Rentabilität (Klopfenstein, GRÜNE) ; Wie sieht bei der Post die geografische Verteilung der Arbeitsplätze aus? (Dobler, SP) ; Arbeitsbedingungen beim Staatssekretariat für Migration: Ein Wendepunkt für das Bundespersonal? (Dobler, SP) ; Freiberger Pferde: Kehrt der Bund seinem lebendigen Kulturerbe den Rücken zu? (Dobler, SP) ; Das neue Auszahlungssystem für die Arbeitslosenentschädigung funktioniert noch immer nicht zufriedenstellend (Stettler, SVP)",
     "session_start": "2026-06-01",
     "session_end": "2026-06-19",
-    "display_until": "2026-09-14",
+    "display_until": "2026-11-30",
     "count": 15,
     "by_type": {
       "Ip.": 9,
@@ -41,6 +41,23 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.312",
+      "title": "Aménagement de l'axe ferroviaire national est-ouest",
+      "title_de": "Ausbau der nationalen Ost-West-Achse der Bahn",
+      "title_it": "Ampliamento dell'asse ferroviario nazionale est-ovest",
+      "author": "Aargau",
+      "type": "Kt. Iv.",
+      "status": "Zugewiesen an die behandelnde Kommission / Attribué à la commission compétente",
+      "department": "Parl",
+      "date": "2026-07-01",
+      "date_maj": "2026-09-14",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20260312",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20260312",
+      "mention": "Élu",
+      "text": "<p>Se fondant sur l’art.&nbsp;160, al.&nbsp;1, de la Constitution fédérale, le canton d’Argovie soumet à l’Assemblée fédérale l’initiative suivante&nbsp;:<\/p><p>Le Grand Conseil du canton d’Argovie demande à l’Assemblée fédérale d’accélérer la planification du développement d’une infrastructure ferroviaire performante sur l’axe national est-ouest en lui accordant la plus haute priorité et de garantir que les mesures d’infrastructure nécessaires dans la région d’Olten-Aarau-Zurich sont prévues dans le cadre du message&nbsp;2031. En outre, le message&nbsp;2027 doit impérativement inclure les moyens financiers destinés à des mesures permettant de décharger les infrastructures dans la région d’Olten-Aarau-Zurich, afin de maîtriser à court terme le trafic attendu jusqu’à la prochaine étape d’aménagement, ainsi que la planification de l’aménagement de l’axe national est-ouest.<\/p>",
+      "text_de": "<p>Gestützt auf den Artikel 160 Absatz 1 der Bundesverfassung reicht der Kanton Aargau folgende Standesinitiative ein:<\/p><p>Der Grosse Rat des Kantons Aargau ersucht die Bundesversammlung, die Planungen für die Weiterentwicklung einer leistungsstarken Bahninfrastruktur auf der nationalen Ost-West-Achse mit höchster Priorität voranzutreiben und die erforderlichen lnfrastrukturmassnahmen im Raum Olten-Aarau-Zürich mit der Botschaft 2031 zu sichern. Ebenfalls müssen die finanziellen Mittel für infrastrukturelle Entlastungsmassnahmen im Raum Olten-Aarau-Zürich zur unmittelbaren Bewältigung des bis zum nächsten Ausbauschritt prognostizierten Verkehrs und die Planungen für die nationale Ost-West-Achse in der Botschaft 2027 enthalten sein.<\/p>"
+    },
     {
       "shortId": "26.3891",
       "title": "Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques. Une contribution de solidarité temporaire prélevée sur les mouvements financiers",

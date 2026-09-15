@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-14T23:39:53",
-    "total_count": 156,
+    "updated": "2026-09-15T15:55:38",
+    "total_count": 159,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": ["26.4127", "26.7687", "26.7688"]
   },
   "session_summary": {
     "session_id": "2026-ete",
@@ -41,6 +41,55 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.4127",
+      "title": "Titre suit",
+      "title_de": "Bedrohungsmanagement schweizweit stärken, Gefährdung früh erkennen und Gewalttaten verhindern",
+      "title_it": "Titolo segue",
+      "author": "Locher Miriam",
+      "party": "PS",
+      "type": "Ip.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-15",
+      "date_maj": "2026-09-15",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264127",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264127",
+      "mention": "Élu",
+      "text_de": "<p>Der Bundesrat wird um die Beantwortung folgender Fragen gebeten:<\/p><ol><li>Verfügen alle Kantone über ein institutionalisiertes Bedrohungsmanagement gemäss den Empfehlungen der schweizerischen Kriminalprävention? Falls nein: Welche nicht?<\/li><li>Wie unterscheiden sich die kantonalen Bedrohungsmanagements hinsichtlich gesetzlicher Grundlage, Zuständigkeit, Ressourcen und interdisziplinärer Zusammenarbeit?<\/li><li>Welche Mindestanforderungen empfiehlt der Bund für ein wirksames kantonales Bedrohungsmanagement?<\/li><li>Wie wird der Informationsaustausch zwischen Kantonen sichergestellt, wenn eine als gefährlich eingeschätzte Person den Wohnkanton wechselt oder sich in mehreren Kantonen aufhält?<\/li><li>Wie funktioniert die Zusammenarbeit zwischen Bedrohungsmanagement, Polizei, Strafverfolgung, Gesundheits- und Sozialdiensten sowie weiteren Fachstellen?<\/li><li>Sieht der Bundesrat Handlungsbedarf für schweizweit verbindliche Mindeststandards, ohne die kantonale Zuständigkeit für die Fallführung aufzuheben?<\/li><li>Welche Erkenntnisse liegen zu Fällen vor, in denen trotz Warnsignalen später schwere Gewaltdelikte verübt wurden? Werden solche Fälle systematisch ausgewertet und kantonsübergreifend geteilt?<\/li><\/ol>"
+    },
+    {
+      "shortId": "26.7687",
+      "title": "Sécurité aux frontières : l'instabilité comme mode de gestion ?",
+      "title_de": "Titre suit",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Fra.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-15",
+      "date_maj": "2026-09-15",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267687",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267687",
+      "mention": "Titre uniquement",
+      "text": "<p>Depuis le 1er août, l'Office fédéral de la douane et de la sécurité des frontières a réduit ses régions de 6 à 4. Dès janvier 2027, ses niveaux locaux passeront de 23 à 16, avec 25 postes de cadres en moins ; les cadres en poste devront se porter candidats aux postes restants. Ce maillon essentiel aux régions frontalières connaît depuis des années des tensions internes . Le Conseil fédéral garantit-il enfin une stabilité durable à son personnel et aux régions frontalières ?<\/p>"
+    },
+    {
+      "shortId": "26.7688",
+      "title": "Fret ferroviaire : la Suisse romande sacrifiée ? ",
+      "title_de": "Titel folgt",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Fra.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-15",
+      "date_maj": "2026-09-15",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267688",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267688",
+      "mention": "Titre uniquement",
+      "text": "<p>Dès décembre 2026, les CFF réorganisent le trafic par wagons isolés, touchant 200 collaborateurs. Une cinquantaine de points de desserte sur 280 ne seront plus desservis. Les équipes de manœuvre de Suisse romande sont particulièrement touchées, avec des changements à Yverdon, Payerne, Fribourg, Delémont et Martigny.&nbsp;<br>Le Conseil fédéral veille-t-il à ce que les CFF assurent une répartition équilibrée des prestations et des emplois entre les régions par les CFF ?<\/p>"
+    },
     {
       "shortId": "26.312",
       "title": "Aménagement de l'axe ferroviaire national est-ouest",

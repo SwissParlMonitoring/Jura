@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-16T15:47:29",
+    "updated": "2026-09-16T23:28:57",
     "total_count": 161,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": ["26.4146", "26.7829"]
+    "new_ids": []
   },
   "session_summary": {
     "session_id": "2026-ete",

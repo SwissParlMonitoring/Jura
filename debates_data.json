@@ -1,10 +1,10 @@
 {
   "meta": {
     "sessions": "5215",
-    "count": 720,
-    "updated": "2026-09-16 23:36:13.758035"
+    "count": 722,
+    "updated": "2026-09-17 16:39:33.220611"
   },
-  "new_ids": ["418885", "418915", "419112", "419297", "419075", "419127", "419212", "419288", "419433", "419490"],
+  "new_ids": ["418885", "418915", "419112", "419297", "419075", "419127", "419212", "419288", "419433", "419490", "419593", "419672"],
   "items": [
     {
       "id": "329458",
@@ -14186,6 +14186,45 @@
       "business_title_it": "Accordo di libero scambio tra gli Stati dell’AELS e il Mercosur. Approvazione",
       "department": "WBF",
       "text": "Die SVP-Fraktion wird auf die Vorlage eintreten. Es geht um unsere Unternehmen, es geht um unsere Arbeitsplätze, es geht um Zölle; es geht nicht darum, die Welt zu retten. Mercosur umfasst 270 Millionen Menschen. Die Schweiz exportiert bereits heute Waren im Wert von mehr als 4 Milliarden Franken jährlich in die Mercosur-Länder. Mit dem Abkommen sollen rund 96 Prozent unserer Ausfuhren nach Ablauf der vorgesehenen Übergangsfrist zollfrei werden. Das eröffnet unseren Unternehmen zusätzliche Marktchancen und ermöglicht Zollersparnisse von über 155 Millionen Franken pro Jahr.\nGerade für ein kleines, international ausgerichtetes Land wie die Schweiz ist der Zugang zu ausländischen Märkten von zentraler Bedeutung. Wir können es uns nicht leisten, uns in wichtigen Märkten ins Abseits zu manövrieren, während andere Wirtschaftsräume ihre Beziehungen ausbauen. Natürlich gibt es berechtigte Fragen zur Landwirtschaft; diese müssen wir sehr ernst nehmen. Die SVP-Fraktion nimmt sie ernst. Entscheidend ist für uns deshalb die Frage, wie wir mit den möglichen Auswirkungen auf die Landwirtschaft umgehen. Hier liegt gegenüber der ursprünglichen Vorlage inzwischen eine Lösung auf dem Tisch. Der Ständerat hat insgesamt 517 Millionen Franken für flankierende Massnahmen beschlossen; Sie haben das auch schon gehört. Vorgesehen sind insbesondere Mittel zur Verbesserung der Wettbewerbsfähigkeit der Landwirtschaft, darunter Investitionskredite und Beiträge zur Absatzförderung. Das ist ein erheblicher Betrag. Es geht darum, unseren Landwirtschaftsbetrieben Investitionen, Anpassungen und eine Stärkung ihrer Wettbewerbsfähigkeit zu ermöglichen.\nFür eine vernünftige Wirtschaftspolitik gehört Folgendes zusammen: offene Märkte für unsere exportorientierte Wirtschaft und verlässliche Rahmenbedingungen für unsere Landwirtschaft. Wir sollten die Diskussion über Mercosur auch deshalb nüchtern führen. Es geht um Marktzugang, wirtschaftliche Chancen, konkrete Agrarkontingente und die Abgeltung für die Landwirtschaft. Es geht um weniger \"tariffs\" - das ist ja der Begriff, den wir kennen - für die EFTA-Länder. Zu Recht wurde gesagt, wir seien mit Südamerika zum Teil auf Trump-Niveau; davon müssen wir wegkommen. Es geht um Arbeitsplätze im Jura. Es geht um Arbeitsplätze im St. Galler Rheintal. Es geht um Arbeitsplätze im Fürstentum Liechtenstein. Es geht um Arbeitsplätze in unserem Land. Es geht um Arbeitsplätze in den angrenzenden Ländern - auch im angrenzenden Ländle. Es geht um Arbeitsplätze in den mit uns via EFTA verbundenen Ländern Island und Norwegen. Nur: Sie können das Abkommen in Kraft setzen, auch wenn wir Nein stimmen, und sie werden das Abkommen in Kraft setzen, auch wenn wir es nicht tun. Meine Damen und Herren gerade von der Opposition: Wollen wir die letzten Mohikaner sein, die mit Mercosur kein Abkommen abschliessen? Wollen Sie das ernsthaft? Wollen Sie die Landwirtschaft plagen? Wollen Sie die Arbeitsplätze gefährden?\nDer Ständerat ist zu durchaus vernünftigen Schlüssen gekommen. Die SVP-Fraktion wird diese unterstützen und nicht das fantasievolle Durcheinander, inklusive Millionenraubzug auf die Steuergelder, das Ihnen von der Aussenpolitischen Kommission des Nationalrates, teils in der Minderheit und teils in der Mehrheit, präsentiert worden ist.\n",
+      "language": "DE"
+    },
+    {
+      "id": "419593",
+      "id_subject": "82367",
+      "id_session": "5215",
+      "sort_order": 3,
+      "date": "20260917",
+      "council": "N",
+      "speaker": "Dobler Loïc",
+      "function_speaker": "Mit-M",
+      "party": "S",
+      "canton": "JU",
+      "affair_id": "20269020",
+      "business_number": "26.9020",
+      "business_title_fr": "Session extraordinaire «UE et asile»",
+      "business_title_de": "Ausserordentliche Session «EU und Asyl»",
+      "business_title_it": "Sessione straordinaria «UE e asilio»",
+      "text": "Madame Amaudruz, vous évoquez à juste titre l'aspect de cette réforme relatif à l'indemnisation de l'assurance-chômage. Je ne vous ai pas entendu par exemple vous insurger du fait que, pour l'AVS également, les frontaliers sont indemnisés de la même manière que les résidents suisses puisqu'ils ont cotisé en Suisse. Ce combat semble un peu perdu d'avance, parce qu'il n'est pas lié à l'Union européenne, mais à l'OCDE, qui a des principes par rapport à cela. (Remarque intermédiaire du président : Avez-vous une question, Monsieur Loïc Dobler ?) Ma question est donc : l'enjeu qui se pose n'est-il pas plutôt l'imposition des frontaliers aussi en Suisse, plutôt que l'indemnisation par le biais du chômage en France ? Ne vous trompez-vous pas de combat avec cette motion ?\n",
+      "language": "DE"
+    },
+    {
+      "id": "419672",
+      "id_subject": "82378",
+      "id_session": "5215",
+      "sort_order": 1,
+      "date": "20260917",
+      "council": "S",
+      "speaker": "Crevoisier Crelier Mathilde",
+      "function_speaker": "2VP-F",
+      "party": "S",
+      "canton": "JU",
+      "affair_id": "20269001",
+      "business_number": "26.9001",
+      "business_title_fr": "Communications du président",
+      "business_title_de": "Mitteilungen des Präsidenten",
+      "business_title_it": "Comunicazioni del presidente",
+      "department": "Parl",
+      "text": "Nous avons aujourd'hui le plaisir d'accueillir une délégation du canton du Jura et je remercie le président de m'avoir fait l'amitié de la saluer officiellement à la tribune de notre conseil. La délégation est conduite par M. Fabrice Macquat, président du Parlement jurassien, et c'est pour moi, évidemment, une joie et un honneur de pouvoir vous souhaiter la bienvenue dans la salle du Conseil des États. Pour y accéder, vous êtes passés sous la magnifique verrière de la coupole et avez pu admirer les armoiries des cantons disposées autour de la croix suisse.\nLes guides s'amusent souvent à demander aux visiteuses et visiteurs où se trouvent les armoiries du Jura, car ces dernières ne trônent pas sous la coupole, puisqu'elles ont été ajoutées bien après la construction du Palais du Parlement. Pour cause, son inauguration en 1902 est intervenue 77 ans avant l'entrée en souveraineté du canton. Ainsi, absente de la coupole en 1902, la région jurassienne a néanmoins posé, cette année-là, un jalon important pour rallier un jour la Berne fédérale. Elle a en effet largement approuvé en votation populaire un projet de construction de nouvelle ligne de chemin de fer qui allait préfigurer le percement de la ligne ferroviaire Moutier-Bienne. Lorsqu'en 1979, le canton du Jura est entré en souveraineté au terme d'une histoire que l'on sait mouvementée, ces armoiries ont trouvé une place de choix au-dessus des trois Confédérés.\nLa Confédération que nous représentons aujourd'hui n'est pas celle qui s'est unie sous cette coupole en 1902. Elle a changé, elle s'est agrandie, elle a évolué avec les générations et les territoires qui la composent. Unies sous un même toit, les armoiries sous la coupole sont le témoin de cette histoire. Elles nous rappellent, à l'instar du canton du Jura, que le fédéralisme sur lequel la Suisse s'est construite depuis ses origines porte les graines des changements dont la population se fait le moteur. Je vous souhaite une très cordiale bienvenue au Palais fédéral ainsi qu'une excellente visite. (Applaudissements)\n",
       "language": "DE"
     },
     {

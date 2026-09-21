@@ -2,7 +2,7 @@
   "meta": {
     "sessions": "5215",
     "count": 726,
-    "updated": "2026-09-21 18:05:55.701858"
+    "updated": "2026-09-21 23:57:39.745157"
   },
   "new_ids": ["419593", "419672", "420109", "419791", "419872", "420151"],
   "items": [
@@ -14451,7 +14451,7 @@
       "id": "420151",
       "id_subject": "82618",
       "id_session": "5215",
-      "sort_order": 17,
+      "sort_order": 16,
       "date": "20260921",
       "council": "S",
       "speaker": "Juillard Charles",

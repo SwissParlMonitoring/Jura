@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-21T23:46:50",
-    "total_count": 162,
+    "updated": "2026-09-22T15:56:47",
+    "total_count": 163,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": "26.7901"
   },
   "session_summary": {
     "session_id": "2026-ete",
@@ -41,6 +41,22 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.7901",
+      "title": "Mercosur : comment financer les 517 millions pour l'agriculture ?",
+      "title_de": "Titel folgt",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Fra.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-22",
+      "date_maj": "2026-09-22",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
+      "mention": "Titre uniquement",
+      "text": "<p>Les Chambres fédérales ont validé l'accord avec le Mercosur, convaincues par une enveloppe de 517 millions de francs pour l'agriculture entre 2028 et 2033. Reste une question laissée dans l'ombre du débat : ce demi-milliard n'est financé par aucune source identifiée.<br>Le Conseil fédéral peut-il indiquer dès aujourd'hui où seront trouvées ces montants, et quels postes du budget fédéral seront concernés ?<\/p>"
+    },
     {
       "shortId": "26.7687",
       "title": "Sécurité aux frontières : l'instabilité comme mode de gestion ?",
@@ -182,7 +198,10 @@
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267829",
       "mention": "Titre uniquement",
       "text": "<p>Le plan d'action pour le Doubs, prolongé jusqu'en 2030, affiche un bilan positif avec 34 mesures sur 51 déjà achevées. Mais l'OFEV renonce à tout projet de conservation de l'apron, seul poisson de ce type en Suisse et au bord de l'extinction (un seul spécimen trouvé en 2023), alors que sa propre étude juge le projet réalisable, seul son succès étant incertain.<br>Le Conseil fédéral est-il prêt à revoir cette décision plutôt que de sacrifier une espèce sur un simple doute ?<\/p>",
-      "text_de": "<p>Der bis 2030 verlängerte Aktionsplan für den Doubs kann eine positive Bilanz vorweisen: Von den 51 Massnahmen sind bereits 34 umgesetzt. Doch das BAFU verzichtet auf jegliches Erhaltungsprojekt für den Apron, einziger Fisch seiner Gattung in der Schweiz, der zudem vom Aussterben bedroht ist (2023 wurde nur ein einziges Exemplar gefunden), obwohl eine eigene Studie des Bundesamtes das Projekt als umsetzbar eingestuft hat und einzig dessen Erfolg als ungewiss beurteilt.<br>Ist der Bundesrat bereit, diesen Entscheid zu überdenken, um eine Art nicht nur aufgrund blosser Zweifel aufzugeben?<\/p>"
+      "text_de": "<p>Der bis 2030 verlängerte Aktionsplan für den Doubs kann eine positive Bilanz vorweisen: Von den 51 Massnahmen sind bereits 34 umgesetzt. Doch das BAFU verzichtet auf jegliches Erhaltungsprojekt für den Apron, einziger Fisch seiner Gattung in der Schweiz, der zudem vom Aussterben bedroht ist (2023 wurde nur ein einziges Exemplar gefunden), obwohl eine eigene Studie des Bundesamtes das Projekt als umsetzbar eingestuft hat und einzig dessen Erfolg als ungewiss beurteilt.<br>Ist der Bundesrat bereit, diesen Entscheid zu überdenken, um eine Art nicht nur aufgrund blosser Zweifel aufzugeben?<\/p>",
+      "tags": "Environnement",
+      "tags_de": "Umwelt",
+      "tags_it": "Ambiente"
     },
     {
       "shortId": "26.4127",

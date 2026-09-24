@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-23T23:24:01",
-    "total_count": 163,
+    "updated": "2026-09-24T16:06:41",
+    "total_count": 164,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": "26.4261"
   },
   "session_summary": {
     "session_id": "2026-ete",
@@ -41,6 +41,23 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.4261",
+      "title": "COVID long et assurance-invalidité : garantir une application uniforme du droit fédéral dans tous les cantons",
+      "title_de": "Titel folgt",
+      "title_it": "Titolo segue",
+      "author": "Juillard Charles",
+      "party": "Le Centre",
+      "type": "Ip.",
+      "status": "Eingereicht / Déposé",
+      "council": "SR",
+      "date": "2026-09-24",
+      "date_maj": "2026-09-24",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264261",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264261",
+      "mention": "Titre uniquement",
+      "text": "<p>Le COVID long, ou affection post-COVID-19, peut entraîner des symptômes persistants et parfois sévères, notamment une fatigue importante, des troubles cognitifs, des troubles respiratoires ou une diminution durable de la capacité de travail.<\/p><p>Le Conseil fédéral a reconnu que les personnes atteintes de COVID long peuvent, lorsque les conditions légales sont remplies, bénéficier des prestations de l’assurance-invalidité (AI), notamment de mesures de réadaptation et, le cas échéant, d’une rente. Il précise toutefois qu’un diagnostic de COVID long ne donne pas automatiquement droit à une prestation : l’élément déterminant est l’existence d’une atteinte à la santé entraînant une diminution durable de la capacité de gain.<\/p><p>Par ailleurs, les offices AI sont des établissements de droit public dont la création relève des cantons. Leur organisation diffère donc d’un canton à l’autre, alors même qu’ils appliquent une assurance fondée sur le droit fédéral.<\/p><p>Des personnes concernées et des professionnels font état de différences dans la manière dont les dossiers de COVID long sont instruits et appréciés selon les cantons. Ces différences soulèvent la question de l’égalité de traitement des assurés et de l’application uniforme du droit fédéral.<\/p><p>&nbsp;<\/p>"
+    },
     {
       "shortId": "26.3891",
       "title": "Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques. Une contribution de solidarité temporaire prélevée sur les mouvements financiers",
@@ -88,7 +105,7 @@
     {
       "shortId": "26.7901",
       "title": "Mercosur : comment financer les 517 millions pour l'agriculture ?",
-      "title_de": "Titel folgt",
+      "title_de": "Mercosur: Wie sollen die 517 Millionen für die Landwirtschaft finanziert werden?",
       "author": "Dobler Loïc",
       "party": "PS",
       "type": "Fra.",
@@ -100,6 +117,7 @@
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
       "mention": "Titre uniquement",
       "text": "<p>Les Chambres fédérales ont validé l'accord avec le Mercosur, convaincues par une enveloppe de 517 millions de francs pour l'agriculture entre 2028 et 2033. Reste une question laissée dans l'ombre du débat : ce demi-milliard n'est financé par aucune source identifiée.<br>Le Conseil fédéral peut-il indiquer dès aujourd'hui où seront trouvées ces montants, et quels postes du budget fédéral seront concernés ?<\/p>",
+      "text_de": "<p>Die eidgenössischen Räte haben das Mercosur-Abkommen genehmigt, überzeugt durch zusätzliche Mittel in Höhe von 517&nbsp;Millionen&nbsp;Franken für die Landwirtschaft für die Jahre&nbsp;2028 bis 2033. Ein Detail verblieb jedoch in der Debatte ungeklärt: Für die halbe Milliarde besteht bislang keine konkrete Finanzierungsquelle.<br>Kann der Bundesrat bereits jetzt angeben, woher die erwähnten Mittel stammen sollen und welche Positionen des Bundeshaushalts betroffen sein werden?<\/p>",
       "tags": "Politique internationale|Finances|Agriculture",
       "tags_de": "Internationale Politik|Finanzwesen|Landwirtschaft",
       "tags_it": "Politica internazionale|Finanze|Agricoltura"

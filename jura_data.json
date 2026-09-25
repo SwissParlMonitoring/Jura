@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-24T23:43:55",
+    "updated": "2026-09-25T16:07:37",
     "total_count": 164,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -56,7 +56,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264261",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264261",
       "mention": "Titre uniquement",
-      "text": "<p>Le COVID long, ou affection post-COVID-19, peut entraîner des symptômes persistants et parfois sévères, notamment une fatigue importante, des troubles cognitifs, des troubles respiratoires ou une diminution durable de la capacité de travail.<\/p><p>Le Conseil fédéral a reconnu que les personnes atteintes de COVID long peuvent, lorsque les conditions légales sont remplies, bénéficier des prestations de l’assurance-invalidité (AI), notamment de mesures de réadaptation et, le cas échéant, d’une rente. Il précise toutefois qu’un diagnostic de COVID long ne donne pas automatiquement droit à une prestation : l’élément déterminant est l’existence d’une atteinte à la santé entraînant une diminution durable de la capacité de gain.<\/p><p>Par ailleurs, les offices AI sont des établissements de droit public dont la création relève des cantons. Leur organisation diffère donc d’un canton à l’autre, alors même qu’ils appliquent une assurance fondée sur le droit fédéral.<\/p><p>Des personnes concernées et des professionnels font état de différences dans la manière dont les dossiers de COVID long sont instruits et appréciés selon les cantons. Ces différences soulèvent la question de l’égalité de traitement des assurés et de l’application uniforme du droit fédéral.<\/p><p>&nbsp;<\/p>"
+      "text": "<p>Le COVID long, ou affection post-COVID-19, peut entraîner des symptômes persistants et parfois sévères, notamment une fatigue importante, des troubles cognitifs, des troubles respiratoires ou une diminution durable de la capacité de travail.<\/p><p>Le Conseil fédéral a reconnu que les personnes atteintes de COVID long peuvent, lorsque les conditions légales sont remplies, bénéficier des prestations de l’assurance-invalidité (AI), notamment de mesures de réadaptation et, le cas échéant, d’une rente. Il précise toutefois qu’un diagnostic de COVID long ne donne pas automatiquement droit à une prestation : l’élément déterminant est l’existence d’une atteinte à la santé entraînant une diminution durable de la capacité de gain.<\/p><p>Par ailleurs, les offices AI sont des établissements de droit public dont la création relève des cantons. Leur organisation diffère donc d’un canton à l’autre, alors même qu’ils appliquent une assurance fondée sur le droit fédéral.<\/p><p>Des personnes concernées et des professionnels font état de différences dans la manière dont les dossiers de COVID long sont instruits et appréciés selon les cantons. Ces différences soulèvent la question de l’égalité de traitement des assurés et de l’application uniforme du droit fédéral.<\/p><p>&nbsp;<\/p>",
+      "tags": "Politique d'Etat|Protection sociale|Santé",
+      "tags_de": "Staatspolitik|Sozialer Schutz|Gesundheit",
+      "tags_it": "Politica nazionale|Protezione sociale|Salute"
     },
     {
       "shortId": "26.3891",
@@ -111,6 +114,7 @@
       "type": "Fra.",
       "status": "Eingereicht / Déposé",
       "council": "NR",
+      "department": "WBF",
       "date": "2026-09-22",
       "date_maj": "2026-09-22",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-27T23:32:40",
+    "updated": "2026-09-28T18:57:28",
     "total_count": 164,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -112,11 +112,12 @@
       "author": "Dobler Loïc",
       "party": "PS",
       "type": "Fra.",
-      "status": "Eingereicht / Déposé",
+      "status": "Erledigt / Liquidé",
       "council": "NR",
       "department": "WBF",
       "date": "2026-09-22",
-      "date_maj": "2026-09-22",
+      "date_maj": "2026-09-28",
+      "statut_change_date": "2026-09-28",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
       "mention": "Titre uniquement",

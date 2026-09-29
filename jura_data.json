@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-28T18:57:28",
+    "updated": "2026-09-29T00:47:52",
     "total_count": 164,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -41,6 +41,27 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.7901",
+      "title": "Mercosur : comment financer les 517 millions pour l'agriculture ?",
+      "title_de": "Mercosur: Wie sollen die 517 Millionen für die Landwirtschaft finanziert werden?",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Fra.",
+      "status": "Erledigt / Liquidé",
+      "council": "NR",
+      "department": "WBF",
+      "date": "2026-09-22",
+      "date_maj": "2026-09-28",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
+      "mention": "Titre uniquement",
+      "text": "<p>Les Chambres fédérales ont validé l'accord avec le Mercosur, convaincues par une enveloppe de 517 millions de francs pour l'agriculture entre 2028 et 2033. Reste une question laissée dans l'ombre du débat : ce demi-milliard n'est financé par aucune source identifiée.<br>Le Conseil fédéral peut-il indiquer dès aujourd'hui où seront trouvées ces montants, et quels postes du budget fédéral seront concernés ?<\/p>",
+      "text_de": "<p>Die eidgenössischen Räte haben das Mercosur-Abkommen genehmigt, überzeugt durch zusätzliche Mittel in Höhe von 517&nbsp;Millionen&nbsp;Franken für die Landwirtschaft für die Jahre&nbsp;2028 bis 2033. Ein Detail verblieb jedoch in der Debatte ungeklärt: Für die halbe Milliarde besteht bislang keine konkrete Finanzierungsquelle.<br>Kann der Bundesrat bereits jetzt angeben, woher die erwähnten Mittel stammen sollen und welche Positionen des Bundeshaushalts betroffen sein werden?<\/p>",
+      "tags": "Politique internationale|Finances|Agriculture",
+      "tags_de": "Internationale Politik|Finanzwesen|Landwirtschaft",
+      "tags_it": "Politica internazionale|Finanze|Agricoltura"
+    },
     {
       "shortId": "26.4261",
       "title": "COVID long et assurance-invalidité : garantir une application uniforme du droit fédéral dans tous les cantons",
@@ -104,28 +125,6 @@
       "tags": "Finances|Fiscalité|Protection sociale",
       "tags_de": "Finanzwesen|Steuer|Sozialer Schutz",
       "tags_it": "Finanze|Imposte|Protezione sociale"
-    },
-    {
-      "shortId": "26.7901",
-      "title": "Mercosur : comment financer les 517 millions pour l'agriculture ?",
-      "title_de": "Mercosur: Wie sollen die 517 Millionen für die Landwirtschaft finanziert werden?",
-      "author": "Dobler Loïc",
-      "party": "PS",
-      "type": "Fra.",
-      "status": "Erledigt / Liquidé",
-      "council": "NR",
-      "department": "WBF",
-      "date": "2026-09-22",
-      "date_maj": "2026-09-28",
-      "statut_change_date": "2026-09-28",
-      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
-      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267901",
-      "mention": "Titre uniquement",
-      "text": "<p>Les Chambres fédérales ont validé l'accord avec le Mercosur, convaincues par une enveloppe de 517 millions de francs pour l'agriculture entre 2028 et 2033. Reste une question laissée dans l'ombre du débat : ce demi-milliard n'est financé par aucune source identifiée.<br>Le Conseil fédéral peut-il indiquer dès aujourd'hui où seront trouvées ces montants, et quels postes du budget fédéral seront concernés ?<\/p>",
-      "text_de": "<p>Die eidgenössischen Räte haben das Mercosur-Abkommen genehmigt, überzeugt durch zusätzliche Mittel in Höhe von 517&nbsp;Millionen&nbsp;Franken für die Landwirtschaft für die Jahre&nbsp;2028 bis 2033. Ein Detail verblieb jedoch in der Debatte ungeklärt: Für die halbe Milliarde besteht bislang keine konkrete Finanzierungsquelle.<br>Kann der Bundesrat bereits jetzt angeben, woher die erwähnten Mittel stammen sollen und welche Positionen des Bundeshaushalts betroffen sein werden?<\/p>",
-      "tags": "Politique internationale|Finances|Agriculture",
-      "tags_de": "Internationale Politik|Finanzwesen|Landwirtschaft",
-      "tags_it": "Politica internazionale|Finanze|Agricoltura"
     },
     {
       "shortId": "26.7687",

@@ -1,10 +1,10 @@
 {
   "meta": {
-    "updated": "2026-09-30T00:02:50",
-    "total_count": 164,
+    "updated": "2026-09-30T17:16:45",
+    "total_count": 166,
     "source": "Swiss Parliament API",
     "legislature": 52,
-    "new_ids": []
+    "new_ids": ["26.4338", "26.4339"]
   },
   "session_summary": {
     "session_id": "2026-ete",
@@ -41,6 +41,40 @@
     }
   },
   "items": [
+    {
+      "shortId": "26.4338",
+      "title": "Détention d'armes : reprendre le mécanisme AI de signalement existant pour l'aptitude à la conduite",
+      "title_de": "Titel folgt",
+      "title_it": "Titolo segue",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Mo.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-30",
+      "date_maj": "2026-09-30",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264338",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264338",
+      "mention": "Titre uniquement",
+      "text": "<p>Le Conseil fédéral est chargé de proposer une modification de la LAI transposant au domaine des armes le mécanisme de l'art. 66c LAI :<\/p><ol style=\"list-style-type:decimal;\"><li>l'office AI qui a des motifs sérieux de penser qu'une personne assurée n'a pas les capacités physiques ou psychiques nécessaires pour détenir une arme sans mettre en danger sa propre personne ou celle d'autrui peut la signaler à l'autorité cantonale compétente ;<\/li><li>il en informe la personne concernée ;<\/li><li>il remet les documents correspondants au cas par cas et sur demande ;<\/li><li>l'autorité cantonale vérifie l'existence d'une autorisation ou d'une détention enregistrée et apprécie les mesures à prendre selon les art. 8 al. 2 et 31 LArm ; l'annonce sans correspondance est classée sans suite.<\/li><\/ol>"
+    },
+    {
+      "shortId": "26.4339",
+      "title": "Chômage des seniors : la Confédération se désengage-t-elle au pire moment ?",
+      "title_de": "Titel folgt",
+      "title_it": "Titolo segue",
+      "author": "Dobler Loïc",
+      "party": "PS",
+      "type": "Ip.",
+      "status": "Eingereicht / Déposé",
+      "council": "NR",
+      "date": "2026-09-30",
+      "date_maj": "2026-09-30",
+      "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264339",
+      "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264339",
+      "mention": "Titre uniquement",
+      "text": "<p>Entre fin 2025 et début 2026, deux dispositifs fédéraux clés pour la réinsertion des personnes de 50 ans et plus ont pris fin : le financement de viamia (bilan professionnel dès 40 ans), transféré aux cantons dès le 1er janvier 2026, et le programme d'impulsion 2020-2026 (35 projets, 22 cantons), dont les évaluations ont été publiées le 17 février 2026. Le chômage des 50-64 ans augmente plus vite que le chômage général. Je prie le Conseil fédéral de répondre aux questions suivantes.<\/p><ol><li>Dispose-t-il d'un état des lieux de la reprise de viamia par les cantons ? Observe-t-il des inégalités de couverture ?<\/li><li>Envisage-t-il un mécanisme pour maintenir une couverture nationale de viamia ?<\/li><li>Quelles approches du programme d'impulsion entend-il pérenniser, selon quel calendrier et financement, y compris celles de l'essai-pilote « Supported Employment » ?<\/li><li>L'allocation d'initiation au travail finance déjà jusqu'à 60% du salaire d'un senior engagé, durant six mois, mais reste méconnue des employeurs. Que compte-t-il faire pour améliorer sa notoriété auprès des PME ?<\/li><li>L'Office fédéral de la statistique a déjà réalisé, ponctuellement, une évaluation du devenir des personnes arrivées en fin de droit. Le Conseil fédéral est-il prêt à transformer cette démarche en indicateur permanent, publié chaque année, pour les 50 ans et plus ?<\/li><\/ol>"
+    },
     {
       "shortId": "26.7901",
       "title": "Mercosur : comment financer les 517 millions pour l'agriculture ?",

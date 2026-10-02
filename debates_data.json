@@ -1,10 +1,10 @@
 {
   "meta": {
     "sessions": "5215",
-    "count": 754,
-    "updated": "2026-10-02 00:38:36.547942"
+    "count": 756,
+    "updated": "2026-10-02 17:44:01.357732"
   },
-  "new_ids": ["421339", "421372", "421696", "421714", "421730", "421776", "421913", "422272", "422336", "422488", "422133", "422153", "422179", "422186", "422726", "422802", "422848", "423025", "423106"],
+  "new_ids": ["421339", "421372", "421696", "421714", "421730", "421776", "421913", "422272", "422336", "422488", "422133", "422153", "422179", "422186", "422726", "422802", "422848", "423025", "423106", "423293", "423297"],
   "items": [
     {
       "id": "329458",
@@ -14503,6 +14503,46 @@
       "business_title_de": "Aktuelle Debatte «Hitzewelle und Dürre»",
       "business_title_it": "Dibattito d'attualità «Canicola e siccità»",
       "text": "Herr Bundesrat, ich war diesen Sommer in der ganzen Schweiz unterwegs, in allen Sprachregionen. Überall war es heiss, aber am meisten beeindruckt hat mich bei uns der Jurasüdfuss-Wald. Werden Sie in Zukunft zusätzliche Massnahmen vorsehen, die den Schutzwald im Jura klimaresilienter machen?\n",
+      "language": "DE"
+    },
+    {
+      "id": "423293",
+      "id_subject": "83092",
+      "id_session": "5215",
+      "sort_order": 2,
+      "date": "20261002",
+      "council": "N",
+      "speaker": "Amaudruz Céline",
+      "function_speaker": "Mit-F",
+      "party": "V",
+      "canton": "GE",
+      "affair_id": "20190320",
+      "business_number": "19.320",
+      "business_title_fr": "Stopper une évolution scandaleuse des prix des médicaments",
+      "business_title_de": "Die skandalöse Entwicklung der Medikamentenpreise stoppen",
+      "business_title_it": "Arrestare un'evoluzione scandalosa dei prezzi dei medicamenti",
+      "department": "EDI",
+      "text": "Réunie le 21 août 2026, la Commission de la sécurité sociale et de la santé publique du Conseil national (CSSS-N) a examiné l'opportunité de classer l'initiative 19.320 du canton du Jura, \"Stopper une évolution scandaleuse des prix des médicaments\". L'initiative, comme vous le savez, vise à édicter de nouvelles bases légales donnant les moyens à l'Office fédéral de la santé publique de stopper la hausse des prix des médicaments, notamment des médicaments destinés au traitement du cancer, et à terme, de les faire baisser dans une mesure conforme à la raison. Je ne reviendrai pas sur le fond de cette initiative dans la mesure où nous en avons d'ores et déjà discuté. Je me permettrai peut-être un récapitulatif chronologique.\nLa Commission de la sécurité sociale et de la santé publique du Conseil des États (CSSS-E) a donné suite à l'initiative le 13 avril 2021, par 11 voix contre 0 et 1 abstention. La CSSS-N a également donné suite à cette initiative le 13 janvier 2022, par 12 voix contre 10 et 2 abstentions. Le Conseil des États a alors été désigné comme conseil prioritaire pour son examen.\nL'examen de l'initiative du canton du Jura a toujours été lié au deuxième volet de mesures visant à freiner la hausse des coûts dans le domaine de la santé. La CSSS-E a donné suite à l'initiative dans l'intention d'examiner son objectif dans le cadre de ce deuxième volet de mesures. C'est la raison pour laquelle elle n'a pas commencé les travaux d'élaboration d'un projet d'acte visant à mettre en oeuvre cette initiative. Elle souhaitait attendre l'adoption du deuxième volet de mesures. Le 30 janvier 2024, elle a donc proposé à son conseil, à l'unanimité, de prolonger le délai de traitement de l'initiative. À l'époque, la CSSS-E était encore en plein examen du deuxième volet de mesures visant à freiner la hausse des coûts dans le domaine de la santé. Le 5 mars 2024, le Conseil des États a suivi cette proposition sans opposition.\nLe 27 janvier 2026, la CSSS-E s'est à nouveau penchée sur l'initiative. Par 6 voix contre 4 et 1 abstention, elle a proposé à son conseil de classer l'initiative, le Parlement ayant entre-temps adopté le deuxième volet de mesures visant à freiner la hausse des coûts dans le domaine de la santé.\nLe 3 mars 2026, le Conseil des États a suivi cette proposition sans opposition.\nLa majorité de la commission propose de classer l'initiative, le Parlement ayant adopté au printemps 2025 le deuxième volet de mesures visant à freiner la hausse des coûts dans le domaine de la santé, dont une partie importante concerne les médicaments. Les mesures adoptées s'attaquent à différentes problématiques. Grâce à un examen différencié des critères d'efficacité, d'adéquation et d'économicité, il s'agit notamment de garantir l'approvisionnement en génériques ou en autres médicaments peu coûteux. Les modèles d'impact budgétaire, quant à eux, visent à freiner la hausse des coûts des médicaments bien établis, générant un chiffre d'affaires important. En outre, l'inscription dans la loi des modèles de prix déjà pratiqués et un nouveau modèle de remboursement des médicaments dès le premier jour de l'autorisation doivent garantir l'accès aux médicaments innovants.\nPour la majorité de la commission, il est incontestable qu'il faut, malgré ces mesures, poursuivre les efforts pour freiner la hausse des coûts dans le domaine des médicaments et que toutes les questions portant sur l'accès aux médicaments ou leur approvisionnement ne sont pas réglées. Elle estime toutefois que l'objectif de l'initiative du canton du Jura a été pris en considération dans le deuxième volet de mesures visant à freiner la hausse des coûts et que l'initiative peut donc être classée.\nLa minorité de la commission souligne que le problème des prix élevés, voire excessifs, des médicaments est toujours d'actualité en dépit de l'adoption par le Parlement du deuxième volet de mesures visant à freiner la hausse des coûts dans le domaine de la santé. Selon elle, les débats sur les répercussions de la politique des États-Unis dans ce domaine montrent que les prix des médicaments restent sous pression. C'est pourquoi elle estime que classer l'initiative maintenant enverrait un mauvais signal. Il faut continuer de tout mettre en oeuvre pour que les assurés et les assurées ne payent pas les médicaments au prix fort. Pour ces raisons, la minorité propose de ne pas classer l'initiative.\nLa commission vous recommande de classer l'initiative, par 17 voix contre 7.\n",
+      "language": "DE"
+    },
+    {
+      "id": "423297",
+      "id_subject": "83092",
+      "id_session": "5215",
+      "sort_order": 4,
+      "date": "20261002",
+      "council": "N",
+      "speaker": "Weichelt Manuela",
+      "function_speaker": "Mit-F",
+      "party": "G",
+      "canton": "ZG",
+      "affair_id": "20190320",
+      "business_number": "19.320",
+      "business_title_fr": "Stopper une évolution scandaleuse des prix des médicaments",
+      "business_title_de": "Die skandalöse Entwicklung der Medikamentenpreise stoppen",
+      "business_title_it": "Arrestare un'evoluzione scandalosa dei prezzi dei medicamenti",
+      "department": "EDI",
+      "text": "Mon canton nage dans l'argent des riches, qu'ils soient étrangers ou Suisses, provenant d'autres cantons, attirés par le fisc zougois. Le canton du Jura est un canton qui doit se débattre avec une situation financière beaucoup plus compliquée. Il entend sa population qui souffre et il nous demande quelque chose de simple : la hausse du prix des médicaments doit être stoppée. Nous devons l'écouter attentivement et répondre à cette demande. La majorité de la commission ne l'a malheureusement pas fait.\nLa majorité propose de classer l'initiative du canton du Jura, car le Parlement aurait adopté des mesures importantes dans le domaine des médicaments au printemps 2025, dans le cadre du deuxième volet de mesures visant à freiner la hausse des coûts. C'est une grande hypocrisie que de prétendre cela.\nSelon son communiqué de presse du 21 août 2026, la commission a, en effet, recommandé au Conseil fédéral d'attendre avant d'adopter la plupart des modifications d'ordonnances visant à mettre en oeuvre les rabais de quantité et d'autres nouvelles mesures dans le domaine des médicaments.\nNous avons appris mardi que la hausse des primes d'assurance-maladie sera de 5 pour cent. La hausse du prix des médicaments est à nouveau responsable, pour une part, de cette explosion des primes. Même la très libérale \"NZZ\" a dénoncé les marges de bénéfices sur les médicaments contre le cancer. Elle a écrit il y a un an que les chiffres qu'elle a recueillis montrent que les bénéfices des grands laboratoires pharmaceutiques ne sont que partiellement consacrés à la recherche et au développement et que ce sont surtout les actionnaires qui profitent de dividendes en constante augmentation.\nLa \"NZZ\" en déduit donc qu'il y aurait une marge de manoeuvre pour compenser la pression sur les prix aux États-Unis.\nConclusion : nous avons décidé des mesures au printemps 2025, qui n'ont pas été mises en oeuvre et qui n'auront que peu d'effet. Le code pénal suisse réprime l'omission de porter secours. Le Parlement n'a moralement pas le droit d'ignorer et de classer l'initiative déposée par le canton du Jura. Le Parlement jurassien compte sur nous. Il nous l'a écrit il y a deux jours.\nJe vous remercie de suivre la minorité de la commission.\nFür die Deutschschweizerinnen und Deutschschweizer: Ich bitte Sie, die Standesinitiative Jura zu unterstützen. \n",
       "language": "DE"
     },
     {

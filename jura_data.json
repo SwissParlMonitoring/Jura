@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-04T23:47:07",
+    "updated": "2026-10-05T19:58:42",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -451,7 +451,7 @@
     {
       "shortId": "26.3916",
       "title": "Garantir le fonctionnement de la ligne d'aide aux victimes 142 sur l'ensemble du territoire",
-      "title_de": "Gewährleistung des Betriebs der Opferhilfe-Nummer 142 in der ganzen Schweiz",
+      "title_de": "Gewährleistung des Betriebs der Opferhilfenummer 142 in der ganzen Schweiz",
       "title_it": "Garantire il funzionamento della linea di assistenza alle vittime 142 su tutto il territorio",
       "author": "Crevoisier Crelier Mathilde",
       "party": "PS",

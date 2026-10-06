@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-06T01:40:25",
+    "updated": "2026-10-06T17:37:22",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -55,7 +55,10 @@
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264701",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20264701",
       "mention": "Élu",
-      "text": "<p>Le Conseil fédéral est chargé de garantir la mise à disposition des moyens financiers visant à concrétiser les objectifs et mesures du plan d’action Doubs pendant toute la durée de celui-ci, au besoin en priorisant ces projets au sein des crédits concernés.<\/p>"
+      "text": "<p>Le Conseil fédéral est chargé de garantir la mise à disposition des moyens financiers visant à concrétiser les objectifs et mesures du plan d’action Doubs pendant toute la durée de celui-ci, au besoin en priorisant ces projets au sein des crédits concernés.<\/p>",
+      "tags": "Finances|Environnement",
+      "tags_de": "Finanzwesen|Umwelt",
+      "tags_it": "Finanze|Ambiente"
     },
     {
       "shortId": "26.3563",
@@ -675,11 +678,12 @@
       "author": "Dobler Loïc",
       "party": "PS",
       "type": "Fra.",
-      "status": "Stellungnahme zum Vorstoss liegt vor / L’avis relatif à l’intervention est disponible",
+      "status": "Erledigt / Liquidé",
       "council": "NR",
       "department": "EJPD",
       "date": "2026-06-08",
-      "date_maj": "2026-06-15",
+      "date_maj": "2026-10-06",
+      "statut_change_date": "2026-10-06",
       "url_fr": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267473",
       "url_de": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20267473",
       "mention": "Titre uniquement",

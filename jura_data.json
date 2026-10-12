@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-12T00:09:15",
+    "updated": "2026-10-12T20:36:20",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -250,7 +250,7 @@
     },
     {
       "shortId": "26.3891",
-      "title": "Pour une nouvelle source de financement des grands dossiers en charge des collectivités publiques. Une contribution de solidarité temporaire prélevée sur les mouvements financiers",
+      "title": "Pour une nouvelle source de financement des grands dossiers dont les collectivités publiques ont la charge. Une contribution de solidarité temporaire prélevée sur les mouvements financiers",
       "title_de": "Für eine neue Finanzierungsquelle für grosse öffentliche Ausgabenposten. Eine befristete Solidaritätsabgabe auf den Zahlungsverkehr",
       "title_it": "Una nuova fonte di finanziamento per i grandi progetti a carico delle collettività pubbliche. Un contributo di solidarietà temporaneo prelevato sui movimenti finanziari",
       "author": "Juillard Charles",

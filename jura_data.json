@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-14T23:36:23",
+    "updated": "2026-10-15T16:00:18",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -500,7 +500,7 @@
     },
     {
       "shortId": "26.3968",
-      "title": "Il faut sauver le Roi du Doubs avant qu'il ne soit trop tard",
+      "title": "Il faut sauver le \"Roi du Doubs\" avant qu'il ne soit trop tard",
       "title_de": "Der \"Roi du Doubs\" muss gerettet werden, bevor es zu spät ist",
       "title_it": "Bisogna salvare il re del Doubs prima che sia troppo tardi",
       "author": "Chollet Clarence",

@@ -1007,6 +1007,19 @@ mark.highlight-search {
         flex-direction: column;
         gap: 0.25rem;
     }
+
+    .card .card-meta:has(> .card-party-badge) {
+        display: grid;
+        grid-template-columns: minmax(0, max-content) max-content;
+        justify-content: start;
+        align-items: center;
+        gap: 0.25rem 0.5rem;
+        text-align: left;
+    }
+
+    .card .card-meta:has(> .card-party-badge) > span:last-child {
+        grid-column: 1 / -1;
+    }
     
     table {
         font-size: 0.8rem;

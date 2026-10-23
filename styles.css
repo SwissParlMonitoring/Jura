@@ -2732,6 +2732,9 @@ a.author-row {
 
 /* Badge parti inline */
 .card-party-badge {
+    width: fit-content;
+    justify-self: start;
+    flex-shrink: 0;
     color: white;
     padding: 2px 8px;
     border-radius: 4px;

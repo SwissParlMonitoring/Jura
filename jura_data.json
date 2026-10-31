@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-30T17:28:11",
+    "updated": "2026-10-31T00:17:40",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -1018,7 +1018,6 @@
       "title": "Constitutions révisées des cantons de Berne, de Glaris, de Neuchâtel, de Genève et du Jura. Garantie",
       "title_de": "Geänderte Verfassungen der Kantone Bern, Glarus, Neuenburg, Genf und Jura. Gewährleistung",
       "title_it": "Costituzioni rivedute dei Cantoni di Berna, Glarona, Neuchâtel, Ginevra e Giura. Conferimento",
-      "party": "Commissions",
       "type": "BRG",
       "status": "Erledigt / Liquidé",
       "department": "EJPD",
@@ -2366,7 +2365,6 @@
       "title": "Modification du territoire des cantons de Berne et du Jura (Transfert de la commune bernoise de Moutier). Approbation",
       "title_de": "Gebietsveränderung zwischen den Kantonen Bern und Jura (Kantonswechsel der bernischen Gemeinde Moutier). Genehmigung",
       "title_it": "Modifica territoriale tra i Cantoni di Berna e del Giura (trasferimento del Comune bernese di Moutier). Approvazione",
-      "party": "Commissions",
       "type": "BRG",
       "status": "Erledigt / Liquidé",
       "department": "EJPD",
@@ -3009,7 +3007,6 @@
       "title": "Constitutions des cantons de Berne, de Vaud, de Genève et du Jura. Garantie",
       "title_de": "Kantonsverfassungen Bern, Waadt, Genf und Jura. Gewährleistung",
       "title_it": "Costituzioni Cantoni di Berna, Vaud, Ginevra e del Giura. Garanzia ",
-      "party": "Commissions",
       "type": "BRG",
       "status": "Erledigt / Liquidé",
       "department": "EJPD",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-11T01:01:01",
+    "updated": "2026-11-11T19:01:40",
     "total_count": 168,
     "source": "Swiss Parliament API",
     "legislature": 52,
@@ -31,7 +31,7 @@
       "shortId": ["26.4127", "26.4701", "26.4418", "26.4338", "26.4339", "26.7901", "26.4261", "26.7687", "26.7688", "26.4169", "26.4146", "26.7829"],
       "title": ["Renforcer la gestion des menaces à l'échelle nationale, améliorer la détection précoce et empêcher les actes violents", "Garantir la concrétisation complète du Plan d'action Doubs", "Primes maladie. Le ping-pong des responsabilités", "Détention d'armes. Reprendre le mécanisme AI de signalement existant pour l'aptitude à la conduite", "Chômage des seniors. La Confédération se désengage-t-elle au pire moment ?", "Mercosur : comment financer les 517 millions pour l'agriculture ?", "COVID long et assurance-invalidité. Garantir une application uniforme du droit fédéral dans tous les cantons", "Sécurité aux frontières : l'instabilité comme mode de gestion ?", "Fret ferroviaire : la Suisse romande sacrifiée ? ", "Rendre la LAVS et la LAI compatibles avec l'ordonnance sur l'aide au recouvrement", "Introduction du bison d'Europe dans le Jura. Sécurité, responsabilité et conséquences d'une mise en liberté", "La Confédération abandonne l'apron du Doubs"],
       "title_de": ["Bedrohungsmanagement schweizweit stärken, Gefährdung früh erkennen und Gewalttaten verhindern", "Die vollständige Umsetzung des Aktionsplans für den Doubs sicherstellen", "Krankenkassenprämien. Pingpong mit der Verantwortung", "Waffenbesitz. Übernahme des für die Fahreignung bestehenden IV-Meldeverfahrens ", "Arbeitslosigkeit bei älteren Personen. Zieht sich der Bund im denkbar ungünstigsten Moment zurück?", "Mercosur: Wie sollen die 517 Millionen für die Landwirtschaft finanziert werden?", "Long-Covid und Invalidenversicherung. Die einheitliche Anwendung des Bundesrechts in allen Kantonen sicherstellen", "Grenzsicherheit: Instabilität als Führungsstil?", "Schienengüterverkehr: Wird die Westschweiz geopfert? ", "AHV- und IV-Gesetz mit der Inkassohilfeverordnung in Einklang bringen", "Wiederansiedlung des Wisents im Jura. Sicherheit, Haftung und Folgen einer Freilassung", "Der Bund gibt den Apron im Doubs auf"],
-      "title_it": ["Rafforzare la gestione delle minacce a livello nazionale, individuare precocemente i rischi e prevenire gli atti di violenza", "Titolo segue", "Premi di cassa malati. Il rimpallo delle responsabilità", "Detenzione di armi. Riprendere il meccanismo di comunicazione previsto dall'AI per la capacità di condurre", "Disoccupazione dei senior. La Confederazione si sottrae ai suoi impegni proprio nel momento peggiore?", null, "Sindrome post COVID-19 e assicurazione invalidità. Garantire un'applicazione uniforme del diritto federale in tutti i Cantoni", null, null, "Rendere la LAVS e la LAI compatibili con l'ordinanza sull'aiuto all'incasso", "Reintroduzione del bisonte europeo nel Giura. Sicurezza, responsabilità e conseguenze del rilascio in libertà", null],
+      "title_it": ["Rafforzare la gestione delle minacce a livello nazionale, individuare precocemente i rischi e prevenire gli atti di violenza", "Garantire la completa attuazione del Piano d'azione Doubs", "Premi di cassa malati. Il rimpallo delle responsabilità", "Detenzione di armi. Riprendere il meccanismo di comunicazione previsto dall'AI per la capacità di condurre", "Disoccupazione dei senior. La Confederazione si sottrae ai suoi impegni proprio nel momento peggiore?", null, "Sindrome post COVID-19 e assicurazione invalidità. Garantire un'applicazione uniforme del diritto federale in tutti i Cantoni", null, null, "Rendere la LAVS e la LAI compatibili con l'ordinanza sull'aiuto all'incasso", "Reintroduzione del bisonte europeo nel Giura. Sicurezza, responsabilità e conseguenze del rilascio in libertà", null],
       "author": ["Locher Miriam", "Crevoisier Crelier Mathilde", "Dobler Loïc", "Dobler Loïc", "Dobler Loïc", "Dobler Loïc", "Juillard Charles", "Dobler Loïc", "Dobler Loïc", "Dobler Loïc", "Stettler Thomas", "Dobler Loïc"],
       "party": ["PS", "PS", "PS", "PS", "PS", "PS", "Le Centre", "PS", "PS", "PS", "UDC", "PS"],
       "type": ["Ip.", "Mo.", "Ip.", "Mo.", "Ip.", "Fra.", "Ip.", "Fra.", "Fra.", "Mo.", "Ip.", "Fra."],
@@ -87,7 +87,7 @@
       "shortId": "26.4701",
       "title": "Garantir la concrétisation complète du Plan d'action Doubs",
       "title_de": "Die vollständige Umsetzung des Aktionsplans für den Doubs sicherstellen",
-      "title_it": "Titolo segue",
+      "title_it": "Garantire la completa attuazione del Piano d'azione Doubs",
       "author": "Crevoisier Crelier Mathilde",
       "party": "PS",
       "type": "Mo.",
